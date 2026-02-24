@@ -15,77 +15,72 @@ export type Service = {
   features: string[];
 };
 
+export const industriesServed = [
+  "Home Services",
+  "Real Estate",
+  "Med Spas",
+  "Restaurants",
+  "E-Commerce",
+  "Fitness",
+  "Legal",
+  "Financial Services",
+  "SaaS",
+  "Construction",
+  "Roofing",
+  "HVAC",
+  "Dental",
+  "Automotive",
+  "Insurance",
+  "Education",
+];
+
 export const services: Service[] = [
   {
-    title: "Media Buying (Meta / Google / TikTok)",
+    title: "Paid Media Management",
     price: "Custom Retainer",
     description:
-      "Performance-focused campaign management built to scale qualified leads and sales across paid channels.",
+      "We don't guess. We test, optimize, and scale across the channels that drive measurable revenue.",
     features: [
-      "Audience strategy and campaign architecture",
-      "Creative testing roadmap",
-      "Weekly optimization and reporting",
-      "Funnel KPI monitoring and scaling",
+      "Meta Ads (Facebook & Instagram)",
+      "Google Ads (Search, Display, YouTube)",
+      "TikTok Ads + retargeting audiences",
+      "Creative strategy, ad copy, weekly reporting",
     ],
   },
   {
-    title: "White Label Media Buying",
-    price: "$500/mo per ad account",
+    title: "Website Design & Development",
+    price: "Starting at $500",
     description:
-      "Reliable paid media execution for agencies that need backend fulfillment without sacrificing results.",
+      "Conversion-first websites built to turn clicks into customers and support lead generation from day one.",
     features: [
-      "Meta campaign setup and management",
-      "Agency-friendly communication cadence",
-      "Optimization and budget pacing",
-      "Performance reporting for your clients",
+      "Mobile-first and built for speed",
+      "SEO-optimized from launch",
+      "CRM-ready forms and integrations",
+      "Conversion-focused layout and CTA structure",
     ],
   },
   {
     title: "Full-Service Digital Marketing",
     price: "$3,500/mo",
     description:
-      "End-to-end growth support combining paid media, strategy, creative direction, and funnel optimization.",
+      "One team handling strategy, creative, media buying, analytics, and optimization under one roof.",
     features: [
-      "Cross-channel marketing plan",
-      "Lead flow and conversion optimization",
-      "Creative and messaging guidance",
-      "Monthly strategy reviews",
+      "Strategy, creative, media buying, reporting",
+      "Dedicated account manager",
+      "Monthly strategy calls",
+      "Performance optimization across campaigns",
     ],
   },
   {
-    title: "Website Development",
-    price: "$500/site",
+    title: "White-Label Media Buying",
+    price: "$500/mo per account",
     description:
-      "High-converting, mobile-first websites designed to support campaigns and turn traffic into opportunities.",
+      "Agency partners can outsource media buying to our team while keeping the client relationship and branding.",
     features: [
-      "Responsive landing page or site build",
-      "Conversion-focused layout",
-      "Lead capture forms and CTA placement",
-      "Fast turnaround and revisions",
-    ],
-  },
-  {
-    title: "Lead Generation",
-    price: "Custom Engagement",
-    description:
-      "Pipeline-first lead generation systems tailored to your sales process, offer, and target market.",
-    features: [
-      "Offer positioning and lead magnet planning",
-      "Lead capture funnel setup",
-      "CRM-ready lead delivery options",
-      "Performance tracking by source",
-    ],
-  },
-  {
-    title: "Marketing Strategy",
-    price: "Custom / Advisory",
-    description:
-      "Strategic planning for businesses that need clarity on channels, messaging, budget allocation, and growth priorities.",
-    features: [
-      "Market positioning review",
-      "Channel and budget recommendations",
-      "Campaign roadmap and priorities",
-      "Execution oversight guidance",
+      "For agencies that need backend fulfillment",
+      "Your branding, our media buying expertise",
+      "Slack communication + weekly reporting",
+      "Built to retain clients through performance",
     ],
   },
 ];

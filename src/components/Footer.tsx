@@ -13,11 +13,11 @@ export function Footer() {
               className="h-11 w-auto"
             />
             <p className="mt-4 max-w-md text-sm leading-6 text-white/70">
-              {site.tagline}. Performance-driven marketing strategies designed to generate leads, grow revenue,
-              and improve ROI.
+              {site.tagline}. Performance-driven marketing systems built to generate leads, grow revenue, and improve
+              ROI.
             </p>
             <Link to="/contact" className="btn-primary mt-5 text-sm">
-              Schedule a Free Strategy Call
+              Book a Strategy Call
             </Link>
           </div>
 
@@ -29,6 +29,14 @@ export function Footer() {
               </a>
               <a href={site.emailHref} className="block hover:text-elite-gold">
                 {site.email}
+              </a>
+              <a
+                href="https://socialelitemarketinggroup.com"
+                target="_blank"
+                rel="noreferrer"
+                className="block hover:text-elite-gold"
+              >
+                socialelitemarketinggroup.com
               </a>
             </div>
           </div>
@@ -45,26 +53,37 @@ export function Footer() {
               <Link to="/results" className="hover:text-elite-gold">
                 Results
               </Link>
+              <Link to="/funding" className="hover:text-elite-gold">
+                Funding
+              </Link>
+              <Link to="/music" className="hover:text-elite-gold">
+                Music
+              </Link>
+              <Link to="/evergreen" className="hover:text-elite-gold">
+                Evergreen
+              </Link>
               <Link to="/about" className="hover:text-elite-gold">
                 About
               </Link>
-              <div className="mt-2 flex gap-4">
-                <a href="https://www.facebook.com" target="_blank" rel="noreferrer" className="hover:text-elite-gold">
-                  Facebook
-                </a>
-                <a href="https://www.instagram.com" target="_blank" rel="noreferrer" className="hover:text-elite-gold">
-                  Instagram
-                </a>
-                <a href="https://www.linkedin.com" target="_blank" rel="noreferrer" className="hover:text-elite-gold">
-                  LinkedIn
-                </a>
-              </div>
             </div>
           </div>
         </div>
 
         <div className="mt-10 border-t border-elite-line pt-6 text-xs text-white/50">
-          © {new Date().getFullYear()} {site.name}. All rights reserved.
+          <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+            <p>© 2017-2026 {site.name}. All rights reserved.</p>
+            <p>
+              Powered by{" "}
+              <a
+                href="https://crowdsync.ai"
+                target="_blank"
+                rel="noreferrer"
+                className="text-elite-gold hover:text-elite-gold/80"
+              >
+                CrowdSync
+              </a>
+            </p>
+          </div>
         </div>
       </div>
     </footer>

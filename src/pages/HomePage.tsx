@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
-import { resultCards, services } from "../lib/data";
+import { industriesServed, resultCards, services } from "../lib/data";
 
 const stats = [
-  { label: "Active Clients", value: "13+" },
-  { label: "Years Experience", value: "6+" },
-  { label: "Industries Served", value: "Multiple" },
+  { label: "Industries Served", value: "50+" },
+  { label: "Est. 2017", value: "Nearly a Decade" },
+  { label: "in Ad Spend Managed", value: "Millions" },
 ];
 
 export function HomePage() {
@@ -18,21 +18,19 @@ export function HomePage() {
               Social Elite Marketing Group, LLC
             </p>
             <h1 className="mt-4 font-display text-4xl font-semibold leading-tight sm:text-5xl lg:text-6xl">
-              <span className="block">Performance Marketing</span>
-              <span className="mt-2 block bg-gold-gradient bg-clip-text text-transparent">
-                Where Strategy Meets Results
-              </span>
+              <span className="block">We Turn Ad Spend</span>
+              <span className="mt-2 block bg-gold-gradient bg-clip-text text-transparent">Into Revenue. Period.</span>
             </h1>
             <p className="mt-5 max-w-2xl text-base leading-7 text-white/75 sm:text-lg">
-              We build and optimize growth systems for service businesses and brands that need more qualified leads,
-              stronger conversion performance, and clear ROI from their marketing spend.
+              Social Elite has spent nearly a decade helping businesses across 50+ industries generate leads, close
+              deals, and scale profitably through paid media.
             </p>
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
               <Link to="/contact" className="btn-primary">
                 Book a Strategy Call
               </Link>
               <Link to="/results" className="btn-secondary">
-                See Real Campaign Results
+                See Our Results
               </Link>
             </div>
           </div>
@@ -48,8 +46,8 @@ export function HomePage() {
                     className="h-16 w-auto sm:h-20"
                   />
                   <p className="mt-4 text-sm text-white/75">
-                    Paid media, lead generation, websites, and growth strategy aligned around measurable business
-                    outcomes.
+                    Paid media, websites, full-service growth support, and white-label media buying built around
+                    measurable business outcomes.
                   </p>
                 </div>
                 <div className="mt-4 grid gap-3 sm:grid-cols-2">
@@ -88,13 +86,13 @@ export function HomePage() {
         <div className="mb-8 flex items-end justify-between gap-4">
           <div>
             <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Services</p>
-            <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">Built for growth-focused businesses</h2>
+            <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">What We Do</h2>
           </div>
           <Link to="/services" className="hidden text-sm font-medium text-elite-gold hover:text-elite-gold/80 sm:block">
             View all services
           </Link>
         </div>
-        <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+        <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
           {services.map((service, idx) => (
             <div
               key={service.title}
@@ -117,13 +115,37 @@ export function HomePage() {
       </section>
 
       <section className="section-shell py-10 sm:py-14">
-        <div className="mb-8">
-          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Proof / Results</p>
-          <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">Campaign examples across industries</h2>
-          <p className="mt-3 max-w-3xl text-sm leading-6 text-white/70 sm:text-base">
-            Actual ad account screenshots and campaign examples from client work. We focus on performance decisions
-            that improve lead quality, conversion efficiency, and scalability.
+        <div className="glass-card animate-fade-up p-6 sm:p-8">
+          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Who We Serve</p>
+          <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">Built for businesses across 50+ industries</h2>
+          <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base">
+            {industriesServed.join(" · ")} + more
           </p>
+        </div>
+      </section>
+
+      <section className="section-shell py-10 sm:py-14">
+        <div className="mb-8">
+          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Social Proof</p>
+          <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">Real screenshots. Real results.</h2>
+          <p className="mt-3 max-w-3xl text-sm leading-6 text-white/70 sm:text-base">
+            Placeholder sections below are ready for Google Drive assets and video testimonial embeds. Current example
+            screenshots remain in place so the layout stays production-ready while assets are finalized.
+          </p>
+        </div>
+        <div className="mb-6 grid gap-4 lg:grid-cols-2">
+          <div className="glass-card rounded-2xl border-dashed p-5">
+            <p className="text-sm font-semibold text-elite-gold">Video Testimonials (Placeholder)</p>
+            <p className="mt-2 text-sm text-white/70">
+              Embed real client video testimonials here to support the screenshot proof grid.
+            </p>
+          </div>
+          <div className="glass-card rounded-2xl border-dashed p-5">
+            <p className="text-sm font-semibold text-elite-gold">Screenshot Grid (Placeholder)</p>
+            <p className="mt-2 text-sm text-white/70">
+              Replace/expand with Meta Ads Manager screenshots showing ROAS, spend, CPL, and conversions.
+            </p>
+          </div>
         </div>
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
           {resultCards.map((card, idx) => (

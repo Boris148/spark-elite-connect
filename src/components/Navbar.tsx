@@ -5,6 +5,9 @@ const navLinks = [
   { to: "/", label: "Home" },
   { to: "/services", label: "Services" },
   { to: "/results", label: "Results" },
+  { to: "/funding", label: "Funding" },
+  { to: "/music", label: "Music" },
+  { to: "/evergreen", label: "Evergreen" },
   { to: "/about", label: "About" },
   { to: "/contact", label: "Contact" },
 ];
@@ -24,13 +27,13 @@ export function Navbar() {
             />
           </Link>
 
-          <nav className="hidden items-center gap-2 md:flex" aria-label="Primary navigation">
+          <nav className="hidden items-center gap-1 lg:flex" aria-label="Primary navigation">
             {navLinks.map((link) => (
               <NavLink
                 key={link.to}
                 to={link.to}
                 className={({ isActive }) =>
-                  `rounded-full px-4 py-2 text-sm font-medium transition ${
+                  `rounded-full px-3 py-2 text-sm font-medium transition ${
                     isActive ? "bg-white/10 text-elite-gold" : "text-white/80 hover:text-white"
                   }`
                 }
@@ -45,7 +48,7 @@ export function Navbar() {
 
           <button
             type="button"
-            className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-elite-line bg-white/5 text-white md:hidden"
+            className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-elite-line bg-white/5 text-white lg:hidden"
             aria-label={open ? "Close menu" : "Open menu"}
             aria-expanded={open}
             onClick={() => setOpen((v) => !v)}
@@ -65,7 +68,7 @@ export function Navbar() {
         </div>
 
         {open && (
-          <nav className="mb-4 animate-fade-up rounded-2xl border border-elite-line bg-black/80 p-3 md:hidden">
+          <nav className="mb-4 animate-fade-up rounded-2xl border border-elite-line bg-black/80 p-3 lg:hidden">
             <div className="flex flex-col gap-1">
               {navLinks.map((link) => (
                 <NavLink

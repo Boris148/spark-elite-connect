@@ -8,8 +8,8 @@ export function ServicesPage() {
     <>
       <PageHeader
         eyebrow="Services"
-        title="Growth services built around performance and accountability"
-        description="Whether you need a dedicated media buyer, full-service digital marketing support, or a conversion-focused website, every engagement is designed to move your business toward qualified leads and measurable results."
+        title="Paid media, websites, and growth systems built to scale revenue"
+        description="From paid media management to white-label fulfillment, Social Elite offers four core service categories designed for performance, accountability, and measurable business growth."
       />
 
       <section className="section-shell py-10 sm:py-14">
@@ -45,7 +45,7 @@ export function ServicesPage() {
 
       <CTASection
         title="Need the right service mix for your growth stage?"
-        copy="We can map your budget, offer, and sales process to the right combination of media buying, lead generation, and conversion assets."
+        copy="We can map your budget, offer, and sales process to the right combination of paid media, website buildout, full-service support, or white-label media buying."
       />
     </>
   );

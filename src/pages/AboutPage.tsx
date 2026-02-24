@@ -1,22 +1,24 @@
 import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { industriesServed } from "../lib/data";
 
-const values = [
+const approachSteps = [
   {
-    title: "Strategy First",
-    description:
-      "Every campaign starts with positioning, audience clarity, and a plan tied to business outcomes instead of guesswork.",
+    title: "Audit",
+    description: "We analyze your current marketing, identify leaks, and find opportunities.",
   },
   {
-    title: "Results Driven",
-    description:
-      "We prioritize metrics that matter: qualified leads, booked calls, conversion efficiency, and return on ad spend.",
+    title: "Strategy",
+    description: "Custom plan built around your goals, budget, and timeline.",
   },
   {
-    title: "Execution With Discipline",
-    description:
-      "Consistent testing, optimization, and reporting create the compounding improvements most accounts need to scale.",
+    title: "Execute",
+    description: "We launch, test, optimize, and scale.",
+  },
+  {
+    title: "Report",
+    description: "Transparent reporting so you always know where your money goes.",
   },
 ];
 
@@ -25,8 +27,8 @@ export function AboutPage() {
     <>
       <PageHeader
         eyebrow="About"
-        title="Built to help businesses grow with smarter marketing execution"
-        description="Social Elite Marketing Group, LLC is led by founder Jeremy Garcia, a performance marketer with 6+ years of experience helping businesses improve lead generation and marketing ROI across multiple industries."
+        title="Nearly a Decade of Results."
+        description="Social Elite Marketing Group was founded in 2017 with one mission: help businesses grow through strategic digital marketing. Based in San Antonio, TX and serving clients nationwide."
       />
 
       <section className="section-shell py-10 sm:py-14">
@@ -38,45 +40,68 @@ export function AboutPage() {
               className="h-16 w-auto sm:h-20"
             />
             <p className="mt-5 text-sm leading-7 text-white/80 sm:text-base">
-              Jeremy Garcia founded Social Elite Marketing Group to bridge a gap many businesses face: they either get
-              high-level strategy with weak execution, or tactics without a clear growth plan. The agency is built to
-              deliver both.
+              Social Elite Marketing Group was founded in 2017 to help businesses grow through strategic paid media,
+              conversion-focused websites, and disciplined performance marketing execution.
             </p>
             <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base">
-              With over 6 years of hands-on experience in paid media and digital marketing, Jeremy focuses on campaign
-              systems that are measurable, repeatable, and aligned with the realities of sales pipelines and revenue
-              goals.
+              We've worked with businesses across 50+ industries, from local home service companies to national
+              e-commerce brands. Our team combines media buying expertise with automation and AI-powered systems to
+              deliver results that compound over time.
+            </p>
+            <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base">
+              <span className="font-semibold text-white">Based in San Antonio, TX</span> | Serving clients nationwide
             </p>
             <Link to="/contact" className="btn-primary mt-6 text-sm">
-              Book a Strategy Call With Jeremy
+              Book a Strategy Call
             </Link>
           </div>
 
           <div className="space-y-4">
-            {values.map((value, idx) => (
+            <div className="glass-card animate-fade-up p-6">
+              <h2 className="text-xl font-semibold">Industries We Serve</h2>
+              <p className="mt-3 text-sm leading-6 text-white/75">{industriesServed.join(" · ")} + more</p>
+            </div>
+            {approachSteps.map((step, idx) => (
               <div
-                key={value.title}
+                key={step.title}
                 className="glass-card animate-fade-up p-6"
                 style={{ animationDelay: `${idx * 80}ms` }}
               >
-                <h2 className="text-xl font-semibold text-elite-gold">{value.title}</h2>
-                <p className="mt-2 text-sm leading-6 text-white/75">{value.description}</p>
+                <h2 className="text-xl font-semibold text-elite-gold">{step.title}</h2>
+                <p className="mt-2 text-sm leading-6 text-white/75">{step.description}</p>
               </div>
             ))}
-            <div className="glass-card animate-fade-up p-6 [animation-delay:180ms]">
-              <h2 className="text-xl font-semibold">Who we work best with</h2>
-              <p className="mt-2 text-sm leading-6 text-white/75">
-                Service businesses, local brands, and growth-focused teams that want a marketing partner who can build
-                a clear strategy, execute consistently, and optimize based on real performance data.
-              </p>
-            </div>
           </div>
         </div>
       </section>
 
+      <section className="section-shell py-2 sm:py-6">
+        <div className="glass-card animate-fade-up p-6 sm:p-8">
+          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">The Team</p>
+          <ul className="mt-4 grid gap-3 text-sm text-white/85 sm:grid-cols-2">
+            <li className="flex items-start gap-2">
+              <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
+              <span>Strategic leadership with hands-on media buying experience</span>
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
+              <span>Dedicated account managers for every client</span>
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
+              <span>Automation specialists using AI and CRM systems</span>
+            </li>
+            <li className="flex items-start gap-2">
+              <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
+              <span>Creative support for ad copy, design, and video</span>
+            </li>
+          </ul>
+        </div>
+      </section>
+
       <CTASection
-        title="Looking for a marketing partner who can think and execute?"
-        copy="If you need a team that understands strategy and handles the day-to-day performance work, book a free strategy call to discuss your goals."
+        title="Looking for a marketing partner with a proven process?"
+        copy="If you need a team that can audit, strategize, execute, and report with full transparency, book a strategy call to discuss your goals."
       />
     </>
   );
