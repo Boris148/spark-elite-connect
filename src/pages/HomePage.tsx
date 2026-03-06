@@ -44,11 +44,10 @@ export function HomePage() {
         <div className="section-shell text-center">
           <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Social Elite Marketing Group</p>
           <h1 className="mx-auto mt-6 max-w-4xl font-display text-4xl font-semibold leading-tight sm:text-5xl lg:text-6xl">
-            Paid media, websites, and white-label fulfillment built for brands that expect proof.
+            We Turn Ad Spend Into Revenue. Period.
           </h1>
           <p className="mx-auto mt-6 max-w-3xl text-base leading-7 text-white/80 sm:text-lg">
-            We run disciplined acquisition systems for brands that need more than hype: clean reporting, proactive strategy,
-            and operators who have scaled across 50+ industries.
+            Social Elite has spent nearly a decade helping businesses across 50+ industries generate leads, close deals, and scale profitably through paid media.
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
