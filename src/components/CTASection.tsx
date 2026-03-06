@@ -29,9 +29,14 @@ export function CTASection({
             <p className="mt-4 text-sm leading-7 text-white/80 sm:text-base">{copy}</p>
           </div>
           <div className="flex flex-col gap-3 sm:flex-row">
-            <Link to="/contact" className="btn-primary">
+            <a
+              href="https://calendly.com/semg-jeremy"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary"
+            >
               Book a Strategy Call
-            </Link>
+            </a>
             <Link to="/results" className="btn-secondary">
               View Results
             </Link>

@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
 import { industriesServed } from "../lib/data";
@@ -60,9 +59,14 @@ export function AboutPage() {
               Today we support clients in {industriesServed.length}+ industries and still run campaigns for our own ventures, keeping every
               playbook grounded in reality.
             </p>
-            <Link to="/contact" className="btn-primary mt-6 text-sm">
+            <a
+              href="https://calendly.com/semg-jeremy"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary mt-6 text-sm"
+            >
               Book a Strategy Call
-            </Link>
+            </a>
           </div>
           <div className="glass-card p-8">
             <h3 className="text-xl font-semibold">Operating principles</h3>

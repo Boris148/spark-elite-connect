@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
 import { industriesServed, resultCards, services } from "../lib/data";
 
-const heroImage = "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&q=80";
+const heroImage = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&q=80";
 const splitShowcase = [
   {
     title: "Strategy married to execution",
@@ -51,9 +51,14 @@ export function HomePage() {
             and operators who have scaled across 50+ industries.
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-            <Link to="/contact" className="btn-primary">
+            <a
+              href="https://calendly.com/semg-jeremy"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary"
+            >
               Book a Strategy Call →
-            </Link>
+            </a>
             <Link to="/results" className="btn-secondary">
               See Results →
             </Link>
@@ -123,9 +128,14 @@ export function HomePage() {
                   <h3 className="text-lg font-semibold leading-tight">{service.title}</h3>
                 </div>
                 <p className="text-sm leading-6 text-white/75">{service.description}</p>
-                <Link to="/contact" className="text-sm font-semibold text-elite-gold hover:text-elite-gold/80">
+                <a
+                  href="https://calendly.com/semg-jeremy"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm font-semibold text-elite-gold hover:text-elite-gold/80"
+                >
                   Book a call →
-                </Link>
+                </a>
               </article>
             ))}
           </div>
@@ -137,7 +147,7 @@ export function HomePage() {
           <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Integrated Delivery</p>
           <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Images belong to the story, not as dividers</h2>
           <p className="mx-auto mt-4 max-w-3xl text-sm leading-7 text-white/75">
-            Every visual on this site mirrors how we build campaigns — seamlessly connected to the copy, data, and decisions being made.
+            From concept to conversion, our creative team produces scroll-stopping content that drives real results.
           </p>
         </div>
         <div className="space-y-16">

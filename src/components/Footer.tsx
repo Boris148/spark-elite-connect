@@ -16,9 +16,14 @@ export function Footer() {
               {site.tagline}. Performance-driven marketing systems built to generate leads, grow revenue, and improve
               ROI.
             </p>
-            <Link to="/contact" className="btn-primary mt-5 text-sm">
+            <a
+              href="https://calendly.com/semg-jeremy"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary mt-5 text-sm"
+            >
               Book a Strategy Call
-            </Link>
+            </a>
           </div>
 
           <div>

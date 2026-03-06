@@ -41,9 +41,14 @@ export function ServicesPage() {
                   ))}
                 </ul>
                 <div className="mt-8 flex flex-wrap gap-4">
-                  <Link to="/contact" className="btn-primary text-sm">
+                  <a
+                    href="https://calendly.com/semg-jeremy"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn-primary text-sm"
+                  >
                     Book a Strategy Call
-                  </Link>
+                  </a>
                   <Link to="/results" className="btn-secondary text-sm">
                     View Proof
                   </Link>

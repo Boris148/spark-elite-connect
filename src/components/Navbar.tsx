@@ -6,6 +6,7 @@ const navLinks = [
   { to: "/services", label: "Services" },
   { to: "/results", label: "Results" },
   { to: "/funding", label: "Funding" },
+  { to: "/data", label: "Data" },
   { to: "/about", label: "About" },
   { to: "/contact", label: "Contact" },
 ];
@@ -39,9 +40,14 @@ export function Navbar() {
                 {link.label}
               </NavLink>
             ))}
-            <Link to="/contact" className="btn-primary ml-2 text-sm">
+            <a
+              href="https://calendly.com/semg-jeremy"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary ml-2 text-sm"
+            >
               Book a Call
-            </Link>
+            </a>
           </nav>
 
           <button
@@ -82,9 +88,15 @@ export function Navbar() {
                   {link.label}
                 </NavLink>
               ))}
-              <Link to="/contact" onClick={() => setOpen(false)} className="btn-primary mt-2 text-sm">
+              <a
+                href="https://calendly.com/semg-jeremy"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => setOpen(false)}
+                className="btn-primary mt-2 text-sm"
+              >
                 Book a Call
-              </Link>
+              </a>
             </div>
           </nav>
         )}
