@@ -1,134 +1,203 @@
-import { Link } from "react-router-dom";
+import { CTASection } from "../components/CTASection";
+import { PageHeader } from "../components/PageHeader";
 
-const proofPoints = [
-  "We generate qualified leads for funding companies",
-  "Battle-tested strategies from our own funding company (AOS Funds)",
-  "50+ industries we can target for your funding products",
-  "48-hour campaign launch from onboarding",
-  "Creative, media buying, and automation handled under one roof",
+const heroImage = "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=1920&q=80";
+
+const problemImage = "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=1600&q=80";
+const solutionImage = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1600&q=80";
+
+const offerPillars = [
+  {
+    title: "Funding pipelines",
+    description: "Meta, Google, and TikTok campaigns engineered to deliver ready-to-fund applicants and SBA prospects.",
+  },
+  {
+    title: "Credit repair demand",
+    description: "Sequenced messaging that moves subprime prospects into your credit repair programs before funding re-engagement.",
+  },
+  {
+    title: "Automation + CRM",
+    description: "Follow-up cadences, call routing, and underwriting-ready data synced to your CRM within 48 hours.",
+  },
 ];
 
-const offerItems = [
-  "Full-funnel ad campaigns that attract ready-to-fund prospects",
-  "Landing pages and funnels optimized for funding applications",
-  "Sales enablement and CRM automation built for high-volume follow-up",
-  "Messaging compliant with your underwriter requirements",
-  "Weekly optimization sprints with transparent reporting",
+const stats = [
+  { value: "1000s", label: "Applications & credit repair leads generated" },
+  { value: "48 hrs", label: "Launch timeline from onboarding" },
+  { value: "50+", label: "Industries targeted for capital products" },
 ];
 
-const fundingHeroImage = "https://images.unsplash.com/photo-1556740772-1a741367b93e?w=1200&q=80";
+const howItWorks = [
+  { step: "01", title: "Audit & compliance", copy: "Review offers, underwriter guardrails, and states/industries you can legally fund." },
+  { step: "02", title: "Funnel build", copy: "Deploy funding + credit repair funnels with pre-approved copy blocks and form logic." },
+  { step: "03", title: "Media launch", copy: "Push live across Meta, Google, TikTok, and YouTube with creative calibrated to each audience." },
+  { step: "04", title: "Scale & report", copy: "Weekly optimization sprints, underwriting feedback loops, and source-of-truth dashboards." },
+];
+
+const deliverables = [
+  "Full-funnel creatives for funding + credit repair offers",
+  "Landing pages optimized for app completion",
+  "CRM automation with speed-to-lead alerts",
+  "Real-time underwriting & compliance coordination",
+  "Performance dashboards segmented by product line",
+  "Sales enablement scripts and objection handling",
+];
+
+const faqs = [
+  {
+    question: "Can you handle both funding and credit repair offers in one pipeline?",
+    answer:
+      "Yes. We design multi-path funnels where prospects are routed to credit repair or capital offers based on score, docs, and underwriting readiness. Both journeys roll up into shared dashboards for clarity.",
+  },
+  {
+    question: "How fast can campaigns launch?",
+    answer:
+      "Most engagements go live within 48 hours once ad accounts, CRM access, and compliance approvals are in place. Creative and funnel templates are pre-built from our own funding company (AOS Funds).",
+  },
+  {
+    question: "Do you only run paid ads?",
+    answer:
+      "Paid media is the core, but every package can include landing page builds, automation, sales enablement, and reporting. We prefer owning the full pipeline so nothing breaks between channels.",
+  },
+];
 
 export function FundingPage() {
   return (
     <>
-      <section className="relative overflow-hidden pb-8 pt-10 sm:pt-14">
-        <div className="absolute inset-0 -z-10">
-          <img src={fundingHeroImage} alt="Funding industry workspace" className="h-full w-full object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-br from-black/90 via-black/85 to-black/70" />
-        </div>
-        <div className="section-shell">
-          <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-black/60 p-5 shadow-gold sm:p-8 lg:p-10">
-            <div className="grid gap-6 lg:grid-cols-[1.05fr_0.95fr] lg:items-start">
-              <div className="animate-fade-up">
-                <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Funding Growth Partners</p>
-                <h1 className="mt-3 text-3xl font-semibold leading-tight sm:text-4xl lg:text-5xl">
-                  Marketing That Funding Companies Trust
-                </h1>
-                <p className="mt-3 text-base font-semibold text-elite-gold sm:text-lg">
-                  We don&apos;t just run ads for funding companies — we ARE a funding company. Every strategy you get has been
-                  battle-tested with real money on our own deals.
-                </p>
-                <p className="mt-4 text-sm leading-7 text-white/80 sm:text-base">
-                  Jeremy owns AOS Funds, so we build campaigns from the inside out: faster launch cycles, cleaner
-                  compliance, and leads that underwriters actually want to see.
-                </p>
-                <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-                  <Link to="/contact" className="btn-primary">
-                    Book a Strategy Call →
-                  </Link>
-                  <Link to="/results" className="btn-secondary">
-                    See Case Studies →
-                  </Link>
-                </div>
-              </div>
+      <PageHeader
+        eyebrow="Funding + Credit Repair"
+        title="Campaigns engineered for companies that fund and fix credit every single day."
+        description="We operate our own funding company (AOS Funds), so every playbook here is battle-tested with real underwriting constraints, compliance workflows, and demand-gen pressure."
+        backgroundImage={heroImage}
+      />
 
-              <div className="glass-card animate-fade-up p-5 [animation-delay:100ms] sm:p-6">
-                <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Why Funding Teams Pick Us</p>
-                <p className="mt-3 text-sm leading-6 text-white/75">
-                  We operate as your in-house growth team with proven funnels, creative, and CRM automation purpose-built
-                  for funding offers.
-                </p>
-                <ul className="mt-5 space-y-3 text-sm text-white/90">
-                  {proofPoints.map((item) => (
-                    <li key={item} className="flex items-start gap-3">
-                      <span className="mt-0.5 text-elite-gold">✓</span>
-                      <span>{item}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="section-shell py-8 sm:py-12">
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          <div className="glass-card p-5">
-            <p className="text-2xl font-semibold text-elite-gold">100s</p>
-            <p className="mt-2 text-sm text-white/70">Funding businesses worked with</p>
-          </div>
-          <div className="glass-card p-5">
-            <p className="text-2xl font-semibold text-elite-gold">1000s</p>
-            <p className="mt-2 text-sm text-white/70">Qualified leads generated</p>
-          </div>
-          <div className="glass-card p-5 sm:col-span-2 lg:col-span-1">
-            <p className="text-2xl font-semibold text-elite-gold">50+</p>
-            <p className="mt-2 text-sm text-white/70">Industries targeted for funding offers</p>
-          </div>
-        </div>
-      </section>
-
-      <section className="section-shell py-8 sm:py-12">
-        <div className="glass-card p-6 sm:p-8">
-          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">What We Offer Funding Companies</p>
-          <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">Built for speed, scale, and funded deals</h2>
-          <ul className="mt-6 grid gap-3 text-sm text-white/85 sm:grid-cols-2">
-            {offerItems.map((item) => (
-              <li key={item} className="flex items-start gap-2">
-                <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
-                <span>{item}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
-
-      <section className="section-shell py-10 sm:py-14">
-        <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-black/40 p-6 sm:p-8">
-          <div className="absolute inset-0 opacity-20">
-            <div className="h-full w-full bg-[linear-gradient(90deg,transparent,rgba(5,126,193,.2),transparent)] bg-[length:200%_100%] animate-shimmer" />
-          </div>
-          <div className="relative text-center">
-            <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Ready to Scale?</p>
-            <h2 className="mt-3 text-2xl font-semibold sm:text-3xl lg:text-4xl">
-              Launch funding lead campaigns in 48 hours.
-            </h2>
-            <p className="mx-auto mt-3 max-w-2xl text-sm leading-6 text-white/75 sm:text-base">
-              If you want a partner who already runs a funding company, book a call and we&apos;ll map your offer,
-              target industries, and launch plan.
+      <section className="section-shell py-20">
+        <article className="grid gap-10 lg:grid-cols-2 lg:items-center">
+          <div>
+            <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">The problem</p>
+            <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Funding teams can&apos;t rely on generic lead gen</h2>
+            <p className="mt-4 text-sm leading-7 text-white/75">
+              Underwriters reject messy leads. Credit repair reps need a different conversation than your capital closers. Agencies often
+              bolt on templated funnels that ignore it all. We rebuild acquisition around your underwriting logic so sales only talks to
+              applicants they can actually help.
             </p>
-            <div className="mt-6 flex flex-col justify-center gap-3 sm:flex-row">
-              <Link to="/contact" className="btn-primary">
-                Book a Strategy Call →
-              </Link>
-              <Link to="/results" className="btn-secondary">
-                See Case Studies →
-              </Link>
+            <ul className="mt-6 space-y-3 text-sm text-white/80">
+              {["Granular targeting by FICO, industry, and revenue", "Messaging pre-cleared with your compliance team", "Lead routing synced to loan officers and credit repair reps"].map(
+                (item) => (
+                  <li key={item} className="flex items-start gap-2">
+                    <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
+                    {item}
+                  </li>
+                ),
+              )}
+            </ul>
+          </div>
+          <div className="relative overflow-hidden rounded-[32px] border border-elite-line/70">
+            <img src={problemImage} alt="Funding operations" className="h-full w-full object-cover" />
+            <div className="absolute inset-0 bg-gradient-to-br from-black/45 via-transparent to-black/65" />
+          </div>
+        </article>
+      </section>
+
+      <section className="section-shell py-20">
+        <article className="grid gap-10 lg:grid-cols-2 lg:items-center">
+          <div className="relative overflow-hidden rounded-[32px] border border-elite-line/70 lg:order-2">
+            <img src={solutionImage} alt="Solution workflow" className="h-full w-full object-cover" />
+            <div className="absolute inset-0 bg-gradient-to-br from-black/45 via-transparent to-black/65" />
+          </div>
+          <div className="lg:order-1">
+            <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Our approach</p>
+            <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Funding + credit repair pipelines under one roof</h2>
+            <p className="mt-4 text-sm leading-7 text-white/75">
+              Because we run AOS Funds, we have the templates, automations, and creative angles ready to go. Your campaigns tap into the
+              same infrastructure — only branded for your company.
+            </p>
+            <div className="mt-8 grid gap-4 sm:grid-cols-2">
+              {offerPillars.map((pillar) => (
+                <div key={pillar.title} className="glass-card p-5">
+                  <h3 className="text-lg font-semibold">{pillar.title}</h3>
+                  <p className="mt-2 text-sm text-white/75">{pillar.description}</p>
+                </div>
+              ))}
             </div>
+          </div>
+        </article>
+      </section>
+
+      <section className="section-shell py-16 sm:py-20">
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {stats.map((stat, idx) => (
+            <div
+              key={stat.label}
+              className="glass-card animate-fade-up p-6"
+              style={{ animationDelay: `${idx * 70}ms` }}
+            >
+              <p className="text-2xl font-semibold text-elite-gold">{stat.value}</p>
+              <p className="mt-2 text-sm text-white/70">{stat.label}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="section-shell py-20">
+        <div className="mb-10 max-w-3xl">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">How it works</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Launch to scale in four documented phases</h2>
+        </div>
+        <div className="grid gap-6 lg:grid-cols-2">
+          {howItWorks.map((phase, idx) => (
+            <article
+              key={phase.title}
+              className="glass-card animate-fade-up p-6"
+              style={{ animationDelay: `${idx * 70}ms` }}
+            >
+              <div className="flex items-center gap-3">
+                <span className="text-lg font-semibold text-elite-gold">{phase.step}</span>
+                <h3 className="text-xl font-semibold">{phase.title}</h3>
+              </div>
+              <p className="mt-3 text-sm leading-6 text-white/75">{phase.copy}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="section-shell py-20">
+        <div className="glass-card p-8">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">What you get</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">All-in-one support for funding + credit repair teams</h2>
+          <div className="mt-6 grid gap-4 sm:grid-cols-2">
+            {deliverables.map((item) => (
+              <div key={item} className="flex items-start gap-2 text-sm text-white/80">
+                <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
+                {item}
+              </div>
+            ))}
           </div>
         </div>
       </section>
+
+      <section className="section-shell py-20">
+        <div className="mb-10 max-w-3xl">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">FAQ</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Clarity before we launch</h2>
+        </div>
+        <div className="space-y-4">
+          {faqs.map((faq) => (
+            <details key={faq.question} className="rounded-2xl border border-elite-line/60 bg-white/5 p-5">
+              <summary className="flex cursor-pointer items-center justify-between text-left text-base font-semibold">
+                {faq.question}
+                <span className="ml-3 text-elite-gold">+</span>
+              </summary>
+              <p className="mt-3 text-sm leading-6 text-white/75">{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <CTASection
+        title="Need a partner who understands funding and credit repair?"
+        copy="Book a strategy call to map your offers, underwriting requirements, and the launch plan for generating qualified applications plus credit repair demand."
+      />
     </>
   );
 }

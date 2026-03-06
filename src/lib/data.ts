@@ -12,6 +12,7 @@ export type Service = {
   title: string;
   description: string;
   features: string[];
+  image: string;
 };
 
 export const industriesServed = [
@@ -45,6 +46,7 @@ export const services: Service[] = [
       "Creative Strategy & Ad Copy",
       "Weekly Reporting & Optimization",
     ],
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
   },
   {
     title: "Website Design & Development",
@@ -55,6 +57,7 @@ export const services: Service[] = [
       "Integrated with your CRM",
       "Launch-ready within four weeks",
     ],
+    image: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
   },
   {
     title: "Full-Service Digital Marketing",
@@ -65,6 +68,7 @@ export const services: Service[] = [
       "Monthly strategy calls",
       "Executive dashboards with ROI clarity",
     ],
+    image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
   },
   {
     title: "White-Label Media Buying",
@@ -76,6 +80,7 @@ export const services: Service[] = [
       "Weekly reports under your brand",
       "Client-facing strategy support",
     ],
+    image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80",
   },
 ];
 

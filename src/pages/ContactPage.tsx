@@ -21,13 +21,14 @@ export function ContactPage() {
     <>
       <PageHeader
         eyebrow="Contact"
-        title="Schedule a free strategy call"
-        description="Tell us about your business, goals, and current marketing challenges. We’ll review your needs and recommend the best path forward for generating better results."
+        title="Schedule a strategy conversation"
+        description="Share your business goals, current marketing mix, and bottlenecks. We'll map the fastest path to measurable growth."
+        backgroundImage="https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1920&q=80"
       />
 
-      <section className="section-shell py-10 sm:py-14">
-        <div className="grid gap-6 lg:grid-cols-[1.05fr_0.95fr]">
-          <form onSubmit={handleSubmit} className="glass-card animate-fade-up p-6 sm:p-8">
+      <section className="section-shell py-20">
+        <div className="grid gap-10 lg:grid-cols-[1.05fr_0.95fr]">
+          <form onSubmit={handleSubmit} className="glass-card p-8">
             <div className="grid gap-4 sm:grid-cols-2">
               <Field label="Name" name="name" required />
               <Field label="Email" name="email" type="email" required />
@@ -43,7 +44,7 @@ export function ContactPage() {
                 <select
                   id="service"
                   name="service"
-                  className="w-full rounded-xl border border-elite-line bg-white/5 px-4 py-3 text-sm text-white outline-none ring-0 transition focus:border-elite-gold/50"
+                  className="w-full rounded-xl border border-elite-line bg-white/5 px-4 py-3 text-sm text-white outline-none transition focus:border-elite-gold/50"
                   defaultValue=""
                   required
                 >
@@ -57,7 +58,7 @@ export function ContactPage() {
                   ))}
                 </select>
               </div>
-              <Field label="Monthly Ad Budget" name="adBudget" placeholder="e.g. 2k - 10k+ per month" required />
+              <Field label="Monthly Ad Budget" name="adBudget" placeholder="e.g. 5k - 25k+" required />
             </div>
 
             <div className="mt-4">
@@ -69,7 +70,7 @@ export function ContactPage() {
                 name="message"
                 rows={6}
                 required
-                placeholder="Tell us about your business, goals, current marketing efforts, and what you want to improve."
+                placeholder="Tell us about your offers, goals, and current marketing stack."
                 className="w-full rounded-xl border border-elite-line bg-white/5 px-4 py-3 text-sm text-white placeholder:text-white/40 outline-none transition focus:border-elite-gold/50"
               />
             </div>
@@ -79,39 +80,43 @@ export function ContactPage() {
             </button>
           </form>
 
-          <div className="space-y-4">
-            <div className="glass-card animate-fade-up p-6 sm:p-8">
-              <h2 className="text-xl font-semibold">Contact Information</h2>
-              <p className="mt-3 text-sm leading-6 text-white/75">
-                Reach out directly or submit the form to start the conversation. Every engagement starts with a
-                strategy-first discussion focused on your goals and current opportunities.
+          <div className="space-y-6">
+            <div className="rounded-[32px] border border-white/5 bg-gradient-to-br from-[#06070f] via-[#0b0d18] to-[#05060c] p-8">
+              <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Contact Information</p>
+              <h2 className="mt-3 text-2xl font-semibold">San Antonio HQ, nationwide delivery</h2>
+              <p className="mt-3 text-sm text-white/75">
+                Fully-remote fulfillment with weekly calls, Loom recaps, and Slack collaboration.
               </p>
-              <div className="mt-5 space-y-3 text-sm">
-                <a href={site.phoneHref} className="block font-medium text-elite-gold hover:text-elite-gold/85">
+              <div className="mt-4 space-y-2 text-sm">
+                <a href={site.phoneHref} className="block font-medium text-elite-gold">
                   {site.phone}
                 </a>
-                <a href={site.emailHref} className="block font-medium text-elite-gold hover:text-elite-gold/85">
+                <a href={site.emailHref} className="block font-medium text-elite-gold">
                   {site.email}
                 </a>
+                <p className="text-white/70">Hours: Monday - Friday / 9a - 6p CST</p>
               </div>
             </div>
 
-            <div className="glass-card animate-fade-up p-6 [animation-delay:100ms] sm:p-8">
+            <div className="glass-card p-8">
               <h2 className="text-xl font-semibold">What to expect on the call</h2>
               <ul className="mt-4 space-y-3 text-sm text-white/80">
-                <li className="flex items-start gap-2">
-                  <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
-                  Review your current marketing and lead flow
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
-                  Identify bottlenecks in traffic, conversion, or follow-up
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
-                  Recommend the best service mix for your goals and budget
-                </li>
+                {["Audit your current demand gen", "Identify gaps in traffic, conversion, or follow-up", "Map next steps + service mix"].map(
+                  (item) => (
+                    <li key={item} className="flex items-start gap-2">
+                      <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
+                      {item}
+                    </li>
+                  ),
+                )}
               </ul>
+            </div>
+
+            <div className="glass-card p-8">
+              <h2 className="text-xl font-semibold">Need answers before booking?</h2>
+              <p className="mt-3 text-sm text-white/75">
+                Drop a note with timing, budgets, or specific campaign questions. We respond within one business day.
+              </p>
             </div>
           </div>
         </div>

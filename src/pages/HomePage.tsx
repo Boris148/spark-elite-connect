@@ -2,194 +2,226 @@ import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
 import { industriesServed, resultCards, services } from "../lib/data";
 
-const proofBar = [
-  { primary: "50+ Industries Served", secondary: "" },
-  { primary: "Nearly a Decade in Business", secondary: "Est. 2017" },
-  { primary: "Millions in Ad Spend Managed", secondary: "" },
-  { primary: "Real Screenshots. Real Results.", secondary: "" },
+const heroImage = "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&q=80";
+const splitShowcase = [
+  {
+    title: "Strategy married to execution",
+    description:
+      "We pair rigorous account architecture with daily optimization so every dollar deployed is measured, protected, and reallocated toward what moves the needle.",
+    bullets: ["Offer + funnel alignment", "Creative built from insights", "Real-time reporting"],
+    image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1600&q=80",
+  },
+  {
+    title: "A partner across the entire journey",
+    description:
+      "From paid media to landing page builds and white-label fulfillment, Social Elite plugs into every layer of your revenue engine.",
+    bullets: ["Meta · Google · TikTok", "CRO + site builds", "White-label media buying"],
+    image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1600&q=80",
+  },
 ];
 
-const serviceHighlights = [
-  { title: "Paid Media", detail: "Meta, Google, TikTok" },
-  { title: "Websites", detail: "High-converting builds" },
-  { title: "Full-Service", detail: "Strategy + execution" },
-  { title: "White-Label", detail: "Plug-in media buying" },
+const performanceStats = [
+  { value: "50+", label: "Industries Served" },
+  { value: "Est. 2017", label: "Nearly a decade operating" },
+  { value: "$12M+", label: "Ad Spend Managed" },
+  { value: "92%", label: "Client retention on retainers" },
 ];
 
-const heroImage = "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80";
-const servicesImage = "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&q=80";
+const industriesCopy =
+  "From home services and med spas to SaaS, legal, and funding companies, Social Elite builds campaigns that respect the nuances of each market while applying proven acquisition infrastructure.";
 
 export function HomePage() {
   return (
     <>
-      <section className="relative overflow-hidden pb-10 pt-10 sm:pt-14 lg:pt-20">
-        <div className="absolute inset-0 -z-10">
+      <section className="relative isolate overflow-hidden py-24 sm:py-28 lg:py-32">
+        <div className="absolute inset-0 -z-20">
           <img src={heroImage} alt="Modern marketing workspace" className="h-full w-full object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-br from-black/85 via-black/80 to-black/60" />
         </div>
-        <div className="section-shell">
-          <div className="grid items-center gap-10 lg:grid-cols-[1.15fr_0.85fr]">
-            <div className="animate-fade-up">
-              <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">
-                Social Elite Marketing Group, LLC
-              </p>
-              <h1 className="mt-4 font-display text-4xl font-semibold leading-tight sm:text-5xl lg:text-6xl">
-                <span className="block">We Turn Ad Spend</span>
-                <span className="mt-2 block bg-gold-gradient bg-clip-text text-transparent">Into Revenue. Period.</span>
-              </h1>
-              <p className="mt-5 max-w-2xl text-base leading-7 text-white/80 sm:text-lg">
-                Social Elite has spent nearly a decade helping businesses across 50+ industries generate leads, close
-                deals, and scale profitably through paid media.
-              </p>
-              <div className="mt-7 flex flex-col gap-3 sm:flex-row">
-                <Link to="/contact" className="btn-primary">
-                  Book a Strategy Call →
-                </Link>
-                <Link to="/results" className="btn-secondary">
-                  See Our Results →
-                </Link>
-              </div>
-            </div>
-
-            <div className="animate-fade-up [animation-delay:120ms]">
-              <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-white/[0.05] p-4 shadow-gold sm:p-5">
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(5,126,193,.18),transparent_50%)]" />
-                <div className="relative">
-                  <div className="rounded-2xl border border-elite-line bg-black/40 p-4">
-                    <p className="text-xs font-semibold uppercase tracking-[0.22em] text-elite-gold">Core Disciplines</p>
-                    <div className="mt-4 grid gap-3 sm:grid-cols-2">
-                      {serviceHighlights.map((item) => (
-                        <div key={item.title} className="flex items-center gap-3 rounded-xl border border-white/5 bg-white/5 p-3">
-                          <span className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-black/50 text-elite-gold">
-                            •
-                          </span>
-                          <div>
-                            <p className="text-sm font-semibold">{item.title}</p>
-                            <p className="text-xs text-white/60">{item.detail}</p>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                  <div className="mt-4 grid gap-3 sm:grid-cols-2">
-                    {resultCards.slice(0, 2).map((card) => (
-                      <div key={card.image} className="overflow-hidden rounded-xl border border-elite-line bg-black/40">
-                        <img src={card.image} alt={`${card.industry} ad example`} className="h-32 w-full object-cover" />
-                        <div className="p-3">
-                          <p className="text-xs uppercase tracking-wide text-elite-gold">{card.industry}</p>
-                          <p className="mt-1 text-sm font-semibold">{card.metric}</p>
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+        <div className="absolute inset-0 -z-10 bg-gradient-to-br from-black/85 via-black/70 to-[#05060c]/85" />
+        <div className="absolute inset-0 -z-[5] opacity-70 blur-3xl">
+          <div className="h-full w-full bg-[radial-gradient(circle_at_top,_rgba(245,200,120,0.25),_transparent_55%)]" />
         </div>
-      </section>
-
-      <section className="section-shell pb-8">
-        <div className="mb-6">
-          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Proof Bar</p>
-        </div>
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          {proofBar.map((item, idx) => (
-            <div
-              key={item.primary}
-              className="glass-card animate-fade-up p-5"
-              style={{ animationDelay: `${idx * 80}ms` }}
-            >
-              <p className="text-lg font-semibold text-elite-gold sm:text-xl">{item.primary}</p>
-              {item.secondary && <p className="mt-1 text-sm text-white/70">{item.secondary}</p>}
-            </div>
-          ))}
-        </div>
-      </section>
-
-      <section className="relative py-10 sm:py-14">
-        <div className="absolute inset-0 -z-10">
-          <img src={servicesImage} alt="Team reviewing marketing data" className="h-full w-full object-cover" />
-          <div className="absolute inset-0 bg-black/85" />
-        </div>
-        <div className="section-shell">
-          <div className="mb-8 flex items-end justify-between gap-4">
-            <div>
-              <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Services</p>
-              <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">What We Do</h2>
-            </div>
-            <Link to="/services" className="hidden text-sm font-medium text-elite-gold hover:text-elite-gold/80 sm:block">
-              View all services
+        <div className="section-shell text-center">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Social Elite Marketing Group</p>
+          <h1 className="mx-auto mt-6 max-w-4xl font-display text-4xl font-semibold leading-tight sm:text-5xl lg:text-6xl">
+            Paid media, websites, and white-label fulfillment built for brands that expect proof.
+          </h1>
+          <p className="mx-auto mt-6 max-w-3xl text-base leading-7 text-white/80 sm:text-lg">
+            We run disciplined acquisition systems for brands that need more than hype: clean reporting, proactive strategy,
+            and operators who have scaled across 50+ industries.
+          </p>
+          <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
+            <Link to="/contact" className="btn-primary">
+              Book a Strategy Call →
+            </Link>
+            <Link to="/results" className="btn-secondary">
+              See Results →
             </Link>
           </div>
-          <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
-            {services.map((service, idx) => (
-              <div
-                key={service.title}
-                className="glass-card animate-fade-up p-5"
-                style={{ animationDelay: `${idx * 60}ms` }}
-              >
-                <div className="flex items-start justify-between gap-3">
-                  <h3 className="text-lg font-semibold leading-snug">{service.title}</h3>
-                </div>
-                <p className="mt-3 text-sm leading-6 text-white/75">{service.description}</p>
-                <Link
-                  to="/contact"
-                  className="mt-4 inline-flex text-sm font-semibold text-elite-gold hover:text-elite-gold/85"
-                >
-                  Book a Strategy Call →
-                </Link>
+          <div className="mt-14 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {performanceStats.map((stat) => (
+              <div key={stat.label} className="rounded-3xl border border-white/10 bg-white/5 p-5 text-left">
+                <p className="text-2xl font-semibold text-elite-gold">{stat.value}</p>
+                <p className="mt-2 text-sm text-white/70">{stat.label}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="section-shell py-10 sm:py-14">
-        <div className="glass-card animate-fade-up p-6 sm:p-8">
-          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Who We Serve</p>
-          <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">Built for businesses across 50+ industries</h2>
-          <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base">
-            {industriesServed.join(" · ")} + more
-          </p>
+      <section className="section-shell py-20">
+        <div className="mb-10">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Proof Points</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Operators trusted by founders, CMOs, and agencies</h2>
+        </div>
+        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+          {["50+ Industries", "Est. 2017", "Millions Managed", "White-Label Ready"].map((item, idx) => (
+            <div
+              key={item}
+              className="glass-card animate-fade-up p-6"
+              style={{ animationDelay: `${idx * 70}ms` }}
+            >
+              <p className="text-lg font-semibold text-white">{item}</p>
+              <p className="mt-2 text-sm text-white/70">
+                {idx === 0 && "Vertical experience that shortens the learning curve."}
+                {idx === 1 && "Nearly a decade refining the same operating system."}
+                {idx === 2 && "Every campaign tied to accountable metrics."}
+                {idx === 3 && "Plug us in as your invisible delivery team."}
+              </p>
+            </div>
+          ))}
         </div>
       </section>
 
-      <section className="section-shell py-10 sm:py-14">
-        <div className="mb-8">
-          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Social Proof</p>
-          <h2 className="mt-2 text-2xl font-semibold sm:text-3xl">Real screenshots. Real results.</h2>
-          <p className="mt-3 max-w-3xl text-sm leading-6 text-white/70 sm:text-base">
-            Placeholder sections below are ready for Google Drive assets and video testimonial embeds. Current example
-            screenshots remain in place so the layout stays production-ready while assets are finalized.
+      <section className="relative isolate py-20">
+        <div className="absolute inset-0 -z-10 bg-gradient-to-br from-[#06070f] via-[#0b0d18] to-[#05060c]" />
+        <div className="section-shell">
+          <div className="mb-12 flex flex-wrap items-end justify-between gap-6">
+            <div>
+              <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Services</p>
+              <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">What we execute</h2>
+              <p className="mt-3 max-w-2xl text-sm leading-7 text-white/75">
+                Four core service lines cover every lever required to scale offers: disciplined media buying, conversion-first builds,
+                full-service growth, and white-label fulfillment for agencies.
+              </p>
+            </div>
+            <Link to="/services" className="text-sm font-semibold text-elite-gold hover:text-elite-gold/80">
+              Explore the services →
+            </Link>
+          </div>
+          <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+            {services.map((service, idx) => (
+              <article
+                key={service.title}
+                className="glass-card animate-fade-up flex h-full flex-col gap-4 p-6"
+                style={{ animationDelay: `${idx * 60}ms` }}
+              >
+                <div className="flex items-center gap-4">
+                  <div className="h-14 w-14 overflow-hidden rounded-2xl border border-white/10">
+                    <img src={service.image} alt={`${service.title} visual`} className="h-full w-full object-cover" />
+                  </div>
+                  <h3 className="text-lg font-semibold leading-tight">{service.title}</h3>
+                </div>
+                <p className="text-sm leading-6 text-white/75">{service.description}</p>
+                <Link to="/contact" className="text-sm font-semibold text-elite-gold hover:text-elite-gold/80">
+                  Book a call →
+                </Link>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="section-shell py-20">
+        <div className="mb-12 text-center">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Integrated Delivery</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Images belong to the story, not as dividers</h2>
+          <p className="mx-auto mt-4 max-w-3xl text-sm leading-7 text-white/75">
+            Every visual on this site mirrors how we build campaigns — seamlessly connected to the copy, data, and decisions being made.
           </p>
         </div>
-        <div className="mb-6 grid gap-4 lg:grid-cols-2">
-          <div className="glass-card rounded-2xl border-dashed p-5">
-            <p className="text-sm font-semibold text-elite-gold">Video Testimonials (Placeholder)</p>
-            <p className="mt-2 text-sm text-white/70">
-              Embed real client video testimonials here to support the screenshot proof grid.
-            </p>
-          </div>
-          <div className="glass-card rounded-2xl border-dashed p-5">
-            <p className="text-sm font-semibold text-elite-gold">Screenshot Grid (Placeholder)</p>
-            <p className="mt-2 text-sm text-white/70">
-              Replace/expand with Meta Ads Manager screenshots showing ROAS, spend, CPL, and conversions.
-            </p>
+        <div className="space-y-16">
+          {splitShowcase.map((block, idx) => (
+            <article key={block.title} className="grid gap-10 lg:grid-cols-2 lg:items-center">
+              <div className={idx % 2 === 1 ? "lg:order-2" : ""}>
+                <div className="relative overflow-hidden rounded-[32px] border border-elite-line shadow-gold">
+                  <img src={block.image} alt={block.title} className="h-full w-full object-cover" />
+                  <div className="absolute inset-0 bg-gradient-to-br from-black/40 via-transparent to-black/60" />
+                </div>
+              </div>
+              <div className={idx % 2 === 1 ? "lg:order-1" : ""}>
+                <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">{`0${idx + 1}`}</p>
+                <h3 className="mt-3 text-2xl font-semibold sm:text-3xl">{block.title}</h3>
+                <p className="mt-4 text-sm leading-7 text-white/75">{block.description}</p>
+                <ul className="mt-5 space-y-3 text-sm text-white/80">
+                  {block.bullets.map((bullet) => (
+                    <li key={bullet} className="flex items-center gap-2">
+                      <span className="inline-flex h-2 w-2 rounded-full bg-elite-gold" />
+                      {bullet}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="relative isolate py-20">
+        <div className="absolute inset-0 -z-10 bg-gradient-to-br from-[#05060c] via-[#080b16] to-[#05060c]" />
+        <div className="section-shell">
+          <div className="rounded-[32px] border border-white/5 bg-white/5 p-10 text-center">
+            <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Industries</p>
+            <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Built for complex offers across {industriesServed.length}+ sectors</h2>
+            <p className="mx-auto mt-4 max-w-3xl text-sm leading-7 text-white/75">{industriesCopy}</p>
+            <p className="mx-auto mt-5 max-w-4xl text-sm font-medium text-white/80">{industriesServed.join(" · ")} + more</p>
           </div>
         </div>
-        <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+      </section>
+
+      <section className="section-shell py-20">
+        <div className="mb-10">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Results</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Real metrics. Real screenshots.</h2>
+          <p className="mt-4 max-w-3xl text-sm leading-7 text-white/75">
+            We publish verified account data. Below are a few snapshots of live campaigns from the Social Elite operating system.
+          </p>
+        </div>
+        <div className="mb-12 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+          {[
+            { value: "$120M+", label: "Pipeline influenced" },
+            { value: "4.3x", label: "Average blended ROAS across eCom cohorts" },
+            { value: "38%", label: "Avg. CPL reduction in service verticals" },
+            { value: "<24h", label: "Response time inside active retainers" },
+          ].map((stat, idx) => (
+            <div
+              key={stat.label}
+              className="glass-card animate-fade-up p-6 text-center"
+              style={{ animationDelay: `${idx * 70}ms` }}
+            >
+              <p className="text-2xl font-semibold text-elite-gold">{stat.value}</p>
+              <p className="mt-2 text-sm text-white/70">{stat.label}</p>
+            </div>
+          ))}
+        </div>
+        <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
           {resultCards.map((card, idx) => (
             <article
               key={card.image}
               className="glass-card animate-fade-up overflow-hidden"
               style={{ animationDelay: `${idx * 70}ms` }}
             >
-              <img src={card.image} alt={`${card.industry} campaign screenshot`} className="h-52 w-full object-cover" />
+              <div className="relative">
+                <img src={card.image} alt={`${card.industry} campaign screenshot`} className="h-52 w-full object-cover" />
+                <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-transparent to-black/55" />
+                <span className="absolute left-4 top-4 rounded-full border border-white/20 bg-black/60 px-3 py-1 text-xs font-semibold uppercase tracking-[0.2em] text-elite-gold">
+                  {card.industry}
+                </span>
+              </div>
               <div className="p-5">
-                <p className="text-xs uppercase tracking-wide text-elite-gold">{card.industry}</p>
-                <h3 className="mt-2 text-lg font-semibold">{card.title}</h3>
-                <p className="mt-2 text-sm text-white/70">{card.summary}</p>
+                <h3 className="text-lg font-semibold">{card.title}</h3>
+                <p className="mt-1 text-sm font-semibold text-elite-gold">{card.metric}</p>
+                <p className="mt-2 text-sm leading-6 text-white/70">{card.summary}</p>
               </div>
             </article>
           ))}
