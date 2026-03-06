@@ -50,6 +50,9 @@ export function Footer() {
               <Link to="/services" className="hover:text-elite-gold">
                 Services
               </Link>
+              <Link to="/white-label" className="hover:text-elite-gold">
+                White Label
+              </Link>
               <Link to="/results" className="hover:text-elite-gold">
                 Results
               </Link>

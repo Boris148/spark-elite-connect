@@ -8,6 +8,7 @@ import { FundingPage } from "./pages/FundingPage";
 import { HomePage } from "./pages/HomePage";
 import { ResultsPage } from "./pages/ResultsPage";
 import { ServicesPage } from "./pages/ServicesPage";
+import { WhiteLabelPage } from "./pages/WhiteLabelPage";
 
 function SiteLayout() {
   return (
@@ -27,6 +28,7 @@ export default function App() {
       <Route element={<SiteLayout />}>
         <Route path="/" element={<HomePage />} />
         <Route path="/services" element={<ServicesPage />} />
+        <Route path="/white-label" element={<WhiteLabelPage />} />
         <Route path="/results" element={<ResultsPage />} />
         <Route path="/funding" element={<FundingPage />} />
         <Route path="/evergreen" element={<EvergreenPage />} />

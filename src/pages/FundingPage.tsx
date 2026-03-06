@@ -1,66 +1,72 @@
 import { Link } from "react-router-dom";
 
 const proofPoints = [
-  "Worked with 100s of funding businesses",
-  "Generated thousands of qualified leads",
-  "Owner operates AOS Funds and tests strategies in-house",
-  "48-hour campaign launch time",
-  "50+ industries targeted for funding products",
+  "We generate qualified leads for funding companies",
+  "Battle-tested strategies from our own funding company (AOS Funds)",
+  "50+ industries we can target for your funding products",
+  "48-hour campaign launch from onboarding",
+  "Creative, media buying, and automation handled under one roof",
 ];
 
 const offerItems = [
-  "Lead generation campaigns that deliver Day 1",
-  "50+ industries we can target for your funding products",
-  "Landing pages optimized for funding applications",
-  "CRM automation that nurtures leads until they fund",
-  "48-hour campaign launch from onboarding",
+  "Full-funnel ad campaigns that attract ready-to-fund prospects",
+  "Landing pages and funnels optimized for funding applications",
+  "Sales enablement and CRM automation built for high-volume follow-up",
+  "Messaging compliant with your underwriter requirements",
+  "Weekly optimization sprints with transparent reporting",
 ];
+
+const fundingHeroImage = "https://images.unsplash.com/photo-1556740772-1a741367b93e?w=1200&q=80";
 
 export function FundingPage() {
   return (
     <>
-      <section className="section-shell pb-8 pt-10 sm:pt-14">
-        <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-gradient-to-br from-white/5 to-white/[0.02] p-5 shadow-gold sm:p-8 lg:p-10">
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(5,126,193,.16),transparent_50%)]" />
-          <div className="relative grid gap-6 lg:grid-cols-[1.05fr_0.95fr] lg:items-start">
-            <div className="animate-fade-up">
-              <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Funding Growth</p>
-              <h1 className="mt-3 text-3xl font-semibold leading-tight sm:text-4xl lg:text-5xl">
-                Get Your Business Funded in 48 Hours.
-              </h1>
-              <p className="mt-3 text-base font-semibold text-elite-gold sm:text-lg">
-                Not weeks. Not months. 48 hours.
-              </p>
-              <p className="mt-4 text-sm leading-7 text-white/80 sm:text-base">
-                Social Elite&apos;s founder owns a funding company (AOS Funds) and has personally worked with hundreds
-                of funding businesses, generating thousands of qualified leads. We don&apos;t just run ads for funding
-                companies, we are a funding company, so we know what converts because we test every strategy on our own
-                deals first.
-              </p>
-              <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-                <Link to="/contact" className="btn-primary">
-                  Book a Call Now →
-                </Link>
-                <Link to="/results" className="btn-secondary">
-                  See Case Studies →
-                </Link>
+      <section className="relative overflow-hidden pb-8 pt-10 sm:pt-14">
+        <div className="absolute inset-0 -z-10">
+          <img src={fundingHeroImage} alt="Funding industry workspace" className="h-full w-full object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-br from-black/90 via-black/85 to-black/70" />
+        </div>
+        <div className="section-shell">
+          <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-black/60 p-5 shadow-gold sm:p-8 lg:p-10">
+            <div className="grid gap-6 lg:grid-cols-[1.05fr_0.95fr] lg:items-start">
+              <div className="animate-fade-up">
+                <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Funding Growth Partners</p>
+                <h1 className="mt-3 text-3xl font-semibold leading-tight sm:text-4xl lg:text-5xl">
+                  Marketing That Funding Companies Trust
+                </h1>
+                <p className="mt-3 text-base font-semibold text-elite-gold sm:text-lg">
+                  We don&apos;t just run ads for funding companies — we ARE a funding company. Every strategy you get has been
+                  battle-tested with real money on our own deals.
+                </p>
+                <p className="mt-4 text-sm leading-7 text-white/80 sm:text-base">
+                  Jeremy owns AOS Funds, so we build campaigns from the inside out: faster launch cycles, cleaner
+                  compliance, and leads that underwriters actually want to see.
+                </p>
+                <div className="mt-6 flex flex-col gap-3 sm:flex-row">
+                  <Link to="/contact" className="btn-primary">
+                    Book a Strategy Call →
+                  </Link>
+                  <Link to="/results" className="btn-secondary">
+                    See Case Studies →
+                  </Link>
+                </div>
               </div>
-            </div>
 
-            <div className="glass-card animate-fade-up p-5 [animation-delay:100ms] sm:p-6">
-              <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Why We&apos;re Different</p>
-              <p className="mt-3 text-sm leading-6 text-white/75">
-                Most agencies guess at what works for funding. We don&apos;t. Every strategy is battle-tested with real
-                money through our own funding operation.
-              </p>
-              <ul className="mt-5 space-y-3 text-sm text-white/90">
-                {proofPoints.map((item) => (
-                  <li key={item} className="flex items-start gap-3">
-                    <span className="mt-0.5 text-elite-gold">✓</span>
-                    <span>{item}</span>
-                  </li>
-                ))}
-              </ul>
+              <div className="glass-card animate-fade-up p-5 [animation-delay:100ms] sm:p-6">
+                <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Why Funding Teams Pick Us</p>
+                <p className="mt-3 text-sm leading-6 text-white/75">
+                  We operate as your in-house growth team with proven funnels, creative, and CRM automation purpose-built
+                  for funding offers.
+                </p>
+                <ul className="mt-5 space-y-3 text-sm text-white/90">
+                  {proofPoints.map((item) => (
+                    <li key={item} className="flex items-start gap-3">
+                      <span className="mt-0.5 text-elite-gold">✓</span>
+                      <span>{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
             </div>
           </div>
         </div>
@@ -109,12 +115,12 @@ export function FundingPage() {
               Launch funding lead campaigns in 48 hours.
             </h2>
             <p className="mx-auto mt-3 max-w-2xl text-sm leading-6 text-white/75 sm:text-base">
-              If you want a team that already knows funding marketing from the inside, book a call and we&apos;ll map
-              your offer, target industries, and launch plan.
+              If you want a partner who already runs a funding company, book a call and we&apos;ll map your offer,
+              target industries, and launch plan.
             </p>
             <div className="mt-6 flex flex-col justify-center gap-3 sm:flex-row">
               <Link to="/contact" className="btn-primary">
-                Book a Call Now →
+                Book a Strategy Call →
               </Link>
               <Link to="/results" className="btn-secondary">
                 See Case Studies →

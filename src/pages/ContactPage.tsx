@@ -57,7 +57,7 @@ export function ContactPage() {
                   ))}
                 </select>
               </div>
-              <Field label="Monthly Ad Budget" name="adBudget" placeholder="e.g. $2,000 - $10,000+" required />
+              <Field label="Monthly Ad Budget" name="adBudget" placeholder="e.g. 2k - 10k+ per month" required />
             </div>
 
             <div className="mt-4">

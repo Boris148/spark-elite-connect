@@ -10,7 +10,6 @@ export const site = {
 
 export type Service = {
   title: string;
-  price: string;
   description: string;
   features: string[];
 };
@@ -37,7 +36,6 @@ export const industriesServed = [
 export const services: Service[] = [
   {
     title: "Paid Media Management",
-    price: "Custom Retainer",
     description: "We don't guess — we test, optimize, and scale. Every dollar of ad spend is tracked and accountable.",
     features: [
       "Meta Ads (Facebook & Instagram)",
@@ -50,36 +48,33 @@ export const services: Service[] = [
   },
   {
     title: "Website Design & Development",
-    price: "Starting at $500",
     description: "Conversion-first websites that look great and actually generate leads.",
     features: [
       "Built for speed and mobile-first",
       "SEO-optimized from day one",
       "Integrated with your CRM",
-      "Starting at $500",
+      "Launch-ready within four weeks",
     ],
   },
   {
     title: "Full-Service Digital Marketing",
-    price: "$3,500/mo",
     description: "For businesses that want one team handling everything.",
     features: [
-      "$3,500/mo retainer",
       "Strategy, creative, media buying, reporting",
       "Dedicated account manager",
       "Monthly strategy calls",
+      "Executive dashboards with ROI clarity",
     ],
   },
   {
     title: "White-Label Media Buying",
-    price: "$500/mo per account",
     description:
       "For agencies: Stop losing clients over ad performance. We handle the media buying, you keep the client.",
     features: [
-      "$500/mo per ad account",
       "Your branding, our expertise",
       "Slack channel for real-time communication",
       "Weekly reports under your brand",
+      "Client-facing strategy support",
     ],
   },
 ];

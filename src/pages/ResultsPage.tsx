@@ -16,6 +16,7 @@ export function ResultsPage() {
         eyebrow="Results"
         title="The Numbers Don't Lie."
         description="We let the results speak. Every screenshot is real. Every metric is verified."
+        backgroundImage="https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=1200&q=80"
       />
 
       <section className="section-shell py-10 sm:py-14">

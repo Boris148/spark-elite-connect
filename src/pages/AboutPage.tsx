@@ -29,6 +29,7 @@ export function AboutPage() {
         eyebrow="About"
         title="Nearly a Decade of Results."
         description="Social Elite Marketing Group was founded in 2017 with one mission: help businesses grow through strategic digital marketing. Based in San Antonio, TX and serving clients nationwide."
+        backgroundImage="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=1200&q=80"
       />
 
       <section className="section-shell py-10 sm:py-14">

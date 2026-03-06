@@ -9,7 +9,7 @@ export function ServicesPage() {
       <PageHeader
         eyebrow="Services"
         title="Paid Media. Website Design. Full-Service. White-Label."
-        description="Paid Media, Website Design ($500), Full-Service ($3,500/mo), White-Label ($500/mo)."
+        description="Expert media buying, high-converting websites, full-service growth support, and white-label execution for agencies."
       />
 
       <section className="section-shell py-10 sm:py-14">
@@ -22,9 +22,6 @@ export function ServicesPage() {
             >
               <div className="flex items-start justify-between gap-4">
                 <h2 className="text-xl font-semibold leading-snug">{service.title}</h2>
-                <span className="shrink-0 rounded-full border border-elite-line bg-white/5 px-3 py-1 text-xs font-medium text-elite-gold">
-                  {service.price}
-                </span>
               </div>
               <p className="mt-4 text-sm leading-6 text-white/70">{service.description}</p>
               <ul className="mt-5 space-y-2 text-sm text-white/85">
