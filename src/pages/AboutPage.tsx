@@ -40,12 +40,12 @@ export function AboutPage() {
               className="h-16 w-auto sm:h-20"
             />
             <p className="mt-5 text-sm leading-7 text-white/80 sm:text-base">
-              Social Elite Marketing Group was founded in 2017 to help businesses grow through strategic paid media,
-              conversion-focused websites, and disciplined performance marketing execution.
+              Social Elite Marketing Group was founded in 2017 with one mission: help businesses grow through strategic
+              digital marketing.
             </p>
             <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base">
-              We've worked with businesses across 50+ industries, from local home service companies to national
-              e-commerce brands. Our team combines media buying expertise with automation and AI-powered systems to
+              We've worked with businesses across 50+ industries — from local home service companies to national
+              e-commerce brands. Our team combines deep media buying expertise with automation and AI-powered systems to
               deliver results that compound over time.
             </p>
             <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base">
@@ -93,7 +93,7 @@ export function AboutPage() {
             </li>
             <li className="flex items-start gap-2">
               <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-elite-gold" />
-              <span>Creative support for ad copy, design, and video</span>
+              <span>Creative team for ad copy, design, and video</span>
             </li>
           </ul>
         </div>

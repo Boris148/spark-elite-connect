@@ -21,7 +21,7 @@ export function FundingPage() {
     <>
       <section className="section-shell pb-8 pt-10 sm:pt-14">
         <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-gradient-to-br from-white/5 to-white/[0.02] p-5 shadow-gold sm:p-8 lg:p-10">
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(212,175,55,.16),transparent_50%)]" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(5,126,193,.16),transparent_50%)]" />
           <div className="relative grid gap-6 lg:grid-cols-[1.05fr_0.95fr] lg:items-start">
             <div className="animate-fade-up">
               <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Funding Growth</p>
@@ -39,10 +39,10 @@ export function FundingPage() {
               </p>
               <div className="mt-6 flex flex-col gap-3 sm:flex-row">
                 <Link to="/contact" className="btn-primary">
-                  Book a Call Now
+                  Book a Call Now →
                 </Link>
                 <Link to="/results" className="btn-secondary">
-                  See Case Studies
+                  See Case Studies →
                 </Link>
               </div>
             </div>
@@ -101,7 +101,7 @@ export function FundingPage() {
       <section className="section-shell py-10 sm:py-14">
         <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-black/40 p-6 sm:p-8">
           <div className="absolute inset-0 opacity-20">
-            <div className="h-full w-full bg-[linear-gradient(90deg,transparent,rgba(212,175,55,.2),transparent)] bg-[length:200%_100%] animate-shimmer" />
+            <div className="h-full w-full bg-[linear-gradient(90deg,transparent,rgba(5,126,193,.2),transparent)] bg-[length:200%_100%] animate-shimmer" />
           </div>
           <div className="relative text-center">
             <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Ready to Scale?</p>
@@ -114,10 +114,10 @@ export function FundingPage() {
             </p>
             <div className="mt-6 flex flex-col justify-center gap-3 sm:flex-row">
               <Link to="/contact" className="btn-primary">
-                Book a Call Now
+                Book a Call Now →
               </Link>
               <Link to="/results" className="btn-secondary">
-                See Case Studies
+                See Case Studies →
               </Link>
             </div>
           </div>

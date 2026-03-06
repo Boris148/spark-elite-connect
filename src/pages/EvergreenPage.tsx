@@ -22,7 +22,7 @@ export function EvergreenPage() {
     <>
       <section className="section-shell pt-10 sm:pt-14 lg:pt-20">
         <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-white/[0.03] p-6 shadow-gold sm:p-8 lg:p-10">
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_15%,rgba(212,175,55,.14),transparent_45%)]" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_15%,rgba(5,126,193,.14),transparent_45%)]" />
           <div className="relative">
             <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Evergreen Discovery Engine™</p>
             <h1 className="mt-3 text-3xl font-semibold leading-tight sm:text-4xl lg:text-5xl">
@@ -79,9 +79,6 @@ export function EvergreenPage() {
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
               <Link to="/contact" className="btn-primary">
                 Get Your Music Discovered
-              </Link>
-              <Link to="/music" className="btn-secondary">
-                See Jeremy&apos;s Resume
               </Link>
             </div>
           </div>

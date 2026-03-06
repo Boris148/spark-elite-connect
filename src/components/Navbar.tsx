@@ -6,7 +6,6 @@ const navLinks = [
   { to: "/services", label: "Services" },
   { to: "/results", label: "Results" },
   { to: "/funding", label: "Funding" },
-  { to: "/music", label: "Music" },
   { to: "/evergreen", label: "Evergreen" },
   { to: "/about", label: "About" },
   { to: "/contact", label: "Contact" },
@@ -21,7 +20,7 @@ export function Navbar() {
         <div className="flex h-20 items-center justify-between gap-4">
           <Link to="/" className="flex items-center" aria-label="Social Elite Marketing Group home">
             <img
-              src="/images/logos/logo-white.png"
+              src="/images/logos/logo-color.png"
               alt="Social Elite Marketing Group"
               className="h-10 w-auto sm:h-11"
             />
@@ -42,7 +41,7 @@ export function Navbar() {
               </NavLink>
             ))}
             <Link to="/contact" className="btn-primary ml-2 text-sm">
-              Book a Strategy Call
+              Book a Call
             </Link>
           </nav>
 
@@ -85,7 +84,7 @@ export function Navbar() {
                 </NavLink>
               ))}
               <Link to="/contact" onClick={() => setOpen(false)} className="btn-primary mt-2 text-sm">
-                Book a Strategy Call
+                Book a Call
               </Link>
             </div>
           </nav>

@@ -7,21 +7,21 @@ export default {
       colors: {
         elite: {
           black: "#0a0a0a",
-          gold: "#D4AF37",
-          "gold-dark": "#9f7f19",
-          "gold-soft": "#f3dc8a",
+          gold: "#057ec1",
+          "gold-dark": "#045a8d",
+          "gold-soft": "#35a6db",
           slate: "#111111",
-          line: "rgba(212, 175, 55, 0.15)",
+          line: "rgba(5, 126, 193, 0.15)",
         },
       },
       boxShadow: {
-        gold: "0 0 0 1px rgba(212,175,55,0.18), 0 18px 60px rgba(0,0,0,0.45)",
+        gold: "0 0 0 1px rgba(5,126,193,0.18), 0 18px 60px rgba(0,0,0,0.45)",
       },
       backgroundImage: {
         "gold-gradient":
-          "linear-gradient(135deg, #D4AF37 0%, #F2D675 55%, #B78E20 100%)",
+          "linear-gradient(135deg, #057ec1 0%, #35a6db 55%, #045a8d 100%)",
         "hero-radial":
-          "radial-gradient(circle at 15% 15%, rgba(212,175,55,.14), transparent 40%), radial-gradient(circle at 85% 5%, rgba(212,175,55,.08), transparent 35%), radial-gradient(circle at 50% 100%, rgba(212,175,55,.05), transparent 60%)",
+          "radial-gradient(circle at 15% 15%, rgba(5,126,193,.14), transparent 40%), radial-gradient(circle at 85% 5%, rgba(5,126,193,.08), transparent 35%), radial-gradient(circle at 50% 100%, rgba(5,126,193,.05), transparent 60%)",
       },
       fontFamily: {
         display: ["Sora", "ui-sans-serif", "system-ui", "sans-serif"],

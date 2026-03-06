@@ -38,49 +38,48 @@ export const services: Service[] = [
   {
     title: "Paid Media Management",
     price: "Custom Retainer",
-    description:
-      "We don't guess. We test, optimize, and scale across the channels that drive measurable revenue.",
+    description: "We don't guess — we test, optimize, and scale. Every dollar of ad spend is tracked and accountable.",
     features: [
       "Meta Ads (Facebook & Instagram)",
       "Google Ads (Search, Display, YouTube)",
-      "TikTok Ads + retargeting audiences",
-      "Creative strategy, ad copy, weekly reporting",
+      "TikTok Ads",
+      "Retargeting & Lookalike Audiences",
+      "Creative Strategy & Ad Copy",
+      "Weekly Reporting & Optimization",
     ],
   },
   {
     title: "Website Design & Development",
     price: "Starting at $500",
-    description:
-      "Conversion-first websites built to turn clicks into customers and support lead generation from day one.",
+    description: "Conversion-first websites that look great and actually generate leads.",
     features: [
-      "Mobile-first and built for speed",
-      "SEO-optimized from launch",
-      "CRM-ready forms and integrations",
-      "Conversion-focused layout and CTA structure",
+      "Built for speed and mobile-first",
+      "SEO-optimized from day one",
+      "Integrated with your CRM",
+      "Starting at $500",
     ],
   },
   {
     title: "Full-Service Digital Marketing",
     price: "$3,500/mo",
-    description:
-      "One team handling strategy, creative, media buying, analytics, and optimization under one roof.",
+    description: "For businesses that want one team handling everything.",
     features: [
+      "$3,500/mo retainer",
       "Strategy, creative, media buying, reporting",
       "Dedicated account manager",
       "Monthly strategy calls",
-      "Performance optimization across campaigns",
     ],
   },
   {
     title: "White-Label Media Buying",
     price: "$500/mo per account",
     description:
-      "Agency partners can outsource media buying to our team while keeping the client relationship and branding.",
+      "For agencies: Stop losing clients over ad performance. We handle the media buying, you keep the client.",
     features: [
-      "For agencies that need backend fulfillment",
-      "Your branding, our media buying expertise",
-      "Slack communication + weekly reporting",
-      "Built to retain clients through performance",
+      "$500/mo per ad account",
+      "Your branding, our expertise",
+      "Slack channel for real-time communication",
+      "Weekly reports under your brand",
     ],
   },
 ];

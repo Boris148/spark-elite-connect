@@ -11,11 +11,11 @@
 
   body {
     @apply bg-elite-black text-white font-body antialiased;
-    background-image: radial-gradient(circle at 20% 10%, rgba(212, 175, 55, 0.06), transparent 35%);
+    background-image: radial-gradient(circle at 20% 10%, rgba(5, 126, 193, 0.06), transparent 35%);
   }
 
   ::selection {
-    background: rgba(212, 175, 55, 0.25);
+    background: rgba(5, 126, 193, 0.25);
     color: #fff;
   }
 }
@@ -34,7 +34,7 @@
   }
 
   .btn-primary {
-    @apply inline-flex items-center justify-center rounded-full bg-gold-gradient px-5 py-3 font-semibold text-elite-black transition duration-300 hover:scale-[1.02] hover:shadow-lg;
+    @apply inline-flex items-center justify-center rounded-full bg-gold-gradient px-5 py-3 font-semibold text-white transition duration-300 hover:scale-[1.02] hover:shadow-lg;
   }
 
   .btn-secondary {

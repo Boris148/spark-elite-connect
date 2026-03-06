@@ -8,8 +8,8 @@ export function ServicesPage() {
     <>
       <PageHeader
         eyebrow="Services"
-        title="Paid media, websites, and growth systems built to scale revenue"
-        description="From paid media management to white-label fulfillment, Social Elite offers four core service categories designed for performance, accountability, and measurable business growth."
+        title="Paid Media. Website Design. Full-Service. White-Label."
+        description="Paid Media, Website Design ($500), Full-Service ($3,500/mo), White-Label ($500/mo)."
       />
 
       <section className="section-shell py-10 sm:py-14">

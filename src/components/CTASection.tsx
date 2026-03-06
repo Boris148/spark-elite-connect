@@ -13,7 +13,7 @@ export function CTASection({
     <section className="section-shell py-12 sm:py-16">
       <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-gradient-to-br from-white/5 to-white/[0.02] p-6 shadow-gold sm:p-8 lg:p-10">
         <div className="absolute inset-0 opacity-30">
-          <div className="h-full w-full bg-[linear-gradient(90deg,transparent,rgba(212,175,55,.15),transparent)] bg-[length:200%_100%] animate-shimmer" />
+          <div className="h-full w-full bg-[linear-gradient(90deg,transparent,rgba(5,126,193,.15),transparent)] bg-[length:200%_100%] animate-shimmer" />
         </div>
         <div className="relative flex flex-col gap-6 lg:flex-row lg:items-center lg:justify-between">
           <div className="max-w-2xl">

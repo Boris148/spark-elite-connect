@@ -14,8 +14,8 @@ export function ResultsPage() {
     <>
       <PageHeader
         eyebrow="Results"
-        title="The Numbers Dont Lie."
-        description="We let the results speak. Every screenshot is real. Every metric is verified. Use the placeholder blocks below for the final screenshot grid, video testimonials, and before/after metrics content."
+        title="The Numbers Don't Lie."
+        description="We let the results speak. Every screenshot is real. Every metric is verified."
       />
 
       <section className="section-shell py-10 sm:py-14">

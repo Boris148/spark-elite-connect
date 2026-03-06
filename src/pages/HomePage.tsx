@@ -2,10 +2,11 @@ import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
 import { industriesServed, resultCards, services } from "../lib/data";
 
-const stats = [
-  { label: "Industries Served", value: "50+" },
-  { label: "Est. 2017", value: "Nearly a Decade" },
-  { label: "in Ad Spend Managed", value: "Millions" },
+const proofBar = [
+  { primary: "50+ Industries Served", secondary: "" },
+  { primary: "Nearly a Decade in Business", secondary: "Est. 2017" },
+  { primary: "Millions in Ad Spend Managed", secondary: "" },
+  { primary: "Real Screenshots. Real Results.", secondary: "" },
 ];
 
 export function HomePage() {
@@ -27,17 +28,17 @@ export function HomePage() {
             </p>
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
               <Link to="/contact" className="btn-primary">
-                Book a Strategy Call
+                Book a Strategy Call →
               </Link>
               <Link to="/results" className="btn-secondary">
-                See Our Results
+                See Our Results →
               </Link>
             </div>
           </div>
 
           <div className="animate-fade-up [animation-delay:120ms]">
             <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-white/[0.03] p-4 shadow-gold sm:p-5">
-              <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(212,175,55,.14),transparent_45%)]" />
+              <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(5,126,193,.14),transparent_45%)]" />
               <div className="relative">
                 <div className="rounded-2xl border border-elite-line bg-black/40 p-4">
                   <img
@@ -68,15 +69,18 @@ export function HomePage() {
       </section>
 
       <section className="section-shell pb-8">
-        <div className="grid gap-3 sm:grid-cols-3">
-          {stats.map((stat, idx) => (
+        <div className="mb-6">
+          <p className="font-display text-xs uppercase tracking-[0.22em] text-elite-gold">Proof Bar</p>
+        </div>
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          {proofBar.map((item, idx) => (
             <div
-              key={stat.label}
+              key={item.primary}
               className="glass-card animate-fade-up p-5"
               style={{ animationDelay: `${idx * 80}ms` }}
             >
-              <p className="text-2xl font-semibold text-elite-gold sm:text-3xl">{stat.value}</p>
-              <p className="mt-1 text-sm text-white/70">{stat.label}</p>
+              <p className="text-lg font-semibold text-elite-gold sm:text-xl">{item.primary}</p>
+              {item.secondary && <p className="mt-1 text-sm text-white/70">{item.secondary}</p>}
             </div>
           ))}
         </div>

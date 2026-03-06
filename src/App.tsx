@@ -6,7 +6,6 @@ import { ContactPage } from "./pages/ContactPage";
 import { EvergreenPage } from "./pages/EvergreenPage";
 import { FundingPage } from "./pages/FundingPage";
 import { HomePage } from "./pages/HomePage";
-import { MusicPage } from "./pages/MusicPage";
 import { ResultsPage } from "./pages/ResultsPage";
 import { ServicesPage } from "./pages/ServicesPage";
 
@@ -30,7 +29,6 @@ export default function App() {
         <Route path="/services" element={<ServicesPage />} />
         <Route path="/results" element={<ResultsPage />} />
         <Route path="/funding" element={<FundingPage />} />
-        <Route path="/music" element={<MusicPage />} />
         <Route path="/evergreen" element={<EvergreenPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />

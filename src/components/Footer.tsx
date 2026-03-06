@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid gap-10 md:grid-cols-[1.2fr_1fr_1fr]">
           <div>
             <img
-              src="/images/logos/logo-white.png"
+              src="/images/logos/logo-color.png"
               alt={site.shortName}
               className="h-11 w-auto"
             />
@@ -56,14 +56,14 @@ export function Footer() {
               <Link to="/funding" className="hover:text-elite-gold">
                 Funding
               </Link>
-              <Link to="/music" className="hover:text-elite-gold">
-                Music
-              </Link>
               <Link to="/evergreen" className="hover:text-elite-gold">
                 Evergreen
               </Link>
               <Link to="/about" className="hover:text-elite-gold">
                 About
+              </Link>
+              <Link to="/contact" className="hover:text-elite-gold">
+                Contact
               </Link>
             </div>
           </div>
