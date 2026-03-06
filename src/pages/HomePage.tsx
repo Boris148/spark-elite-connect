@@ -144,8 +144,8 @@ export function HomePage() {
 
       <section className="section-shell py-20">
         <div className="mb-12 text-center">
-          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Integrated Delivery</p>
-          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Images belong to the story, not as dividers</h2>
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Creative Media</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Strategy meets creative execution</h2>
           <p className="mx-auto mt-4 max-w-3xl text-sm leading-7 text-white/75">
             From concept to conversion, our creative team produces scroll-stopping content that drives real results.
           </p>
