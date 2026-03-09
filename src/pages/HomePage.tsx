@@ -44,10 +44,10 @@ export function HomePage() {
         <div className="section-shell text-center">
           <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Social Elite Marketing Group</p>
           <h1 className="mx-auto mt-6 max-w-4xl font-display text-4xl font-semibold leading-tight sm:text-5xl lg:text-6xl">
-            280 Million Data Points. One Mission: Your Growth.
+            Data-driven paid media and creative systems built for brands that measure every dollar.
           </h1>
           <p className="mx-auto mt-6 max-w-3xl text-base leading-7 text-white/80 sm:text-lg">
-            We combine nearly a decade of paid media expertise with real-time consumer data to put your ads in front of people already searching for what you sell — not just lookalikes.
+            We run disciplined acquisition systems for brands that need more than hype: clean reporting, proactive strategy, and operators who have scaled across 50+ industries. CrowdSync intelligence sharpens targeting and accelerates decision-making across every campaign.
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
