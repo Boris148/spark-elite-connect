@@ -1,5 +1,6 @@
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { TrulliEmbed } from "../components/TrulliEmbed";
 
 const heroImage = "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=1920&q=80";
 
