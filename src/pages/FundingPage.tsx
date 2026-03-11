@@ -194,6 +194,19 @@ export function FundingPage() {
         </div>
       </section>
 
+      <section className="section-shell py-20">
+        <div className="mx-auto max-w-3xl text-center">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Business Funding</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Apply for Business Funding</h2>
+          <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base">
+            See what you qualify for in minutes. Our trusted funding partner Trulli connects you with the right capital solution for your business.
+          </p>
+        </div>
+        <div className="mt-10">
+          <TrulliEmbed />
+        </div>
+      </section>
+
       <CTASection
         title="Need a partner who understands funding and credit repair?"
         copy="Book a strategy call to map your offers, underwriting requirements, and the launch plan for generating qualified applications plus credit repair demand."
