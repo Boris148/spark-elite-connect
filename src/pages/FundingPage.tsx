@@ -1,5 +1,6 @@
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { TrulliEmbed } from "../components/TrulliEmbed";
 
 const heroImage = "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=1920&q=80";
 
@@ -191,6 +192,19 @@ export function FundingPage() {
               <p className="mt-3 text-sm leading-6 text-white/75">{faq.answer}</p>
             </details>
           ))}
+        </div>
+      </section>
+
+      <section className="section-shell py-20">
+        <div className="mx-auto max-w-3xl text-center">
+          <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Business Funding</p>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Apply for Business Funding</h2>
+          <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base">
+            See what you qualify for in minutes. Our trusted funding partner Trulli connects you with the right capital solution for your business.
+          </p>
+        </div>
+        <div className="mt-10">
+          <TrulliEmbed />
         </div>
       </section>
 
