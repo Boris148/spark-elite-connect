@@ -14,7 +14,20 @@
   <meta name="twitter:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/97f6113f-49bf-4ea6-8926-0ef8bf918f27/id-preview-bda9f11e--3b3b9a91-239f-4259-ad4a-bd508d5e4c00.lovable.app-1772792766470.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta property="og:type" content="website">
-</head>
+    <script>
+      (function () {
+        try {
+          const redirectPath = sessionStorage.redirectPath;
+          if (redirectPath) {
+            delete sessionStorage.redirectPath;
+            window.history.replaceState(null, null, redirectPath);
+          }
+        } catch (err) {
+          // Ignore storage errors
+        }
+      })();
+    </script>
+  </head>
   <body class="bg-elite-black">
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
