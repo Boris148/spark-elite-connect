@@ -195,6 +195,11 @@ export function FundingPage() {
         </div>
       </section>
 
+      <CTASection
+        title="Need a partner who understands funding and credit repair?"
+        copy="Book a strategy call to map your offers, underwriting requirements, and the launch plan for generating qualified applications plus credit repair demand."
+      />
+
       <section className="section-shell py-20">
         <div className="mx-auto max-w-3xl text-center">
           <p className="font-display text-xs uppercase tracking-[0.3em] text-elite-gold">Business Funding</p>
@@ -207,11 +212,6 @@ export function FundingPage() {
           <TrulliEmbed />
         </div>
       </section>
-
-      <CTASection
-        title="Need a partner who understands funding and credit repair?"
-        copy="Book a strategy call to map your offers, underwriting requirements, and the launch plan for generating qualified applications plus credit repair demand."
-      />
     </>
   );
 }
