@@ -9,4 +9,4 @@
 :HL["/spark-elite-connect/images/meta-ads/saas.png","image"]
 :HL["/spark-elite-connect/images/marketing-testimonials/b18067c2-20a8-4d40-9a70-f081caae396a_4_5005_c.jpeg","image"]
 :HL["/spark-elite-connect/images/marketing-testimonials/b3873b47-6d2b-44e5-8d10-7f15f859675f_1_105_c.jpeg","image"]
-0:{"buildId":"rzF2j1xs8UbvL0fZU63Aj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"results","paramType":null,"paramKey":"results","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"OekM_od3hZPohR4I7rHk4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"results","paramType":null,"paramKey":"results","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

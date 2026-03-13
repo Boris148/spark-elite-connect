@@ -13,4 +13,4 @@
 :HL["https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80","image"]
 :HL["https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80","image"]
 :HL["/spark-elite-connect/images/meta-ads/saas.png","image"]
-0:{"buildId":"rzF2j1xs8UbvL0fZU63Aj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"OekM_od3hZPohR4I7rHk4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

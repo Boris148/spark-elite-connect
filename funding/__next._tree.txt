@@ -2,4 +2,4 @@
 :HL["/spark-elite-connect/_next/static/css/ad50bd9973d1627a.css","style"]
 :HL["/spark-elite-connect/images/logos/emblem-color.png","image"]
 :HL["https://images.unsplash.com/photo-1556740749-887f6717d7e4?w=800&q=80","image"]
-0:{"buildId":"rzF2j1xs8UbvL0fZU63Aj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"funding","paramType":null,"paramKey":"funding","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"OekM_od3hZPohR4I7rHk4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"funding","paramType":null,"paramKey":"funding","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
