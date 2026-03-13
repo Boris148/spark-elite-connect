@@ -1,5 +1,5 @@
-:HL["/spark-elite-connect/_next/static/media/c76ddefb5b30b874-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-:HL["/spark-elite-connect/_next/static/css/ad50bd9973d1627a.css","style"]
+:HL["/_next/static/media/c76ddefb5b30b874-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/css/cb0cb3ea0df6bc12.css","style"]
 :HL["/images/logos/emblem-color.png","image"]
 :HL["https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=800&q=80","image"]
-0:{"buildId":"hR3K6zPsac6iTUypIuxSH","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"music","paramType":null,"paramKey":"music","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"cynif7AX1GdGwzyDaUnYJ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"music","paramType":null,"paramKey":"music","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
