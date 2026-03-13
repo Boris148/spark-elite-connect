@@ -1,4 +1,4 @@
-:HL["/_next/static/media/c76ddefb5b30b874-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-:HL["/_next/static/css/cb0cb3ea0df6bc12.css","style"]
+:HL["/spark-elite-connect/_next/static/media/c76ddefb5b30b874-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/spark-elite-connect/_next/static/css/ad50bd9973d1627a.css","style"]
 :HL["/images/logos/emblem-color.png","image"]
-0:{"buildId":"r9jbiEtbGhapucag497Fj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"_not-found","paramType":null,"paramKey":"_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"ws3T_-jWKH6S1z1kX0Hko","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"_not-found","paramType":null,"paramKey":"_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
