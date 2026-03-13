@@ -1,5 +1,5 @@
 :HL["/spark-elite-connect/_next/static/media/c76ddefb5b30b874-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-:HL["/spark-elite-connect/_next/static/css/ad50bd9973d1627a.css","style"]
+:HL["/spark-elite-connect/_next/static/css/a11638a6741d07ae.css","style"]
 :HL["/images/logos/emblem-color.png","image"]
 :HL["https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80","image"]
 :HL["https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80","image"]
@@ -7,4 +7,4 @@
 :HL["https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=800&q=80","image"]
 :HL["https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80","image"]
 :HL["https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80","image"]
-0:{"buildId":"ws3T_-jWKH6S1z1kX0Hko","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"services","paramType":null,"paramKey":"services","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"g5IjNHP_iNpKoYcKMnwnM","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"services","paramType":null,"paramKey":"services","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
