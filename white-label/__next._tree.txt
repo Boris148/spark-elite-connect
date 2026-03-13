@@ -1,0 +1,5 @@
+:HL["/_next/static/media/c76ddefb5b30b874-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/css/cb0cb3ea0df6bc12.css","style"]
+:HL["/images/logos/emblem-color.png","image"]
+:HL["https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=800&q=80","image"]
+0:{"buildId":"r9jbiEtbGhapucag497Fj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"white-label","paramType":null,"paramKey":"white-label","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
