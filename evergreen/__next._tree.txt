@@ -1,4 +1,11 @@
 :HL["/spark-elite-connect/_next/static/media/c76ddefb5b30b874-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/spark-elite-connect/_next/static/css/ad50bd9973d1627a.css","style"]
-:HL["/images/logos/emblem-color.png","image"]
-0:{"buildId":"BtT3h877GpbFmkBlC7fgG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"evergreen","paramType":null,"paramKey":"evergreen","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/spark-elite-connect/images/logos/emblem-color.png","image"]
+:HL["/spark-elite-connect/images/meta-ads/music/teddy-swims.jpeg","image"]
+:HL["/spark-elite-connect/images/meta-ads/music/blackbear.jpg","image"]
+:HL["/spark-elite-connect/images/meta-ads/music/the-used.jpeg","image"]
+:HL["/spark-elite-connect/images/meta-ads/music/the-story-so-far.jpeg","image"]
+:HL["/spark-elite-connect/images/meta-ads/music/the-take-away--discovery_new-listener-campaign-.png","image"]
+:HL["/spark-elite-connect/images/music-media/652a2320-d878-442c-9197-ff1099d27a95_4_5005_c.jpeg","image"]
+:HL["/spark-elite-connect/images/music-media/8f05e003-fc05-4be1-8e0c-e488343e6496_1_201_a.jpeg","image"]
+0:{"buildId":"rzF2j1xs8UbvL0fZU63Aj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"evergreen","paramType":null,"paramKey":"evergreen","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
