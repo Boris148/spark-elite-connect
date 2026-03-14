@@ -1,4 +1,0 @@
-:HL["/spark-elite-connect/_next/static/media/c76ddefb5b30b874-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-:HL["/spark-elite-connect/_next/static/css/ad50bd9973d1627a.css","style"]
-:HL["/spark-elite-connect/images/logos/emblem-color.png","image"]
-0:{"buildId":"OekM_od3hZPohR4I7rHk4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"_not-found","paramType":null,"paramKey":"_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
