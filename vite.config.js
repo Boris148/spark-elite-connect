@@ -7,7 +7,7 @@ var __dirname = path.dirname(fileURLToPath(import.meta.url));
 export default defineConfig(function (_a) {
     var mode = _a.mode;
     return ({
-        base: "./",
+        base: process.env.VITE_BASE_PATH || "/",
         server: {
             host: "::",
             port: 8080,

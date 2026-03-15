@@ -16,6 +16,8 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    env:
+      VITE_BASE_PATH: /spark-elite-connect/
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
