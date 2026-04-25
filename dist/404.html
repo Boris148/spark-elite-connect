@@ -6,7 +6,9 @@
     <script>
       // SPA redirect for GitHub Pages
       sessionStorage.redirectPath = location.pathname + location.search + location.hash;
-      location.replace('/');
+      const pathSegments = location.pathname.split('/').filter(Boolean);
+      const repoBase = pathSegments.length > 0 ? `/${pathSegments[0]}/` : '/';
+      location.replace(repoBase);
     </script>
   </head>
   <body>

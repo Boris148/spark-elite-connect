@@ -1,0 +1,229 @@
+{
+  "site": {
+    "domain": "https://socialelitemarketinggroup.com",
+    "brand": "Social Elite Marketing Group",
+    "voice": "Operator-direct, ROI-focused, no fluff. Senior media-buyer tone. Specific, data-led, opinionated. Aimed at founders and CMOs of service businesses, agencies, and lenders.",
+    "categories": [
+      "Paid Media",
+      "Lead Generation",
+      "Marketing Automation",
+      "AI in Marketing",
+      "Funding & AOS",
+      "Agency Growth"
+    ]
+  },
+  "queue": [
+    {
+      "status": "published",
+      "category": "AI in Marketing",
+      "keyword": "AI agents for marketing agencies",
+      "intent": "informational",
+      "angle": "How AI agents replace VAs for ad ops, reporting, and lead nurture in 2026 — with stack recommendations.",
+      "slug": "ai-agents-for-marketing-agencies-replacing-vas-by-2026",
+      "publishedAt": "2026-04-25T10:04:32.631Z"
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "high intent lead generation for service businesses",
+      "intent": "commercial",
+      "angle": "Why most service businesses leak leads — the 5 funnel stages we audit before spending another dollar."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Meta ads for local service businesses 2026",
+      "intent": "informational",
+      "angle": "Meta's 2026 algorithm changes and what's actually working for HVAC, roofing, dental, and law firms."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "GoHighLevel vs HubSpot for agencies",
+      "intent": "commercial",
+      "angle": "Honest comparison from an agency running both — pricing, automation depth, and white-label gotchas."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "AOS funding for entrepreneurs",
+      "intent": "commercial",
+      "angle": "How AOS Funds (acquisition + operating + scaling) replaces traditional SBA loans for newer businesses."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "white label digital marketing services",
+      "intent": "commercial",
+      "angle": "What white-label fulfillment actually looks like — SLAs, reporting, and client-facing comms that don't break trust."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Google Ads vs Meta Ads for lead gen",
+      "intent": "commercial",
+      "angle": "When to lead with Google vs Meta vs both — decision framework by industry, AOV, and sales cycle."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "AI generated ad creatives Meta",
+      "intent": "informational",
+      "angle": "AI ad creative pipeline that actually scales — from ICP research to UGC-style video output."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead scoring framework for B2B",
+      "intent": "informational",
+      "angle": "A 7-signal lead scoring framework you can build inside GHL or HubSpot in an afternoon."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "GHL workflow automation examples",
+      "intent": "informational",
+      "angle": "10 GoHighLevel workflows that pay for themselves — speed-to-lead, missed-call text-back, review requests, more."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "cost per acquisition benchmarks 2026",
+      "intent": "informational",
+      "angle": "Real CPA benchmarks across 12 industries we run ads in — what's realistic and what's a vanity metric."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "AI cold outreach systems",
+      "intent": "commercial",
+      "angle": "Cold outreach with AI personalization — the exact stack (data + enrichment + AI + sender warmup) we use."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "missed call text back automation",
+      "intent": "informational",
+      "angle": "Why every service business should run missed-call-text-back — the conversion data and how to set it up in 20 minutes."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to scale a marketing agency past 50k MRR",
+      "intent": "informational",
+      "angle": "Operational levers (not sales tactics) that get an agency from 20k to 50k MRR — fulfillment, retention, and ops."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "credit repair for entrepreneurs",
+      "intent": "commercial",
+      "angle": "How personal credit repair unlocks business funding — the order of operations most founders miss."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Facebook ads landing page best practices",
+      "intent": "informational",
+      "angle": "Landing page anatomy that converts cold Meta traffic — sections, copy patterns, and load-time benchmarks."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "marketing attribution for small business",
+      "intent": "informational",
+      "angle": "Attribution without a data team — UTM hygiene, GHL source tracking, and the 3 reports we actually look at weekly."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "ChatGPT for ad copy",
+      "intent": "informational",
+      "angle": "Ad copy prompts and editing checklists that produce winners — not generic AI sludge."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead magnets that convert",
+      "intent": "informational",
+      "angle": "Lead magnets ranked by 2025 conversion data — what still works post-AI saturation."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "TikTok ads for service businesses",
+      "intent": "informational",
+      "angle": "TikTok ads when your customer is over 35 — when it works, when it doesn't, and creative formats that perform."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "agency client retention strategies",
+      "intent": "informational",
+      "angle": "Why agencies churn clients at month 3 — retention systems built around weekly reporting and proactive comms."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "business credit cards for new businesses",
+      "intent": "commercial",
+      "angle": "The 0%-APR business cards we route founders to during the funding stack — order, limits, and pitfalls."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "speed to lead response time",
+      "intent": "informational",
+      "angle": "Speed-to-lead data: why under-5-minute response wins, and the automations that make it inevitable."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "AI voice agents for sales calls",
+      "intent": "commercial",
+      "angle": "AI voice agents in 2026 — what's actually production-ready (ElevenLabs + Twilio + LLM stack) and where humans still win."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Meta ads creative testing framework",
+      "intent": "informational",
+      "angle": "Creative testing matrix — hook x format x angle — that consistently finds winners under $500 in spend."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "google business profile optimization",
+      "intent": "informational",
+      "angle": "GBP optimization for local lead gen — the 9 fields most businesses ignore that move the local pack."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "agency pricing models 2026",
+      "intent": "informational",
+      "angle": "Performance vs retainer vs hybrid pricing — what's working in 2026 and how to structure it without margin death."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to qualify for business loans",
+      "intent": "informational",
+      "angle": "Loan qualification math most banks won't explain — DSCR, time in business, and the docs that tip approvals."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "review request automation for local business",
+      "intent": "informational",
+      "angle": "Review request systems that generate 5+ Google reviews a week — timing, channel, and copy patterns."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "marketing reporting automation",
+      "intent": "informational",
+      "angle": "Automated marketing reporting stack — Looker Studio, GHL, and AI summaries that replace weekly slide decks."
+    }
+  ]
+}

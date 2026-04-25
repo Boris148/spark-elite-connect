@@ -1,7 +1,10 @@
-import { Navigate, Outlet, Route, Routes } from "react-router-dom";
+import { Navigate, Outlet, Route, Routes, useLocation } from "react-router-dom";
+import { useEffect } from "react";
 import { Footer } from "./components/Footer";
 import { Navbar } from "./components/Navbar";
 import { AboutPage } from "./pages/AboutPage";
+import { BlogIndexPage } from "./pages/BlogIndexPage";
+import { BlogPostPage } from "./pages/BlogPostPage";
 import { ContactPage } from "./pages/ContactPage";
 import { DataPage } from "./pages/DataPage";
 import { EvergreenPage } from "./pages/EvergreenPage";
@@ -11,9 +14,18 @@ import { ResultsPage } from "./pages/ResultsPage";
 import { ServicesPage } from "./pages/ServicesPage";
 import { WhiteLabelPage } from "./pages/WhiteLabelPage";
 
+function ScrollToTop() {
+  const { pathname } = useLocation();
+  useEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+  }, [pathname]);
+  return null;
+}
+
 function SiteLayout() {
   return (
     <div className="min-h-screen bg-elite-black bg-hero-radial">
+      <ScrollToTop />
       <Navbar />
       <main>
         <Outlet />
@@ -36,6 +48,8 @@ export default function App() {
         <Route path="/evergreen" element={<EvergreenPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
+        <Route path="/blog" element={<BlogIndexPage />} />
+        <Route path="/blog/:slug" element={<BlogPostPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>
     </Routes>
