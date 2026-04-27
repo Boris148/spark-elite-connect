@@ -32,11 +32,13 @@
       "publishedAt": "2026-04-27T06:01:50.564Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "Meta ads for local service businesses 2026",
       "intent": "informational",
-      "angle": "Meta's 2026 algorithm changes and what's actually working for HVAC, roofing, dental, and law firms."
+      "angle": "Meta's 2026 algorithm changes and what's actually working for HVAC, roofing, dental, and law firms.",
+      "slug": "meta-ads-for-local-service-businesses-in-2026-what-works",
+      "publishedAt": "2026-04-27T14:05:30.033Z"
     },
     {
       "status": "pending",
