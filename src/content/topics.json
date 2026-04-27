@@ -23,11 +23,13 @@
       "publishedAt": "2026-04-25T10:04:32.631Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "high intent lead generation for service businesses",
       "intent": "commercial",
-      "angle": "Why most service businesses leak leads — the 5 funnel stages we audit before spending another dollar."
+      "angle": "Why most service businesses leak leads — the 5 funnel stages we audit before spending another dollar.",
+      "slug": "high-intent-lead-generation-for-service-businesses-5-leak-points",
+      "publishedAt": "2026-04-27T06:01:50.564Z"
     },
     {
       "status": "pending",

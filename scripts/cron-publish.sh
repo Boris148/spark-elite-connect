@@ -16,7 +16,7 @@ echo "===== $(date -u '+%Y-%m-%dT%H:%M:%SZ') START ====="
 
 cd "$PROJECT_DIR" || { echo "cd failed"; exit 1; }
 
-# Load env (GEMINI_API_KEY at minimum)
+# Load env (ANTHROPIC_API_KEY required; GEMINI_API_KEY kept as fallback)
 if [ -f "$ENV_FILE" ]; then
   set -a
   # shellcheck disable=SC1090
@@ -24,8 +24,17 @@ if [ -f "$ENV_FILE" ]; then
   set +a
 fi
 
-if [ -z "${GEMINI_API_KEY:-}" ]; then
-  echo "FATAL: GEMINI_API_KEY not set"
+# Anthropic key isn't in ~/.openclaw/.env — extract from auth-profiles.json
+if [ -z "${ANTHROPIC_API_KEY:-}" ]; then
+  AUTH_FILE="/Users/openclaw-boris/.openclaw/agents/main/agent/auth-profiles.json"
+  if [ -f "$AUTH_FILE" ]; then
+    ANTHROPIC_API_KEY=$(grep -oE '"key"[[:space:]]*:[[:space:]]*"sk-ant-api03-[^"]*"' "$AUTH_FILE" | head -1 | sed 's/.*"\(sk-ant-api03-[^"]*\)"/\1/')
+    export ANTHROPIC_API_KEY
+  fi
+fi
+
+if [ -z "${ANTHROPIC_API_KEY:-}" ]; then
+  echo "FATAL: ANTHROPIC_API_KEY not set and not extractable from auth-profiles.json"
   exit 1
 fi
 

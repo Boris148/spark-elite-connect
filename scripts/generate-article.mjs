@@ -14,11 +14,11 @@ const RSS_FILE = path.join(ROOT, "public/rss.xml");
 const ROBOTS_FILE = path.join(ROOT, "public/robots.txt");
 
 const SITE_URL = "https://socialelitemarketinggroup.com";
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+const MODEL = process.env.ANTHROPIC_MODEL || "claude-opus-4-7";
 
-if (!GEMINI_API_KEY) {
-  console.error("Missing GEMINI_API_KEY env var.");
+if (!ANTHROPIC_API_KEY) {
+  console.error("Missing ANTHROPIC_API_KEY env var. Set it in cron-publish.sh.");
   process.exit(1);
 }
 
@@ -93,32 +93,49 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;");
 }
 
-async function callGemini(systemPrompt, userPrompt) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${GEMINI_API_KEY}`;
+function extractJson(text) {
+  // Claude usually returns clean JSON when prefilled with `{`, but defensively handle:
+  // 1) raw JSON, 2) ```json fenced, 3) JSON embedded in prose.
+  const trimmed = text.trim();
+  if (trimmed.startsWith("{") || trimmed.startsWith("[")) {
+    return JSON.parse(trimmed);
+  }
+  const fenced = trimmed.match(/```(?:json)?\s*([\s\S]*?)```/);
+  if (fenced) return JSON.parse(fenced[1].trim());
+  const objMatch = trimmed.match(/\{[\s\S]*\}/);
+  if (objMatch) return JSON.parse(objMatch[0]);
+  throw new Error("Could not locate JSON in Claude response: " + trimmed.slice(0, 400));
+}
+
+async function callClaude(systemPrompt, userPrompt) {
+  const url = "https://api.anthropic.com/v1/messages";
+  // Opus 4.7 doesn't support assistant prefill — rely on prompt + extractJson()
+  const hardenedSystem = systemPrompt + "\n\nCRITICAL: Output ONLY a single valid JSON object. No prose, no preamble, no markdown code fences, no commentary. Begin your response with { and end with }.";
   const body = {
-    systemInstruction: { parts: [{ text: systemPrompt }] },
-    contents: [{ role: "user", parts: [{ text: userPrompt }] }],
-    generationConfig: {
-      temperature: 0.75,
-      maxOutputTokens: 8192,
-      responseMimeType: "application/json",
-    },
+    model: MODEL,
+    max_tokens: 8000,
+    system: hardenedSystem,
+    messages: [{ role: "user", content: userPrompt }],
   };
   const res = await fetch(url, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      "x-api-key": ANTHROPIC_API_KEY,
+      "anthropic-version": "2023-06-01",
+      "content-type": "application/json",
+    },
     body: JSON.stringify(body),
   });
   if (!res.ok) {
     const text = await res.text();
-    throw new Error(`Gemini API ${res.status}: ${text.slice(0, 800)}`);
+    throw new Error(`Claude API ${res.status}: ${text.slice(0, 800)}`);
   }
   const data = await res.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+  const text = data?.content?.[0]?.text;
   if (!text) {
-    throw new Error("Empty Gemini response: " + JSON.stringify(data).slice(0, 600));
+    throw new Error("Empty Claude response: " + JSON.stringify(data).slice(0, 600));
   }
-  return JSON.parse(text);
+  return extractJson(text);
 }
 
 function buildPrompts(site, topic) {
@@ -271,11 +288,12 @@ async function main() {
   }
 
   console.log(`[generate-article] Topic: ${next.keyword}`);
+  console.log(`[generate-article] Writer: ${MODEL}`);
   const { system, user } = buildPrompts(topicsData.site, next);
-  const result = await callGemini(system, user);
+  const result = await callClaude(system, user);
 
   if (!result.title || !result.sections || !Array.isArray(result.sections)) {
-    throw new Error("Gemini response missing required fields: " + JSON.stringify(result).slice(0, 400));
+    throw new Error("Claude response missing required fields: " + JSON.stringify(result).slice(0, 400));
   }
 
   let slug = slugify(result.title);
