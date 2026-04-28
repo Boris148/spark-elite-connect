@@ -41,11 +41,13 @@
       "publishedAt": "2026-04-27T14:05:30.033Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "GoHighLevel vs HubSpot for agencies",
       "intent": "commercial",
-      "angle": "Honest comparison from an agency running both — pricing, automation depth, and white-label gotchas."
+      "angle": "Honest comparison from an agency running both — pricing, automation depth, and white-label gotchas.",
+      "slug": "gohighlevel-vs-hubspot-for-agencies-the-operators-take",
+      "publishedAt": "2026-04-28T14:03:57.120Z"
     },
     {
       "status": "pending",
