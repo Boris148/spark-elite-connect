@@ -1,13 +1,13 @@
 #!/bin/bash
 # Daily article publisher for socialelitemarketinggroup.com.
 # Pulls latest main, generates one article, commits, pushes.
-# Logs to scripts/cron-publish.log.
+# Logs to ~/.openclaw/logs/social-elite-cron.log (out-of-repo so it doesn't dirty the worktree).
 
 set -u
 
 PROJECT_DIR="/Users/openclaw-boris/.openclaw/workspace/social-elite-site"
 ENV_FILE="/Users/openclaw-boris/.openclaw/.env"
-LOG="$PROJECT_DIR/scripts/cron-publish.log"
+LOG="/Users/openclaw-boris/.openclaw/logs/social-elite-cron.log"
 
 mkdir -p "$(dirname "$LOG")"
 exec >> "$LOG" 2>&1

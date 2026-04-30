@@ -12,6 +12,7 @@ const ARTICLES_FILE = path.join(ROOT, "src/content/articles.json");
 const SITEMAP_FILE = path.join(ROOT, "public/sitemap.xml");
 const RSS_FILE = path.join(ROOT, "public/rss.xml");
 const ROBOTS_FILE = path.join(ROOT, "public/robots.txt");
+const QA_LOG_FILE = path.join(ROOT, "qa-log/generic-language-stats.jsonl");
 
 const SITE_URL = "https://socialelitemarketinggroup.com";
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
@@ -91,6 +92,84 @@ function escapeHtml(s) {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
+}
+
+// Generic AI filler patterns. Strip-and-log: silently rewriting hides when the
+// system prompt's "no filler" rule is failing. Logging surfaces it for review.
+const GENERIC_AI_PATTERNS = [
+  /in\s+today['']s\s+(fast[-\s]paced|digital|ever[-\s]evolving|competitive|modern)\s+(world|age|landscape|market|environment)/gi,
+  /in\s+(an?\s+)?(increasingly|ever[-\s]evolving|rapidly\s+changing)\s+(world|landscape|environment|market)/gi,
+  /in\s+a\s+world\s+where/gi,
+  /leveraging\s+(synergies|cutting[-\s]edge|the\s+power\s+of)/gi,
+  /harness(ing)?\s+the\s+power\s+of/gi,
+  /unlock(ing)?\s+the\s+(true\s+)?potential/gi,
+  /navigat(e|ing)\s+the\s+complexit(y|ies)\s+of/gi,
+  /at\s+the\s+end\s+of\s+the\s+day/gi,
+  /it['']s\s+(important|worth)\s+(to\s+note|noting)\s+that/gi,
+  /it['']s\s+no\s+secret\s+that/gi,
+  /needless\s+to\s+say/gi,
+  /paradigm\s+shift/gi,
+  /game[-\s]chang(er|ing)/gi,
+  /seamless(ly)?\s+integrat(e|ion|ing)/gi,
+  /(cutting[-\s]edge|state[-\s]of[-\s]the[-\s]art|best[-\s]in[-\s]class|next[-\s]level)\s+(solutions?|technology|approach|platform)/gi,
+  /\b(revolutionary|groundbreaking|unprecedented|robust|holistic|synergistic)\s+(solutions?|approach|platform|strategy|framework)\b/gi,
+  /delv(e|ing)\s+(deep(er)?\s+)?into/gi,
+  /embark(ing)?\s+on\s+a\s+journey/gi,
+  /tap(ping)?\s+into\s+the\s+power\s+of/gi,
+  /\b(moving|going)\s+forward,?\s*/gi,
+  /\bcircl(e|ing)\s+back\b/gi,
+  /low[-\s]hanging\s+fruit/gi,
+];
+
+function runGenericLanguageQA(result) {
+  const stats = { totalHits: 0, byPattern: {} };
+
+  const cleanText = (text) => {
+    if (!text || typeof text !== "string") return text;
+    let cleaned = text;
+    for (const pattern of GENERIC_AI_PATTERNS) {
+      const matches = cleaned.match(pattern);
+      if (matches && matches.length) {
+        const key = pattern.source;
+        stats.byPattern[key] = (stats.byPattern[key] || 0) + matches.length;
+        stats.totalHits += matches.length;
+        cleaned = cleaned.replace(pattern, "");
+      }
+    }
+    // Tidy up artifacts left by stripping mid-sentence
+    cleaned = cleaned
+      .replace(/\s+,/g, ",")
+      .replace(/,\s*,/g, ",")
+      .replace(/,\s*\./g, ".")
+      .replace(/\s{2,}/g, " ")
+      .replace(/\s+([.!?])/g, "$1")
+      .replace(/^\s*[,.;:]\s*/gm, "")
+      .replace(/([.!?])\s*\1+/g, "$1")
+      .trim();
+    return cleaned;
+  };
+
+  if (result.introduction) result.introduction = cleanText(result.introduction);
+  if (Array.isArray(result.sections)) {
+    for (const s of result.sections) {
+      if (s && s.body) s.body = cleanText(s.body);
+    }
+  }
+  if (result.conclusion) result.conclusion = cleanText(result.conclusion);
+
+  return stats;
+}
+
+async function appendQAStatsLog(slug, stats, model) {
+  const entry = {
+    date: new Date().toISOString(),
+    slug,
+    model,
+    totalHits: stats.totalHits,
+    byPattern: stats.byPattern,
+  };
+  await fs.mkdir(path.dirname(QA_LOG_FILE), { recursive: true });
+  await fs.appendFile(QA_LOG_FILE, JSON.stringify(entry) + "\n", "utf8");
 }
 
 function extractJson(text) {
@@ -266,7 +345,7 @@ async function gitPushIfRequested() {
   if (process.env.GIT_PUSH === "false") return;
   try {
     execSync(
-      `git add src/content/articles.json src/content/topics.json public/sitemap.xml public/rss.xml public/robots.txt`,
+      `git add src/content/articles.json src/content/topics.json public/sitemap.xml public/rss.xml public/robots.txt qa-log/generic-language-stats.jsonl`,
       { cwd: ROOT, stdio: "inherit" }
     );
     const msg = process.env.GIT_COMMIT_MSG || `blog: publish ${new Date().toISOString().slice(0, 10)} article`;
@@ -294,6 +373,16 @@ async function main() {
 
   if (!result.title || !result.sections || !Array.isArray(result.sections)) {
     throw new Error("Claude response missing required fields: " + JSON.stringify(result).slice(0, 400));
+  }
+
+  const qaStats = runGenericLanguageQA(result);
+  if (qaStats.totalHits > 0) {
+    console.warn(
+      `[generate-article] ⚠️  Generic-language QA stripped ${qaStats.totalHits} filler phrase(s) — system prompt instruction may be failing. Pattern hits:`,
+      qaStats.byPattern
+    );
+  } else {
+    console.log("[generate-article] ✓ Generic-language QA: clean (0 hits)");
   }
 
   let slug = slugify(result.title);
@@ -325,6 +414,8 @@ async function main() {
   next.slug = slug;
   next.publishedAt = article.date;
   await writeJson(TOPICS_FILE, topicsData);
+
+  await appendQAStatsLog(slug, qaStats, MODEL);
 
   await writeSitemap(articlesData.articles);
   await writeRss(articlesData.articles);
