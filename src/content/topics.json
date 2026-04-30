@@ -50,11 +50,13 @@
       "publishedAt": "2026-04-28T14:03:57.120Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "AOS funding for entrepreneurs",
       "intent": "commercial",
-      "angle": "How AOS Funds (acquisition + operating + scaling) replaces traditional SBA loans for newer businesses."
+      "angle": "How AOS Funds (acquisition + operating + scaling) replaces traditional SBA loans for newer businesses.",
+      "slug": "aos-funding-for-entrepreneurs-the-sba-loan-killer-in-2026",
+      "publishedAt": "2026-04-30T14:01:30.146Z"
     },
     {
       "status": "pending",
