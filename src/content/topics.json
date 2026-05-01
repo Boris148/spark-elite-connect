@@ -77,11 +77,13 @@
       "publishedAt": "2026-05-01T14:01:34.753Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "AI generated ad creatives Meta",
       "intent": "informational",
-      "angle": "AI ad creative pipeline that actually scales — from ICP research to UGC-style video output."
+      "angle": "AI ad creative pipeline that actually scales — from ICP research to UGC-style video output.",
+      "slug": "google-ads-vs-meta-ads-for-lead-gen-roi-decision-guide",
+      "publishedAt": "2026-05-01T14:01:44.960Z"
     },
     {
       "status": "pending",
