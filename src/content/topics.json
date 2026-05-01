@@ -68,11 +68,13 @@
       "publishedAt": "2026-05-01T04:07:13.735Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "Google Ads vs Meta Ads for lead gen",
       "intent": "commercial",
-      "angle": "When to lead with Google vs Meta vs both — decision framework by industry, AOV, and sales cycle."
+      "angle": "When to lead with Google vs Meta vs both — decision framework by industry, AOV, and sales cycle.",
+      "slug": "google-ads-vs-meta-ads-for-lead-gen-when-to-use-each",
+      "publishedAt": "2026-05-01T14:01:34.753Z"
     },
     {
       "status": "pending",
