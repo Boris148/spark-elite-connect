@@ -40,15 +40,32 @@ fi
 
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$PATH"
 
+# Stash any dirty worktree state so rebase pull never blocks
+STASHED=0
+if ! git diff --quiet || ! git diff --cached --quiet; then
+  if git stash push -u -m "cron-publish auto-stash $(date -u '+%Y-%m-%dT%H:%M:%SZ')" >/dev/null; then
+    STASHED=1
+    echo "auto-stashed dirty worktree before pull"
+  fi
+fi
+
 # Pull latest so we don't conflict with Lovable pushes
-git pull --rebase origin main || {
+git pull --rebase origin main
+pull_status=$?
+if [ $pull_status -ne 0 ]; then
   echo "git pull failed — aborting publish"
   git rebase --abort 2>/dev/null
+  [ $STASHED -eq 1 ] && git stash pop 2>/dev/null
   exit 1
-}
+fi
 
 node scripts/generate-article.mjs
 status=$?
+
+# Restore any stash that wasn't consumed
+if [ $STASHED -eq 1 ]; then
+  git stash pop 2>/dev/null || echo "stash pop failed — manual intervention may be needed"
+fi
 
 echo "===== $(date -u '+%Y-%m-%dT%H:%M:%SZ') END status=$status ====="
 exit $status
