@@ -59,11 +59,13 @@
       "publishedAt": "2026-04-30T14:01:30.146Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "white label digital marketing services",
       "intent": "commercial",
-      "angle": "What white-label fulfillment actually looks like — SLAs, reporting, and client-facing comms that don't break trust."
+      "angle": "What white-label fulfillment actually looks like — SLAs, reporting, and client-facing comms that don't break trust.",
+      "slug": "white-label-digital-marketing-services-what-fulfillment-really-looks-like",
+      "publishedAt": "2026-05-01T04:07:13.735Z"
     },
     {
       "status": "pending",
