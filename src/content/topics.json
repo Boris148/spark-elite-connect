@@ -104,11 +104,13 @@
       "publishedAt": "2026-05-02T14:03:18.123Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "cost per acquisition benchmarks 2026",
       "intent": "informational",
-      "angle": "Real CPA benchmarks across 12 industries we run ads in — what's realistic and what's a vanity metric."
+      "angle": "Real CPA benchmarks across 12 industries we run ads in — what's realistic and what's a vanity metric.",
+      "slug": "cost-per-acquisition-benchmarks-2026-real-cpas-by-industry",
+      "publishedAt": "2026-05-03T14:01:26.873Z"
     },
     {
       "status": "pending",
