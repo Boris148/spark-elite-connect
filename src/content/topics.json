@@ -113,11 +113,13 @@
       "publishedAt": "2026-05-03T14:01:26.873Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "AI cold outreach systems",
       "intent": "commercial",
-      "angle": "Cold outreach with AI personalization — the exact stack (data + enrichment + AI + sender warmup) we use."
+      "angle": "Cold outreach with AI personalization — the exact stack (data + enrichment + AI + sender warmup) we use.",
+      "slug": "cost-per-acquisition-benchmarks-2026-realistic-ad-cpas",
+      "publishedAt": "2026-05-03T14:02:46.044Z"
     },
     {
       "status": "pending",
