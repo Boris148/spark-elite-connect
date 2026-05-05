@@ -122,11 +122,13 @@
       "publishedAt": "2026-05-05T14:01:36.231Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "missed call text back automation",
       "intent": "informational",
-      "angle": "Why every service business should run missed-call-text-back — the conversion data and how to set it up in 20 minutes."
+      "angle": "Why every service business should run missed-call-text-back — the conversion data and how to set it up in 20 minutes.",
+      "slug": "ai-cold-outreach-systems-the-exact-stack-we-use-to-scale",
+      "publishedAt": "2026-05-05T14:04:59.544Z"
     },
     {
       "status": "pending",
