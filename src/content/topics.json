@@ -113,11 +113,13 @@
       "publishedAt": "2026-05-03T14:01:26.873Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "AI cold outreach systems",
       "intent": "commercial",
-      "angle": "Cold outreach with AI personalization — the exact stack (data + enrichment + AI + sender warmup) we use."
+      "angle": "Cold outreach with AI personalization — the exact stack (data + enrichment + AI + sender warmup) we use.",
+      "slug": "ai-cold-outreach-systems-the-stack-we-use-to-hit-12-reply-rates",
+      "publishedAt": "2026-05-05T14:01:36.231Z"
     },
     {
       "status": "pending",
