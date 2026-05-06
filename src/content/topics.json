@@ -140,11 +140,13 @@
       "publishedAt": "2026-05-06T14:01:31.173Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "credit repair for entrepreneurs",
       "intent": "commercial",
-      "angle": "How personal credit repair unlocks business funding — the order of operations most founders miss."
+      "angle": "How personal credit repair unlocks business funding — the order of operations most founders miss.",
+      "slug": "how-to-scale-a-marketing-agency-past-50k-mrr-the-ops-playbook",
+      "publishedAt": "2026-05-06T14:05:31.426Z"
     },
     {
       "status": "pending",
