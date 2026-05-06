@@ -131,11 +131,13 @@
       "publishedAt": "2026-05-05T14:04:59.544Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to scale a marketing agency past 50k MRR",
       "intent": "informational",
-      "angle": "Operational levers (not sales tactics) that get an agency from 20k to 50k MRR — fulfillment, retention, and ops."
+      "angle": "Operational levers (not sales tactics) that get an agency from 20k to 50k MRR — fulfillment, retention, and ops.",
+      "slug": "how-to-scale-a-marketing-agency-past-50k-mrr-ops-playbook",
+      "publishedAt": "2026-05-06T14:01:31.173Z"
     },
     {
       "status": "pending",
