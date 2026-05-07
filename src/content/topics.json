@@ -158,11 +158,13 @@
       "publishedAt": "2026-05-07T14:01:48.165Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "marketing attribution for small business",
       "intent": "informational",
-      "angle": "Attribution without a data team — UTM hygiene, GHL source tracking, and the 3 reports we actually look at weekly."
+      "angle": "Attribution without a data team — UTM hygiene, GHL source tracking, and the 3 reports we actually look at weekly.",
+      "slug": "facebook-ads-landing-page-best-practices-that-actually-convert",
+      "publishedAt": "2026-05-07T14:04:02.638Z"
     },
     {
       "status": "pending",
