@@ -149,11 +149,13 @@
       "publishedAt": "2026-05-06T14:05:31.426Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "Facebook ads landing page best practices",
       "intent": "informational",
-      "angle": "Landing page anatomy that converts cold Meta traffic — sections, copy patterns, and load-time benchmarks."
+      "angle": "Landing page anatomy that converts cold Meta traffic — sections, copy patterns, and load-time benchmarks.",
+      "slug": "facebook-ads-landing-page-best-practices-the-conversion-anatomy",
+      "publishedAt": "2026-05-07T14:01:48.165Z"
     },
     {
       "status": "pending",
