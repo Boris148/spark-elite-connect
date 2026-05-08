@@ -167,11 +167,13 @@
       "publishedAt": "2026-05-07T14:04:02.638Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "ChatGPT for ad copy",
       "intent": "informational",
-      "angle": "Ad copy prompts and editing checklists that produce winners — not generic AI sludge."
+      "angle": "Ad copy prompts and editing checklists that produce winners — not generic AI sludge.",
+      "slug": "chatgpt-for-ad-copy-prompts-and-edits-that-print-winners",
+      "publishedAt": "2026-05-08T14:01:34.061Z"
     },
     {
       "status": "pending",
