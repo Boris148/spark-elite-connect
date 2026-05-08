@@ -176,11 +176,13 @@
       "publishedAt": "2026-05-08T14:01:34.061Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead magnets that convert",
       "intent": "informational",
-      "angle": "Lead magnets ranked by 2025 conversion data — what still works post-AI saturation."
+      "angle": "Lead magnets ranked by 2025 conversion data — what still works post-AI saturation.",
+      "slug": "chatgpt-for-ad-copy-prompts-and-checklists-that-win",
+      "publishedAt": "2026-05-08T14:03:08.236Z"
     },
     {
       "status": "pending",
