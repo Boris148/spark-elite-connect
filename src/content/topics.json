@@ -185,11 +185,13 @@
       "publishedAt": "2026-05-08T14:03:08.236Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "TikTok ads for service businesses",
       "intent": "informational",
-      "angle": "TikTok ads when your customer is over 35 — when it works, when it doesn't, and creative formats that perform."
+      "angle": "TikTok ads when your customer is over 35 — when it works, when it doesn't, and creative formats that perform.",
+      "slug": "tiktok-ads-for-service-businesses-when-buyers-are-over-35",
+      "publishedAt": "2026-05-09T14:01:30.456Z"
     },
     {
       "status": "pending",
