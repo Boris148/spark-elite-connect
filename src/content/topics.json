@@ -194,11 +194,13 @@
       "publishedAt": "2026-05-09T14:01:30.456Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "agency client retention strategies",
       "intent": "informational",
-      "angle": "Why agencies churn clients at month 3 — retention systems built around weekly reporting and proactive comms."
+      "angle": "Why agencies churn clients at month 3 — retention systems built around weekly reporting and proactive comms.",
+      "slug": "tiktok-ads-for-service-businesses-what-actually-converts",
+      "publishedAt": "2026-05-09T14:03:46.878Z"
     },
     {
       "status": "pending",
