@@ -212,11 +212,13 @@
       "publishedAt": "2026-05-10T14:01:31.709Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "speed to lead response time",
       "intent": "informational",
-      "angle": "Speed-to-lead data: why under-5-minute response wins, and the automations that make it inevitable."
+      "angle": "Speed-to-lead data: why under-5-minute response wins, and the automations that make it inevitable.",
+      "slug": "business-credit-cards-for-new-businesses-the-0-apr-stack-fhn3",
+      "publishedAt": "2026-05-10T14:03:33.541Z"
     },
     {
       "status": "pending",
