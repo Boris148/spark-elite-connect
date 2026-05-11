@@ -221,11 +221,13 @@
       "publishedAt": "2026-05-10T14:03:33.541Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "AI voice agents for sales calls",
       "intent": "commercial",
-      "angle": "AI voice agents in 2026 — what's actually production-ready (ElevenLabs + Twilio + LLM stack) and where humans still win."
+      "angle": "AI voice agents in 2026 — what's actually production-ready (ElevenLabs + Twilio + LLM stack) and where humans still win.",
+      "slug": "ai-voice-agents-for-sales-calls-what-actually-ships-in-2026",
+      "publishedAt": "2026-05-11T14:01:18.572Z"
     },
     {
       "status": "pending",
