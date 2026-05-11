@@ -230,11 +230,13 @@
       "publishedAt": "2026-05-11T14:01:18.572Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "Meta ads creative testing framework",
       "intent": "informational",
-      "angle": "Creative testing matrix — hook x format x angle — that consistently finds winners under $500 in spend."
+      "angle": "Creative testing matrix — hook x format x angle — that consistently finds winners under $500 in spend.",
+      "slug": "ai-voice-agents-for-sales-calls-whats-actually-working",
+      "publishedAt": "2026-05-11T14:05:06.446Z"
     },
     {
       "status": "pending",
