@@ -266,11 +266,13 @@
       "publishedAt": "2026-05-13T14:01:13.154Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "review request automation for local business",
       "intent": "informational",
-      "angle": "Review request systems that generate 5+ Google reviews a week — timing, channel, and copy patterns."
+      "angle": "Review request systems that generate 5+ Google reviews a week — timing, channel, and copy patterns.",
+      "slug": "how-to-qualify-for-business-loans-the-math-banks-wont-show",
+      "publishedAt": "2026-05-13T14:03:48.820Z"
     },
     {
       "status": "pending",
