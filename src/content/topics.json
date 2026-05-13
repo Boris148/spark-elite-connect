@@ -257,11 +257,13 @@
       "publishedAt": "2026-05-12T14:06:03.218Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to qualify for business loans",
       "intent": "informational",
-      "angle": "Loan qualification math most banks won't explain — DSCR, time in business, and the docs that tip approvals."
+      "angle": "Loan qualification math most banks won't explain — DSCR, time in business, and the docs that tip approvals.",
+      "slug": "how-to-qualify-for-business-loans-the-math-banks-hide",
+      "publishedAt": "2026-05-13T14:01:13.154Z"
     },
     {
       "status": "pending",
