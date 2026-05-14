@@ -275,11 +275,13 @@
       "publishedAt": "2026-05-13T14:03:48.820Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "marketing reporting automation",
       "intent": "informational",
-      "angle": "Automated marketing reporting stack — Looker Studio, GHL, and AI summaries that replace weekly slide decks."
+      "angle": "Automated marketing reporting stack — Looker Studio, GHL, and AI summaries that replace weekly slide decks.",
+      "slug": "marketing-reporting-automation-kill-the-weekly-slide-deck",
+      "publishedAt": "2026-05-14T14:01:10.986Z"
     }
   ]
 }
