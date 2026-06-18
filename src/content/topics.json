@@ -293,11 +293,13 @@
       "publishedAt": "2026-06-18T14:01:30.045Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "Facebook ads for roofing companies",
       "intent": "commercial",
-      "angle": "Roofing lead-gen on Meta: storm-response targeting, the creative angles that work, and realistic cost-per-lead to budget for."
+      "angle": "Roofing lead-gen on Meta: storm-response targeting, the creative angles that work, and realistic cost-per-lead to budget for.",
+      "slug": "google-ads-for-hvac-companies-the-2026-cost-playbook",
+      "publishedAt": "2026-06-18T14:01:51.510Z"
     },
     {
       "status": "pending",
