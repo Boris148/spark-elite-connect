@@ -282,6 +282,202 @@
       "angle": "Automated marketing reporting stack — Looker Studio, GHL, and AI summaries that replace weekly slide decks.",
       "slug": "marketing-reporting-automation-kill-the-weekly-slide-deck",
       "publishedAt": "2026-05-14T14:01:10.986Z"
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Google Ads for HVAC companies",
+      "intent": "commercial",
+      "angle": "What HVAC owners should expect to pay per lead in 2026 (~$104 search, ~$80 LSAs), branded vs non-branded splits, and the campaign structure that books service calls."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Facebook ads for roofing companies",
+      "intent": "commercial",
+      "angle": "Roofing lead-gen on Meta: storm-response targeting, the creative angles that work, and realistic cost-per-lead to budget for."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "PPC for dentists",
+      "intent": "commercial",
+      "angle": "What dental practices actually pay per new-patient lead and how to stop wasting spend on low-value procedures."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Google Ads for law firms cost per lead",
+      "intent": "commercial",
+      "angle": "Why legal clicks are the most expensive in search, PI vs family vs criminal CPLs, and how to protect ROI."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Meta ads for med spas",
+      "intent": "commercial",
+      "angle": "Booked-appointment funnels for med spas: offers that convert, compliance pitfalls, and the creative that performs."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for plumbers",
+      "intent": "commercial",
+      "angle": "Emergency vs scheduled demand, Local Services Ads vs search, and the fastest path to booked plumbing jobs."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how much do Google Ads cost for a small business",
+      "intent": "transactional",
+      "angle": "Real 2026 CPC and cost-per-lead ranges by industry, what a healthy starting budget looks like, and where small budgets get wasted."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "cost per lead by industry 2026",
+      "intent": "informational",
+      "angle": "Benchmark CPLs across home services, legal, dental, and finance, and how to tell if yours is too high."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how much does a marketing agency cost for a small business",
+      "intent": "transactional",
+      "angle": "Retainer vs performance vs project pricing explained, with honest ranges for service businesses deciding whether to hire out."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how much should I spend on Facebook ads per month",
+      "intent": "transactional",
+      "angle": "A budgeting framework tied to your average ticket and target cost-per-acquisition, not a random number."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best CRM for service businesses",
+      "intent": "commercial",
+      "angle": "What a service business actually needs from a CRM (speed-to-lead, pipeline, automation) and how the leading options compare."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "Google Ads vs SEO for local business",
+      "intent": "commercial",
+      "angle": "When to pay for clicks vs build organic, with a realistic ROI timeline for local service businesses."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead generation companies for contractors",
+      "intent": "commercial",
+      "angle": "Pay-per-lead marketplaces vs owning your own funnel, and the true long-run cost of renting leads."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "AI receptionist for small business",
+      "intent": "commercial",
+      "angle": "AI receptionist vs answering service: the 3-10x cost gap, what AI books on its own, and where humans still win."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "why am I not getting leads from Facebook ads",
+      "intent": "informational",
+      "angle": "The seven usual culprits (objective, audience, creative, offer, landing page, follow-up, fatigue) and how to diagnose yours."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get more leads for a service business",
+      "intent": "informational",
+      "angle": "The full demand stack (paid, local SEO, reviews, referrals, speed-to-lead) prioritized by ROI."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "lead follow up sequence for service businesses",
+      "intent": "informational",
+      "angle": "The multi-touch SMS and email cadence that revives cold leads and books appointments on autopilot."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "landing page conversion rate optimization for lead generation",
+      "intent": "informational",
+      "angle": "The on-page elements that turn ad clicks into booked calls: message match, friction, proof, and CTA."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "AI appointment setter for small business",
+      "intent": "commercial",
+      "angle": "How AI sets and confirms appointments across web, SMS, and calls, and what it replaces on your team."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "AI chatbot for lead generation",
+      "intent": "commercial",
+      "angle": "Turning website traffic into booked leads with an AI chat agent: setup, guardrails, and what actually converts."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use AI for lead follow up",
+      "intent": "informational",
+      "angle": "Practical AI workflows for instant response, nurture, and reactivation that don't sound like a robot."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "AI customer service automation for small business",
+      "intent": "commercial",
+      "angle": "Automating FAQs, scheduling, and intake with AI so your team only handles what truly needs a human."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to build business credit fast",
+      "intent": "informational",
+      "angle": "The 90-day playbook: entity, EIN, DUNS, and net-30 vendors to a reportable business credit profile."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "business credit cards with no personal guarantee",
+      "intent": "commercial",
+      "angle": "How EIN-only cards work, who qualifies, and how they keep business risk off your personal credit."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "business line of credit vs business loan",
+      "intent": "informational",
+      "angle": "Which financing fits which need, and how lenders actually evaluate you for each."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to get business funding with bad credit",
+      "intent": "commercial",
+      "angle": "Realistic options when your personal score is low: revenue-based, secured, and vendor-credit paths."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "white label PPC management for agencies",
+      "intent": "commercial",
+      "angle": "When to outsource ad ops, what good white-label fulfillment looks like, and the margins to expect."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to get clients for a marketing agency",
+      "intent": "informational",
+      "angle": "The outbound, authority, and referral system that fills an agency pipeline without buying leads."
     }
   ]
 }

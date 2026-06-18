@@ -59,6 +59,9 @@ if [ $pull_status -ne 0 ]; then
   exit 1
 fi
 
+# Top up the topic queue first so the publisher never runs dry (no-op when healthy)
+node scripts/reseed-topics.mjs || echo "reseed failed (non-fatal) — continuing to publish"
+
 node scripts/generate-article.mjs
 status=$?
 
