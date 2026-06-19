@@ -302,11 +302,13 @@
       "publishedAt": "2026-06-18T14:01:51.510Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "PPC for dentists",
       "intent": "commercial",
-      "angle": "What dental practices actually pay per new-patient lead and how to stop wasting spend on low-value procedures."
+      "angle": "What dental practices actually pay per new-patient lead and how to stop wasting spend on low-value procedures.",
+      "slug": "ppc-for-dentists-what-a-new-patient-actually-costs",
+      "publishedAt": "2026-06-19T14:01:42.051Z"
     },
     {
       "status": "pending",
