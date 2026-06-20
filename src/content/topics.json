@@ -311,11 +311,13 @@
       "publishedAt": "2026-06-19T14:01:43.167Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "Google Ads for law firms cost per lead",
       "intent": "commercial",
-      "angle": "Why legal clicks are the most expensive in search, PI vs family vs criminal CPLs, and how to protect ROI."
+      "angle": "Why legal clicks are the most expensive in search, PI vs family vs criminal CPLs, and how to protect ROI.",
+      "slug": "google-ads-for-law-firms-cost-per-lead-what-youll-actually-pay",
+      "publishedAt": "2026-06-20T14:01:33.128Z"
     },
     {
       "status": "pending",
