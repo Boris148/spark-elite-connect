@@ -320,11 +320,13 @@
       "publishedAt": "2026-06-20T14:01:33.128Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "Meta ads for med spas",
       "intent": "commercial",
-      "angle": "Booked-appointment funnels for med spas: offers that convert, compliance pitfalls, and the creative that performs."
+      "angle": "Booked-appointment funnels for med spas: offers that convert, compliance pitfalls, and the creative that performs.",
+      "slug": "meta-ads-for-med-spas-the-booked-appointment-funnel-playbook",
+      "publishedAt": "2026-06-21T14:01:39.537Z"
     },
     {
       "status": "pending",
