@@ -338,11 +338,13 @@
       "publishedAt": "2026-06-21T14:01:46.659Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how much do Google Ads cost for a small business",
       "intent": "transactional",
-      "angle": "Real 2026 CPC and cost-per-lead ranges by industry, what a healthy starting budget looks like, and where small budgets get wasted."
+      "angle": "Real 2026 CPC and cost-per-lead ranges by industry, what a healthy starting budget looks like, and where small budgets get wasted.",
+      "slug": "how-much-do-google-ads-cost-for-a-small-business-in-2026",
+      "publishedAt": "2026-06-22T14:01:35.226Z"
     },
     {
       "status": "pending",
