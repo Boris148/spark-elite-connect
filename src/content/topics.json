@@ -347,11 +347,13 @@
       "publishedAt": "2026-06-22T14:01:35.226Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "cost per lead by industry 2026",
       "intent": "informational",
-      "angle": "Benchmark CPLs across home services, legal, dental, and finance, and how to tell if yours is too high."
+      "angle": "Benchmark CPLs across home services, legal, dental, and finance, and how to tell if yours is too high.",
+      "slug": "how-much-do-google-ads-cost-for-a-small-business-in-2026-at07",
+      "publishedAt": "2026-06-22T14:01:45.593Z"
     },
     {
       "status": "pending",
