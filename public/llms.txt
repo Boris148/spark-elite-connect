@@ -1,0 +1,21 @@
+# Social Elite Marketing Group
+
+> San Antonio-based performance marketing agency running data-driven paid media, lead generation, website builds, and white-label fulfillment for brands that measure every dollar.
+
+Social Elite Marketing Group (SEMG) operates disciplined acquisition systems across 50+ industries — home services, med spas, SaaS, legal, real estate, and funding. Services include media buying (Meta, Google, TikTok), full-service digital marketing, website development, lead generation, strategy, white-label media buying for agencies, and business funding partnerships. Founded by Jeremy Garcia with 6+ years of performance marketing experience.
+
+## Pages
+
+- [Home](/): Overview of Social Elite's approach, results, and services.
+- [Services](/services): Media buying, full-service marketing, web development, lead gen, and strategy with pricing.
+- [White Label](/white-label): White-label media buying for agencies at $500/mo per ad account.
+- [Results](/results): Case studies and performance metrics across industries.
+- [Funding](/funding): Business funding and credit repair partnership offerings.
+- [Data](/data): CrowdSync data intelligence and audience targeting capabilities.
+- [About](/about): Founder Jeremy Garcia's background and agency mission.
+- [Contact](/contact): Book a free strategy call.
+- [Blog](/blog): Operator-grade playbooks on paid media, lead gen, AI, and agency growth.
+
+## Optional
+
+- [Evergreen Offer](/evergreen): Evergreen acquisition program overview.
