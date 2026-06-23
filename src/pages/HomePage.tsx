@@ -35,7 +35,7 @@ export function HomePage() {
     <>
       <section className="relative isolate overflow-hidden py-24 sm:py-28 lg:py-32">
         <div className="absolute inset-0 -z-20">
-          <img src={heroImage} alt="Modern marketing workspace" className="h-full w-full object-cover" />
+          <img src={heroImage} alt="Modern marketing workspace" width={1920} height={1080} fetchPriority="high" decoding="async" className="h-full w-full object-cover" />
         </div>
         <div className="absolute inset-0 -z-10 bg-gradient-to-br from-black/85 via-black/70 to-[#05060c]/85" />
         <div className="absolute inset-0 -z-[5] opacity-70 blur-3xl">
