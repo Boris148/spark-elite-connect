@@ -1,5 +1,6 @@
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { Seo } from "../components/Seo";
 import { industriesServed } from "../lib/data";
 
 const heroBackground = "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1920&q=80";
@@ -39,6 +40,12 @@ const values = [
 export function AboutPage() {
   return (
     <>
+      <Seo
+        title="About | Social Elite Marketing Group — San Antonio Agency"
+        description="Founded in San Antonio by Jeremy Garcia. Nearly a decade of disciplined media buying, automation, and growth operations for service brands nationwide."
+        path="/about"
+      />
+
       <PageHeader
         eyebrow="About"
         title="Nearly a decade of disciplined growth operations."

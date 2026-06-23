@@ -1,6 +1,7 @@
 import { FormEvent } from "react";
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { Seo } from "../components/Seo";
 import { site } from "../lib/data";
 
 const serviceOptions = [
@@ -19,6 +20,12 @@ export function ContactPage() {
 
   return (
     <>
+      <Seo
+        title="Contact | Book a Free Strategy Call — Social Elite"
+        description="Schedule a free strategy call with Social Elite Marketing Group. Share your goals and we'll map the fastest path to measurable growth."
+        path="/contact"
+      />
+
       <PageHeader
         eyebrow="Contact"
         title="Schedule a strategy conversation"

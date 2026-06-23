@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { Seo } from "../components/Seo";
 
 const artistCredits = [
   "Teddy Swims",
@@ -20,6 +21,12 @@ const steps = [
 export function EvergreenPage() {
   return (
     <>
+      <Seo
+        title="Evergreen Campaign Program | Social Elite Marketing Group"
+        description="Evergreen acquisition campaigns engineered to compound results over time through continuous optimization and audience targeting."
+        path="/evergreen"
+      />
+
       <section className="section-shell pt-10 sm:pt-14 lg:pt-20">
         <div className="relative overflow-hidden rounded-3xl border border-elite-line bg-white/[0.03] p-6 shadow-gold sm:p-8 lg:p-10">
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_15%,rgba(5,126,193,.14),transparent_45%)]" />

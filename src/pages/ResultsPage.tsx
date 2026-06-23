@@ -1,5 +1,6 @@
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { Seo } from "../components/Seo";
 import { resultCards } from "../lib/data";
 
 const resultsHeroImage = "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920&q=80";
@@ -20,6 +21,12 @@ const proofNotes = [
 export function ResultsPage() {
   return (
     <>
+      <Seo
+        title="Results | Real Campaign Proof — Social Elite Marketing Group"
+        description="Case studies, screenshots, and audited performance metrics across 50+ industries. Proof first, story second."
+        path="/results"
+      />
+
       <PageHeader
         eyebrow="Results"
         title="Proof first. Story second."

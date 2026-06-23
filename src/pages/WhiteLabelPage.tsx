@@ -1,5 +1,6 @@
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { Seo } from "../components/Seo";
 
 const heroBackground = "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1920&q=80";
 
@@ -62,6 +63,12 @@ const whoThisIsFor = [
 export function WhiteLabelPage() {
   return (
     <>
+      <Seo
+        title="White-Label Media Buying for Agencies | Social Elite"
+        description="Plug Social Elite into your fulfillment stack at $500/mo per ad account. Senior media buyers operating fully behind your brand."
+        path="/white-label"
+      />
+
       <PageHeader
         eyebrow="White-Label Division"
         title="Operate like you have a senior media department on standby."

@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { Seo } from "../components/Seo";
 
 const heroImage = "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1920&q=80";
 const servicesImage = "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&q=80";
@@ -48,6 +49,12 @@ const workflowBullets = [
 export function DataPage() {
   return (
     <>
+      <Seo
+        title="CrowdSync Data Intelligence | Social Elite Marketing Group"
+        description="Activate 280M+ consumer profiles and 60B+ behavioral signals through Audience Sync, Super Pixel, Canvassing, Data Licensing, and Enrichment."
+        path="/data"
+      />
+
       <section className="relative isolate overflow-hidden py-24 sm:py-28 lg:py-32">
         <div className="absolute inset-0 -z-20">
           <img src={heroImage} alt="Data intelligence dashboard" className="h-full w-full object-cover" />
