@@ -356,11 +356,13 @@
       "publishedAt": "2026-06-22T14:01:45.593Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how much does a marketing agency cost for a small business",
       "intent": "transactional",
-      "angle": "Retainer vs performance vs project pricing explained, with honest ranges for service businesses deciding whether to hire out."
+      "angle": "Retainer vs performance vs project pricing explained, with honest ranges for service businesses deciding whether to hire out.",
+      "slug": "how-much-does-a-marketing-agency-cost-for-a-small-business",
+      "publishedAt": "2026-06-23T14:01:28.531Z"
     },
     {
       "status": "pending",
