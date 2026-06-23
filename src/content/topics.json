@@ -365,11 +365,13 @@
       "publishedAt": "2026-06-23T14:01:28.531Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how much should I spend on Facebook ads per month",
       "intent": "transactional",
-      "angle": "A budgeting framework tied to your average ticket and target cost-per-acquisition, not a random number."
+      "angle": "A budgeting framework tied to your average ticket and target cost-per-acquisition, not a random number.",
+      "slug": "how-much-does-a-marketing-agency-cost-for-a-small-business-qjbf",
+      "publishedAt": "2026-06-23T14:01:39.934Z"
     },
     {
       "status": "pending",
