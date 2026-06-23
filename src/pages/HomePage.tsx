@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
+import { Seo } from "../components/Seo";
 import { industriesServed, resultCards, services } from "../lib/data";
 
 const heroImage = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&q=80";
@@ -33,6 +34,12 @@ const industriesCopy =
 export function HomePage() {
   return (
     <>
+      <Seo
+        title="Social Elite Marketing Group | Performance Marketing in San Antonio"
+        description="San Antonio performance marketing agency running disciplined paid media, lead generation, and creative systems for brands that measure every dollar."
+        path="/"
+      />
+
       <section className="relative isolate overflow-hidden py-24 sm:py-28 lg:py-32">
         <div className="absolute inset-0 -z-20">
           <img src={heroImage} alt="Modern marketing workspace" width={1920} height={1080} fetchPriority="high" decoding="async" className="h-full w-full object-cover" />
