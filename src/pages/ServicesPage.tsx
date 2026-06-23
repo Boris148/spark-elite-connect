@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { Seo } from "../components/Seo";
 import { services } from "../lib/data";
 
 const servicesHeroImage = "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1920&q=80";
@@ -8,6 +9,12 @@ const servicesHeroImage = "https://images.unsplash.com/photo-1486406146926-c627a
 export function ServicesPage() {
   return (
     <>
+      <Seo
+        title="Services | Media Buying, Web Dev & Lead Gen — Social Elite"
+        description="Media buying, full-service digital marketing, website development, and white-label fulfillment with transparent pricing and measurable goals."
+        path="/services"
+      />
+
       <PageHeader
         eyebrow="Services"
         title="Paid media, websites, full-service growth, and white-label fulfillment."

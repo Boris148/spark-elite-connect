@@ -1,5 +1,6 @@
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
+import { Seo } from "../components/Seo";
 import { TrulliEmbed } from "../components/TrulliEmbed";
 
 const heroImage = "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=1920&q=80";
@@ -65,6 +66,12 @@ const faqs = [
 export function FundingPage() {
   return (
     <>
+      <Seo
+        title="Business Funding & Credit Repair Marketing | Social Elite"
+        description="Performance campaigns for funding and credit repair companies. Apply for capital through our trusted funding partner or build your funding pipeline with us."
+        path="/funding"
+      />
+
       <PageHeader
         eyebrow="Funding + Credit Repair"
         title="Campaigns engineered for companies that fund and fix credit every single day."
