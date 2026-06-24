@@ -383,11 +383,13 @@
       "publishedAt": "2026-06-24T14:01:30.509Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "Google Ads vs SEO for local business",
       "intent": "commercial",
-      "angle": "When to pay for clicks vs build organic, with a realistic ROI timeline for local service businesses."
+      "angle": "When to pay for clicks vs build organic, with a realistic ROI timeline for local service businesses.",
+      "slug": "best-crm-for-service-businesses-a-2026-operators-guide",
+      "publishedAt": "2026-06-24T14:01:30.897Z"
     },
     {
       "status": "pending",
