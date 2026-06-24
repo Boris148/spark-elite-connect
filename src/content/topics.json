@@ -374,11 +374,13 @@
       "publishedAt": "2026-06-23T14:01:39.934Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "best CRM for service businesses",
       "intent": "commercial",
-      "angle": "What a service business actually needs from a CRM (speed-to-lead, pipeline, automation) and how the leading options compare."
+      "angle": "What a service business actually needs from a CRM (speed-to-lead, pipeline, automation) and how the leading options compare.",
+      "slug": "best-crm-for-service-businesses-honest-2026-comparison",
+      "publishedAt": "2026-06-24T14:01:30.509Z"
     },
     {
       "status": "pending",
