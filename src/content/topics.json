@@ -392,11 +392,13 @@
       "publishedAt": "2026-06-24T14:01:30.897Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead generation companies for contractors",
       "intent": "commercial",
-      "angle": "Pay-per-lead marketplaces vs owning your own funnel, and the true long-run cost of renting leads."
+      "angle": "Pay-per-lead marketplaces vs owning your own funnel, and the true long-run cost of renting leads.",
+      "slug": "best-lead-generation-companies-for-contractors-worth-it",
+      "publishedAt": "2026-06-25T14:01:30.266Z"
     },
     {
       "status": "pending",
