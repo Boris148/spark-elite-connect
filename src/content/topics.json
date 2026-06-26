@@ -410,11 +410,13 @@
       "publishedAt": "2026-06-25T14:01:37.363Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "why am I not getting leads from Facebook ads",
       "intent": "informational",
-      "angle": "The seven usual culprits (objective, audience, creative, offer, landing page, follow-up, fatigue) and how to diagnose yours."
+      "angle": "The seven usual culprits (objective, audience, creative, offer, landing page, follow-up, fatigue) and how to diagnose yours.",
+      "slug": "why-am-i-not-getting-leads-from-facebook-ads-7-real-reasons",
+      "publishedAt": "2026-06-26T14:01:31.868Z"
     },
     {
       "status": "pending",
