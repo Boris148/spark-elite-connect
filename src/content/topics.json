@@ -419,11 +419,13 @@
       "publishedAt": "2026-06-26T14:01:31.868Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a service business",
       "intent": "informational",
-      "angle": "The full demand stack (paid, local SEO, reviews, referrals, speed-to-lead) prioritized by ROI."
+      "angle": "The full demand stack (paid, local SEO, reviews, referrals, speed-to-lead) prioritized by ROI.",
+      "slug": "why-am-i-not-getting-leads-from-facebook-ads-7-real-fixes",
+      "publishedAt": "2026-06-26T14:01:44.944Z"
     },
     {
       "status": "pending",
