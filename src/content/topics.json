@@ -437,11 +437,13 @@
       "publishedAt": "2026-06-27T14:01:30.350Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "landing page conversion rate optimization for lead generation",
       "intent": "informational",
-      "angle": "The on-page elements that turn ad clicks into booked calls: message match, friction, proof, and CTA."
+      "angle": "The on-page elements that turn ad clicks into booked calls: message match, friction, proof, and CTA.",
+      "slug": "the-lead-follow-up-sequence-that-books-service-appointments",
+      "publishedAt": "2026-06-27T14:01:39.223Z"
     },
     {
       "status": "pending",
