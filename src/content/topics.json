@@ -428,11 +428,13 @@
       "publishedAt": "2026-06-26T14:01:44.944Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "lead follow up sequence for service businesses",
       "intent": "informational",
-      "angle": "The multi-touch SMS and email cadence that revives cold leads and books appointments on autopilot."
+      "angle": "The multi-touch SMS and email cadence that revives cold leads and books appointments on autopilot.",
+      "slug": "lead-follow-up-sequence-for-service-businesses-that-books-jobs",
+      "publishedAt": "2026-06-27T14:01:30.350Z"
     },
     {
       "status": "pending",
