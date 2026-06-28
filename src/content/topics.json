@@ -455,11 +455,13 @@
       "publishedAt": "2026-06-28T14:01:19.641Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "AI chatbot for lead generation",
       "intent": "commercial",
-      "angle": "Turning website traffic into booked leads with an AI chat agent: setup, guardrails, and what actually converts."
+      "angle": "Turning website traffic into booked leads with an AI chat agent: setup, guardrails, and what actually converts.",
+      "slug": "ai-appointment-setter-for-small-business-the-real-roi",
+      "publishedAt": "2026-06-28T14:01:36.951Z"
     },
     {
       "status": "pending",
