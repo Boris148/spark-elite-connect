@@ -446,11 +446,13 @@
       "publishedAt": "2026-06-27T14:01:39.223Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "AI appointment setter for small business",
       "intent": "commercial",
-      "angle": "How AI sets and confirms appointments across web, SMS, and calls, and what it replaces on your team."
+      "angle": "How AI sets and confirms appointments across web, SMS, and calls, and what it replaces on your team.",
+      "slug": "ai-appointment-setter-for-small-business-what-it-replaces",
+      "publishedAt": "2026-06-28T14:01:19.641Z"
     },
     {
       "status": "pending",
