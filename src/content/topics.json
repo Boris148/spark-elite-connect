@@ -473,11 +473,13 @@
       "publishedAt": "2026-06-29T14:01:34.905Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "AI customer service automation for small business",
       "intent": "commercial",
-      "angle": "Automating FAQs, scheduling, and intake with AI so your team only handles what truly needs a human."
+      "angle": "Automating FAQs, scheduling, and intake with AI so your team only handles what truly needs a human.",
+      "slug": "how-to-use-ai-for-lead-follow-up-without-sounding-robotic",
+      "publishedAt": "2026-06-29T14:02:04.382Z"
     },
     {
       "status": "pending",
