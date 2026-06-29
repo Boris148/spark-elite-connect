@@ -464,11 +464,13 @@
       "publishedAt": "2026-06-28T14:01:36.951Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use AI for lead follow up",
       "intent": "informational",
-      "angle": "Practical AI workflows for instant response, nurture, and reactivation that don't sound like a robot."
+      "angle": "Practical AI workflows for instant response, nurture, and reactivation that don't sound like a robot.",
+      "slug": "how-to-use-ai-for-lead-follow-up-without-sounding-like-a-bot",
+      "publishedAt": "2026-06-29T14:01:34.905Z"
     },
     {
       "status": "pending",
