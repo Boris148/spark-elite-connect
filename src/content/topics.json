@@ -482,11 +482,13 @@
       "publishedAt": "2026-06-29T14:02:04.382Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to build business credit fast",
       "intent": "informational",
-      "angle": "The 90-day playbook: entity, EIN, DUNS, and net-30 vendors to a reportable business credit profile."
+      "angle": "The 90-day playbook: entity, EIN, DUNS, and net-30 vendors to a reportable business credit profile.",
+      "slug": "how-to-build-business-credit-fast-the-90-day-playbook",
+      "publishedAt": "2026-06-30T14:01:35.337Z"
     },
     {
       "status": "pending",
@@ -522,6 +524,132 @@
       "keyword": "how to get clients for a marketing agency",
       "intent": "informational",
       "angle": "The outbound, authority, and referral system that fills an agency pipeline without buying leads."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "youtube ads for home services lead generation",
+      "intent": "commercial",
+      "angle": "Why YouTube in-stream + Demand Gen is the cheapest CPL channel for HVAC and roofing in 2026 when Meta CPMs cross $40."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google local services ads vs google ads for contractors",
+      "intent": "commercial",
+      "angle": "A side-by-side cost-per-booked-job breakdown showing when LSAs beat search and when contractors should run both stacked."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "facebook ads budget for med spa",
+      "intent": "transactional",
+      "angle": "Exact monthly ad spend tiers ($1.5k, $3k, $7k) tied to expected booked consults using our med spa client benchmarks."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead generation strategy for solar companies",
+      "intent": "commercial",
+      "angle": "Why door-knocking lists fail and a 3-channel paid + database reactivation stack that's hitting sub-$80 qualified leads for solar."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get commercial roofing leads",
+      "intent": "informational",
+      "angle": "A LinkedIn outbound + Google Ads hybrid playbook for commercial roofers chasing $50k+ ticket jobs, not residential repairs."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "exclusive leads vs shared leads for contractors",
+      "intent": "commercial",
+      "angle": "The real close-rate math on HomeAdvisor shared leads vs running your own exclusive funnel — and the break-even spend."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel vs activecampaign for service businesses",
+      "intent": "commercial",
+      "angle": "A feature-by-feature teardown showing why GHL wins for trades but ActiveCampaign still beats it for ecom-style nurture."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "sms drip campaign examples for local business",
+      "intent": "informational",
+      "angle": "Seven copy-paste SMS sequences (lead nurture, no-show, win-back, review) with open and reply rates from real GHL accounts."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate appointment booking for dental practice",
+      "intent": "transactional",
+      "angle": "The exact GHL + Google Calendar + AI voice agent stack that's cutting front-desk labor 30% for multi-location dental groups."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai sdr tools for b2b agencies",
+      "intent": "commercial",
+      "angle": "A no-BS ranking of Clay, Apollo AI, Artisan, and ARIA based on actual reply rates from agency outbound campaigns we run."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to train chatgpt on your brand voice",
+      "intent": "informational",
+      "angle": "A 5-step custom GPT build with example system prompts that stops AI copy from sounding like a LinkedIn motivational post."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "ai voice agent pricing for small business",
+      "intent": "transactional",
+      "angle": "Per-minute and flat-rate pricing for Bland, Retell, Vapi, and Synthflow with the real total cost at 500 calls/month."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "0 percent business credit cards for startups 2026",
+      "intent": "transactional",
+      "angle": "The seven 0% intro APR cards approving new LLCs under 6 months old, ranked by credit limit ceiling and approval odds."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use business credit to fund marketing spend",
+      "intent": "informational",
+      "angle": "A controlled framework for financing $25k–$100k in ad spend on 0% credit without torching personal FICO or DTI."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "sba loan vs revenue based financing for agencies",
+      "intent": "commercial",
+      "angle": "Why most agencies under $1M ARR get rejected on SBA and a real breakdown of RBF terms from Pipe, Capchase, and Wayflyer."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to productize agency services",
+      "intent": "informational",
+      "angle": "The 3-tier productization model (entry, core, retainer) that took our lead gen offer from $1,500 customs to $4k MRR seats."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "cold email infrastructure for marketing agencies",
+      "intent": "transactional",
+      "angle": "The exact domain, inbox, and warmup setup (Instantly + Smartlead + Google Workspace) booking 8–12 demos/week at <$200 cost."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "best niches for marketing agencies in 2026",
+      "intent": "commercial",
+      "angle": "An opinionated ranking of 9 verticals by LTV, ad budget ceiling, and competition — why home services still wins over ecom."
     }
   ]
 }
