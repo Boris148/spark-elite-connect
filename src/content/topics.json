@@ -491,11 +491,13 @@
       "publishedAt": "2026-06-30T14:01:58.795Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "business credit cards with no personal guarantee",
       "intent": "commercial",
-      "angle": "How EIN-only cards work, who qualifies, and how they keep business risk off your personal credit."
+      "angle": "How EIN-only cards work, who qualifies, and how they keep business risk off your personal credit.",
+      "slug": "business-credit-cards-with-no-personal-guarantee-the-2026-playbook",
+      "publishedAt": "2026-07-01T14:01:31.563Z"
     },
     {
       "status": "pending",
