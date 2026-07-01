@@ -500,11 +500,13 @@
       "publishedAt": "2026-07-01T14:01:31.563Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "business line of credit vs business loan",
       "intent": "informational",
-      "angle": "Which financing fits which need, and how lenders actually evaluate you for each."
+      "angle": "Which financing fits which need, and how lenders actually evaluate you for each.",
+      "slug": "business-credit-cards-with-no-personal-guarantee-explained",
+      "publishedAt": "2026-07-01T14:01:39.768Z"
     },
     {
       "status": "pending",
