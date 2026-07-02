@@ -509,11 +509,13 @@
       "publishedAt": "2026-07-01T14:01:39.768Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to get business funding with bad credit",
       "intent": "commercial",
-      "angle": "Realistic options when your personal score is low: revenue-based, secured, and vendor-credit paths."
+      "angle": "Realistic options when your personal score is low: revenue-based, secured, and vendor-credit paths.",
+      "slug": "how-to-get-business-funding-with-bad-credit-7-real-options",
+      "publishedAt": "2026-07-02T14:01:25.721Z"
     },
     {
       "status": "pending",
