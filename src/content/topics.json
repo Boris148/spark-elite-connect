@@ -518,11 +518,13 @@
       "publishedAt": "2026-07-02T14:01:25.721Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "white label PPC management for agencies",
       "intent": "commercial",
-      "angle": "When to outsource ad ops, what good white-label fulfillment looks like, and the margins to expect."
+      "angle": "When to outsource ad ops, what good white-label fulfillment looks like, and the margins to expect.",
+      "slug": "how-to-get-business-funding-with-bad-credit-7-real-options-piw8",
+      "publishedAt": "2026-07-02T14:01:54.952Z"
     },
     {
       "status": "pending",
