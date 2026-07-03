@@ -527,11 +527,13 @@
       "publishedAt": "2026-07-02T14:01:54.952Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to get clients for a marketing agency",
       "intent": "informational",
-      "angle": "The outbound, authority, and referral system that fills an agency pipeline without buying leads."
+      "angle": "The outbound, authority, and referral system that fills an agency pipeline without buying leads.",
+      "slug": "how-to-get-clients-for-a-marketing-agency-without-buying-leads",
+      "publishedAt": "2026-07-03T14:01:38.210Z"
     },
     {
       "status": "pending",
