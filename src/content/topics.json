@@ -536,11 +536,13 @@
       "publishedAt": "2026-07-03T14:01:38.210Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "youtube ads for home services lead generation",
       "intent": "commercial",
-      "angle": "Why YouTube in-stream + Demand Gen is the cheapest CPL channel for HVAC and roofing in 2026 when Meta CPMs cross $40."
+      "angle": "Why YouTube in-stream + Demand Gen is the cheapest CPL channel for HVAC and roofing in 2026 when Meta CPMs cross $40.",
+      "slug": "how-to-get-clients-for-a-marketing-agency-without-buying-leads-5cpe",
+      "publishedAt": "2026-07-03T14:01:53.827Z"
     },
     {
       "status": "pending",
