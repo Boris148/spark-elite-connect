@@ -554,11 +554,13 @@
       "publishedAt": "2026-07-04T14:01:41.913Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "facebook ads budget for med spa",
       "intent": "transactional",
-      "angle": "Exact monthly ad spend tiers ($1.5k, $3k, $7k) tied to expected booked consults using our med spa client benchmarks."
+      "angle": "Exact monthly ad spend tiers ($1.5k, $3k, $7k) tied to expected booked consults using our med spa client benchmarks.",
+      "slug": "google-local-services-ads-vs-google-ads-for-contractors",
+      "publishedAt": "2026-07-04T14:02:02.058Z"
     },
     {
       "status": "pending",
