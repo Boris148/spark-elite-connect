@@ -545,11 +545,13 @@
       "publishedAt": "2026-07-03T14:01:53.827Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google local services ads vs google ads for contractors",
       "intent": "commercial",
-      "angle": "A side-by-side cost-per-booked-job breakdown showing when LSAs beat search and when contractors should run both stacked."
+      "angle": "A side-by-side cost-per-booked-job breakdown showing when LSAs beat search and when contractors should run both stacked.",
+      "slug": "google-local-services-ads-vs-google-ads-for-contractors-cpbj-breakdown",
+      "publishedAt": "2026-07-04T14:01:41.913Z"
     },
     {
       "status": "pending",
