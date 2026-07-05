@@ -563,11 +563,13 @@
       "publishedAt": "2026-07-04T14:02:02.058Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead generation strategy for solar companies",
       "intent": "commercial",
-      "angle": "Why door-knocking lists fail and a 3-channel paid + database reactivation stack that's hitting sub-$80 qualified leads for solar."
+      "angle": "Why door-knocking lists fail and a 3-channel paid + database reactivation stack that's hitting sub-$80 qualified leads for solar.",
+      "slug": "best-lead-generation-strategy-for-solar-companies-sub-80-cpl",
+      "publishedAt": "2026-07-05T14:01:37.443Z"
     },
     {
       "status": "pending",
