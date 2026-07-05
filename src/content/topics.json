@@ -572,11 +572,13 @@
       "publishedAt": "2026-07-05T14:01:37.443Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "how to get commercial roofing leads",
       "intent": "informational",
-      "angle": "A LinkedIn outbound + Google Ads hybrid playbook for commercial roofers chasing $50k+ ticket jobs, not residential repairs."
+      "angle": "A LinkedIn outbound + Google Ads hybrid playbook for commercial roofers chasing $50k+ ticket jobs, not residential repairs.",
+      "slug": "the-best-lead-generation-strategy-for-solar-companies-now",
+      "publishedAt": "2026-07-05T14:02:08.133Z"
     },
     {
       "status": "pending",
