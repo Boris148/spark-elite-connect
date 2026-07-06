@@ -581,11 +581,13 @@
       "publishedAt": "2026-07-05T14:02:08.133Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "exclusive leads vs shared leads for contractors",
       "intent": "commercial",
-      "angle": "The real close-rate math on HomeAdvisor shared leads vs running your own exclusive funnel — and the break-even spend."
+      "angle": "The real close-rate math on HomeAdvisor shared leads vs running your own exclusive funnel — and the break-even spend.",
+      "slug": "exclusive-leads-vs-shared-leads-for-contractors-the-real-math",
+      "publishedAt": "2026-07-06T14:01:23.926Z"
     },
     {
       "status": "pending",
