@@ -590,11 +590,13 @@
       "publishedAt": "2026-07-06T14:01:23.926Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel vs activecampaign for service businesses",
       "intent": "commercial",
-      "angle": "A feature-by-feature teardown showing why GHL wins for trades but ActiveCampaign still beats it for ecom-style nurture."
+      "angle": "A feature-by-feature teardown showing why GHL wins for trades but ActiveCampaign still beats it for ecom-style nurture.",
+      "slug": "exclusive-leads-vs-shared-leads-for-contractors-real-math",
+      "publishedAt": "2026-07-06T14:01:54.903Z"
     },
     {
       "status": "pending",
