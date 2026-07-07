@@ -599,11 +599,13 @@
       "publishedAt": "2026-07-06T14:01:54.903Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "sms drip campaign examples for local business",
       "intent": "informational",
-      "angle": "Seven copy-paste SMS sequences (lead nurture, no-show, win-back, review) with open and reply rates from real GHL accounts."
+      "angle": "Seven copy-paste SMS sequences (lead nurture, no-show, win-back, review) with open and reply rates from real GHL accounts.",
+      "slug": "sms-drip-campaign-examples-for-local-business-7-sequences",
+      "publishedAt": "2026-07-07T14:01:38.908Z"
     },
     {
       "status": "pending",
