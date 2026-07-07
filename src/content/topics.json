@@ -608,11 +608,13 @@
       "publishedAt": "2026-07-07T14:01:38.908Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate appointment booking for dental practice",
       "intent": "transactional",
-      "angle": "The exact GHL + Google Calendar + AI voice agent stack that's cutting front-desk labor 30% for multi-location dental groups."
+      "angle": "The exact GHL + Google Calendar + AI voice agent stack that's cutting front-desk labor 30% for multi-location dental groups.",
+      "slug": "7-sms-drip-campaign-examples-for-local-business-growth",
+      "publishedAt": "2026-07-07T14:02:07.636Z"
     },
     {
       "status": "pending",
