@@ -626,11 +626,13 @@
       "publishedAt": "2026-07-08T14:01:35.001Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to train chatgpt on your brand voice",
       "intent": "informational",
-      "angle": "A 5-step custom GPT build with example system prompts that stops AI copy from sounding like a LinkedIn motivational post."
+      "angle": "A 5-step custom GPT build with example system prompts that stops AI copy from sounding like a LinkedIn motivational post.",
+      "slug": "the-best-ai-sdr-tools-for-b2b-agencies-ranked-by-reply-rate",
+      "publishedAt": "2026-07-08T14:01:56.290Z"
     },
     {
       "status": "pending",
