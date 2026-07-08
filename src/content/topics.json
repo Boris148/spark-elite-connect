@@ -617,11 +617,13 @@
       "publishedAt": "2026-07-07T14:02:07.636Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai sdr tools for b2b agencies",
       "intent": "commercial",
-      "angle": "A no-BS ranking of Clay, Apollo AI, Artisan, and ARIA based on actual reply rates from agency outbound campaigns we run."
+      "angle": "A no-BS ranking of Clay, Apollo AI, Artisan, and ARIA based on actual reply rates from agency outbound campaigns we run.",
+      "slug": "best-ai-sdr-tools-for-b2b-agencies-ranked-by-reply-rate",
+      "publishedAt": "2026-07-08T14:01:35.001Z"
     },
     {
       "status": "pending",
