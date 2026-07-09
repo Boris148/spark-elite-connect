@@ -635,11 +635,13 @@
       "publishedAt": "2026-07-08T14:01:56.290Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "ai voice agent pricing for small business",
       "intent": "transactional",
-      "angle": "Per-minute and flat-rate pricing for Bland, Retell, Vapi, and Synthflow with the real total cost at 500 calls/month."
+      "angle": "Per-minute and flat-rate pricing for Bland, Retell, Vapi, and Synthflow with the real total cost at 500 calls/month.",
+      "slug": "ai-voice-agent-pricing-for-small-business-real-500-call-math",
+      "publishedAt": "2026-07-09T14:02:03.951Z"
     },
     {
       "status": "pending",
@@ -682,6 +684,125 @@
       "keyword": "best niches for marketing agencies in 2026",
       "intent": "commercial",
       "angle": "An opinionated ranking of 9 verticals by LTV, ad budget ceiling, and competition — why home services still wins over ecom."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads call only campaigns for hvac",
+      "intent": "commercial",
+      "angle": "Why call-only campaigns still beat search campaigns for HVAC emergencies under a $75 CPL, with bid and ad copy structure."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how much does it cost to run google ads for a plumbing company",
+      "intent": "transactional",
+      "angle": "Real monthly budget ranges ($2k-$15k) by market size, with expected leads and booked jobs pulled from actual plumber accounts."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta advantage plus shopping campaigns vs manual campaigns",
+      "intent": "commercial",
+      "angle": "When Advantage+ actually wins for lead gen (spoiler: rarely under $150/day) and the manual ASC hybrid setup we run instead."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get commercial cleaning leads",
+      "intent": "informational",
+      "angle": "The three-channel stack (LinkedIn outbound, Google LSA, targeted direct mail) that fills a commercial janitorial pipeline in 60 days."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead generation software for roofing contractors",
+      "intent": "commercial",
+      "angle": "Head-to-head on CallRail, Leap, JobNimbus, and GHL for roofers — which actually closes the loop from ad click to signed contract."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire a lead generation agency for law firms",
+      "intent": "transactional",
+      "angle": "What PI and family law firms should pay per signed case, red flags in agency contracts, and the exclusivity clause most firms miss."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel snapshot for home services agencies",
+      "intent": "commercial",
+      "angle": "The exact GHL snapshot structure (pipelines, workflows, triggers) we deploy for HVAC/roofing/plumbing clients on day one."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate lead nurture for med spa",
+      "intent": "informational",
+      "angle": "A 21-day SMS + email nurture that converts cold Meta leads into $600 consultations, with copy and timing benchmarks."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "zapier vs make vs n8n for marketing agencies",
+      "intent": "commercial",
+      "angle": "Cost, reliability, and complexity ceiling for each — and why we moved client automations off Zapier at 500+ tasks/month."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "ai lead qualification for service businesses",
+      "intent": "commercial",
+      "angle": "How to plug a GPT-4 qualifier between form fill and CRM to kill tire-kickers and boost sales close rate by 30%+."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to write google ads rsa headlines",
+      "intent": "informational",
+      "angle": "A prompt template that generates 15 RSA headlines matched to search intent tiers, plus what Google's ad strength score really rewards."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai tools for local seo",
+      "intent": "commercial",
+      "angle": "The five AI tools (SurferSEO, LocalFalcon AI, Chatmeter, etc.) that actually move map pack rankings vs the ones burning your subscription budget."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to buy marketing leads",
+      "intent": "informational",
+      "angle": "A cash-flow model for deploying $50k in 0% business credit into paid ads without wrecking utilization or personal FICO."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "net 30 vendor accounts to build business credit fast",
+      "intent": "transactional",
+      "angle": "The exact 8 net-30 vendors that report to D&B and Experian Business, ranked by approval odds for sub-1-year-old LLCs."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "business credit stacking for contractors",
+      "intent": "commercial",
+      "angle": "How trades operators are stacking $100k-$250k across 4-6 issuers in 90 days to fund trucks, crews, and lead flow simultaneously."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to charge performance based pricing marketing agency",
+      "intent": "informational",
+      "angle": "The hybrid retainer + per-lead pricing model we use to protect margin while giving clients the upside they think they want."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "marketing agency sales process for cold leads",
+      "intent": "commercial",
+      "angle": "The 4-call close sequence (triage → audit → proposal → onboarding) that turns cold booked calls into $3k-$8k/mo retainers at a 35% close rate."
     }
   ]
 }
