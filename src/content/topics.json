@@ -653,11 +653,13 @@
       "publishedAt": "2026-07-09T14:02:11.017Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use business credit to fund marketing spend",
       "intent": "informational",
-      "angle": "A controlled framework for financing $25k–$100k in ad spend on 0% credit without torching personal FICO or DTI."
+      "angle": "A controlled framework for financing $25k–$100k in ad spend on 0% credit without torching personal FICO or DTI.",
+      "slug": "how-to-use-business-credit-to-fund-marketing-spend-without-torching-fico",
+      "publishedAt": "2026-07-10T14:01:28.296Z"
     },
     {
       "status": "pending",
