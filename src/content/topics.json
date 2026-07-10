@@ -662,11 +662,13 @@
       "publishedAt": "2026-07-10T14:01:28.296Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "sba loan vs revenue based financing for agencies",
       "intent": "commercial",
-      "angle": "Why most agencies under $1M ARR get rejected on SBA and a real breakdown of RBF terms from Pipe, Capchase, and Wayflyer."
+      "angle": "Why most agencies under $1M ARR get rejected on SBA and a real breakdown of RBF terms from Pipe, Capchase, and Wayflyer.",
+      "slug": "how-to-use-business-credit-to-fund-marketing-spend-safely",
+      "publishedAt": "2026-07-10T14:02:00.883Z"
     },
     {
       "status": "pending",
