@@ -680,11 +680,13 @@
       "publishedAt": "2026-07-12T14:01:41.417Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "cold email infrastructure for marketing agencies",
       "intent": "transactional",
-      "angle": "The exact domain, inbox, and warmup setup (Instantly + Smartlead + Google Workspace) booking 8–12 demos/week at <$200 cost."
+      "angle": "The exact domain, inbox, and warmup setup (Instantly + Smartlead + Google Workspace) booking 8–12 demos/week at <$200 cost.",
+      "slug": "how-to-productize-agency-services-into-4k-mrr-seats",
+      "publishedAt": "2026-07-12T14:01:52.575Z"
     },
     {
       "status": "pending",
