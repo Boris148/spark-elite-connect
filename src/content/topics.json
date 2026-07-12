@@ -671,11 +671,13 @@
       "publishedAt": "2026-07-10T14:02:00.883Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to productize agency services",
       "intent": "informational",
-      "angle": "The 3-tier productization model (entry, core, retainer) that took our lead gen offer from $1,500 customs to $4k MRR seats."
+      "angle": "The 3-tier productization model (entry, core, retainer) that took our lead gen offer from $1,500 customs to $4k MRR seats.",
+      "slug": "how-to-productize-agency-services-the-3-tier-model-that-hit-4k-mrr",
+      "publishedAt": "2026-07-12T14:01:41.417Z"
     },
     {
       "status": "pending",
