@@ -689,11 +689,13 @@
       "publishedAt": "2026-07-12T14:01:52.575Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "best niches for marketing agencies in 2026",
       "intent": "commercial",
-      "angle": "An opinionated ranking of 9 verticals by LTV, ad budget ceiling, and competition — why home services still wins over ecom."
+      "angle": "An opinionated ranking of 9 verticals by LTV, ad budget ceiling, and competition — why home services still wins over ecom.",
+      "slug": "best-niches-for-marketing-agencies-in-2026-ranked-by-roi",
+      "publishedAt": "2026-07-13T14:01:55.886Z"
     },
     {
       "status": "pending",
