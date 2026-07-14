@@ -707,11 +707,13 @@
       "publishedAt": "2026-07-13T14:02:09.164Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how much does it cost to run google ads for a plumbing company",
       "intent": "transactional",
-      "angle": "Real monthly budget ranges ($2k-$15k) by market size, with expected leads and booked jobs pulled from actual plumber accounts."
+      "angle": "Real monthly budget ranges ($2k-$15k) by market size, with expected leads and booked jobs pulled from actual plumber accounts.",
+      "slug": "how-much-does-it-cost-to-run-google-ads-for-a-plumbing-company",
+      "publishedAt": "2026-07-14T14:01:31.331Z"
     },
     {
       "status": "pending",
