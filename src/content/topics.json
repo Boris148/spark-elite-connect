@@ -716,11 +716,13 @@
       "publishedAt": "2026-07-14T14:01:31.331Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "meta advantage plus shopping campaigns vs manual campaigns",
       "intent": "commercial",
-      "angle": "When Advantage+ actually wins for lead gen (spoiler: rarely under $150/day) and the manual ASC hybrid setup we run instead."
+      "angle": "When Advantage+ actually wins for lead gen (spoiler: rarely under $150/day) and the manual ASC hybrid setup we run instead.",
+      "slug": "how-much-does-it-cost-to-run-google-ads-for-a-plumbing-company-0cyk",
+      "publishedAt": "2026-07-14T14:02:23.556Z"
     },
     {
       "status": "pending",
