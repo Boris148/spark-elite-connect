@@ -734,11 +734,13 @@
       "publishedAt": "2026-07-15T14:01:36.678Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead generation software for roofing contractors",
       "intent": "commercial",
-      "angle": "Head-to-head on CallRail, Leap, JobNimbus, and GHL for roofers — which actually closes the loop from ad click to signed contract."
+      "angle": "Head-to-head on CallRail, Leap, JobNimbus, and GHL for roofers — which actually closes the loop from ad click to signed contract.",
+      "slug": "how-to-get-commercial-cleaning-leads-the-3-channel-stack",
+      "publishedAt": "2026-07-15T14:01:55.881Z"
     },
     {
       "status": "pending",
