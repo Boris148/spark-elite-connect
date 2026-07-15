@@ -725,11 +725,13 @@
       "publishedAt": "2026-07-14T14:02:23.556Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "how to get commercial cleaning leads",
       "intent": "informational",
-      "angle": "The three-channel stack (LinkedIn outbound, Google LSA, targeted direct mail) that fills a commercial janitorial pipeline in 60 days."
+      "angle": "The three-channel stack (LinkedIn outbound, Google LSA, targeted direct mail) that fills a commercial janitorial pipeline in 60 days.",
+      "slug": "how-to-get-commercial-cleaning-leads-the-60-day-3-channel-stack",
+      "publishedAt": "2026-07-15T14:01:36.678Z"
     },
     {
       "status": "pending",
