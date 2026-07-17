@@ -11,6 +11,7 @@
     "generate-article": "node scripts/generate-article.mjs"
   },
   "dependencies": {
+    "@vitejs/plugin-react": "4.3.4",
     "@types/node": "^25.3.0",
     "lovable-tagger": "^1.1.13",
     "react": "^18.3.1",
@@ -21,7 +22,6 @@
   "devDependencies": {
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
-    "@vitejs/plugin-react": "4.3.4",
     "autoprefixer": "^10.4.20",
     "gh-pages": "^6.3.0",
     "marked": "^18.0.2",
