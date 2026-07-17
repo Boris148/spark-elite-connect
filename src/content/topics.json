@@ -743,11 +743,13 @@
       "publishedAt": "2026-07-15T14:01:55.881Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire a lead generation agency for law firms",
       "intent": "transactional",
-      "angle": "What PI and family law firms should pay per signed case, red flags in agency contracts, and the exclusivity clause most firms miss."
+      "angle": "What PI and family law firms should pay per signed case, red flags in agency contracts, and the exclusivity clause most firms miss.",
+      "slug": "hire-a-lead-generation-agency-for-law-firms-what-to-pay",
+      "publishedAt": "2026-07-17T19:09:14.809Z"
     },
     {
       "status": "pending",
