@@ -752,11 +752,13 @@
       "publishedAt": "2026-07-17T19:09:14.809Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel snapshot for home services agencies",
       "intent": "commercial",
-      "angle": "The exact GHL snapshot structure (pipelines, workflows, triggers) we deploy for HVAC/roofing/plumbing clients on day one."
+      "angle": "The exact GHL snapshot structure (pipelines, workflows, triggers) we deploy for HVAC/roofing/plumbing clients on day one.",
+      "slug": "gohighlevel-snapshot-for-home-services-agencies-day-one-build",
+      "publishedAt": "2026-07-18T14:01:40.009Z"
     },
     {
       "status": "pending",
