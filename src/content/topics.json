@@ -761,11 +761,13 @@
       "publishedAt": "2026-07-18T14:01:40.009Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate lead nurture for med spa",
       "intent": "informational",
-      "angle": "A 21-day SMS + email nurture that converts cold Meta leads into $600 consultations, with copy and timing benchmarks."
+      "angle": "A 21-day SMS + email nurture that converts cold Meta leads into $600 consultations, with copy and timing benchmarks.",
+      "slug": "the-gohighlevel-snapshot-for-home-services-agencies-that-works",
+      "publishedAt": "2026-07-18T14:01:58.305Z"
     },
     {
       "status": "pending",
