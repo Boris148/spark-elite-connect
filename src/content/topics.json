@@ -770,11 +770,13 @@
       "publishedAt": "2026-07-18T14:01:58.305Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "zapier vs make vs n8n for marketing agencies",
       "intent": "commercial",
-      "angle": "Cost, reliability, and complexity ceiling for each — and why we moved client automations off Zapier at 500+ tasks/month."
+      "angle": "Cost, reliability, and complexity ceiling for each — and why we moved client automations off Zapier at 500+ tasks/month.",
+      "slug": "zapier-vs-make-vs-n8n-for-marketing-agencies-the-real-cost",
+      "publishedAt": "2026-07-19T14:01:19.136Z"
     },
     {
       "status": "pending",
