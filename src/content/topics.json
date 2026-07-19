@@ -779,11 +779,13 @@
       "publishedAt": "2026-07-19T14:01:19.136Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "ai lead qualification for service businesses",
       "intent": "commercial",
-      "angle": "How to plug a GPT-4 qualifier between form fill and CRM to kill tire-kickers and boost sales close rate by 30%+."
+      "angle": "How to plug a GPT-4 qualifier between form fill and CRM to kill tire-kickers and boost sales close rate by 30%+.",
+      "slug": "zapier-vs-make-vs-n8n-for-marketing-agencies-real-costs",
+      "publishedAt": "2026-07-19T14:01:53.619Z"
     },
     {
       "status": "pending",
