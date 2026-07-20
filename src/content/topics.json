@@ -788,11 +788,13 @@
       "publishedAt": "2026-07-19T14:01:53.619Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to write google ads rsa headlines",
       "intent": "informational",
-      "angle": "A prompt template that generates 15 RSA headlines matched to search intent tiers, plus what Google's ad strength score really rewards."
+      "angle": "A prompt template that generates 15 RSA headlines matched to search intent tiers, plus what Google's ad strength score really rewards.",
+      "slug": "how-to-use-ai-to-write-google-ads-rsa-headlines-that-convert",
+      "publishedAt": "2026-07-20T14:02:00.039Z"
     },
     {
       "status": "pending",
@@ -835,6 +837,125 @@
       "keyword": "marketing agency sales process for cold leads",
       "intent": "commercial",
       "angle": "The 4-call close sequence (triage → audit → proposal → onboarding) that turns cold booked calls into $3k-$8k/mo retainers at a 35% close rate."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for garage door repair companies",
+      "intent": "commercial",
+      "angle": "Break down why garage door is one of the highest-ticket local PPC verticals and share bid strategy, negative keyword list, and expected CPL benchmarks by metro."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to lower cost per lead on facebook ads for contractors",
+      "intent": "informational",
+      "angle": "Give a 5-lever teardown (creative, offer, audience, form friction, follow-up) with real CPL drops we've hit for roofing and remodeling accounts."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "youtube ads cost per lead for financial advisors",
+      "intent": "transactional",
+      "angle": "Publish real CPL ranges ($40-$120) from advisor accounts and show the exact video hook + retargeting stack that makes YouTube profitable for RIAs."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead generation strategy for commercial hvac",
+      "intent": "commercial",
+      "angle": "Argue commercial HVAC needs an ABM + LinkedIn + direct mail play, not Meta ads, and lay out a 90-day pipeline framework property managers actually respond to."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get more leads for a law firm without seo",
+      "intent": "informational",
+      "angle": "Rank the 4 fastest paid channels (LSA, Google Ads, Meta lead ads, YouTube) by intake-to-signed-case ratio for PI, family, and criminal defense firms."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for medical spa",
+      "intent": "transactional",
+      "angle": "Checklist for vetting med spa lead gen agencies: what a legit CPL/CPA range looks like, red-flag guarantees, and the contract terms that protect the operator."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to build a lead nurture sequence in gohighlevel",
+      "intent": "informational",
+      "angle": "Step-by-step 14-day SMS + email + voicemail drop workflow with copy templates that consistently 2x show rate for home services and med spa leads."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best crm automation for roofing companies",
+      "intent": "commercial",
+      "angle": "Compare JobNimbus, GHL, and AccuLynx on lead-to-appointment automation, integration with call tracking, and cost per user for a 10-rep sales floor."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "automated review generation system for local service business",
+      "intent": "transactional",
+      "angle": "Deploy the exact 3-touch review request stack (post-job SMS, 2-day email, negative-review filter) that pushed a plumbing client from 4.2 to 4.9 stars in 90 days."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to score inbound leads in real time",
+      "intent": "informational",
+      "angle": "Show a webhook + GPT-4o setup that scores leads on intent within 30 seconds and routes hot ones to a live rep — with a real fitness studio case study."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai phone answering service for contractors",
+      "intent": "commercial",
+      "angle": "Head-to-head test of Goodcall, Rosie, and a custom Vapi build on call capture rate, booking rate, and monthly cost for a 5-truck HVAC operator."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "ai content repurposing workflow for agencies",
+      "intent": "informational",
+      "angle": "Publish the n8n + Claude workflow that turns one founder podcast into 12 assets/week and killed our need for a full-time content hire."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how much funding can you get through aos",
+      "intent": "informational",
+      "angle": "Explain real funding tiers ($50k-$250k) based on credit profile, and walk through the underwriting factors that actually move the approval number."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "best business credit cards to fund google ads spend",
+      "intent": "commercial",
+      "angle": "Rank the top 5 cards by cashback on ad spend, credit limits for new LLCs, and which ones don't cap Google/Meta charges as cash advances."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "apply for aos funding for marketing agency",
+      "intent": "transactional",
+      "angle": "Walk the reader through the exact 7-day AOS application flow, what documents to prep, and how agency owners are deploying capital into paid media arbitrage."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to structure retainer contracts for marketing agencies",
+      "intent": "informational",
+      "angle": "Break down 3 retainer models (flat, hybrid, performance) with actual contract language and cancellation clauses that keep MRR sticky past month 6."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "outbound sales system for marketing agency owners",
+      "intent": "commercial",
+      "angle": "Detail the cold email + LinkedIn + AI voice combo stack (Instantly + Clay + Vapi) that reliably books 15-20 discovery calls/month for a solo agency owner."
     }
   ]
 }
