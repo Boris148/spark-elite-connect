@@ -797,11 +797,13 @@
       "publishedAt": "2026-07-20T14:02:01.750Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai tools for local seo",
       "intent": "commercial",
-      "angle": "The five AI tools (SurferSEO, LocalFalcon AI, Chatmeter, etc.) that actually move map pack rankings vs the ones burning your subscription budget."
+      "angle": "The five AI tools (SurferSEO, LocalFalcon AI, Chatmeter, etc.) that actually move map pack rankings vs the ones burning your subscription budget.",
+      "slug": "best-ai-tools-for-local-seo-5-that-actually-move-the-map-pack",
+      "publishedAt": "2026-07-21T14:01:34.267Z"
     },
     {
       "status": "pending",
