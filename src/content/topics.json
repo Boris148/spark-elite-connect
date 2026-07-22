@@ -815,11 +815,13 @@
       "publishedAt": "2026-07-22T14:01:32.641Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "net 30 vendor accounts to build business credit fast",
       "intent": "transactional",
-      "angle": "The exact 8 net-30 vendors that report to D&B and Experian Business, ranked by approval odds for sub-1-year-old LLCs."
+      "angle": "The exact 8 net-30 vendors that report to D&B and Experian Business, ranked by approval odds for sub-1-year-old LLCs.",
+      "slug": "how-to-use-aos-funding-to-buy-marketing-leads-profitably",
+      "publishedAt": "2026-07-22T14:01:53.370Z"
     },
     {
       "status": "pending",
