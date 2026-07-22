@@ -806,11 +806,13 @@
       "publishedAt": "2026-07-21T14:01:34.267Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to buy marketing leads",
       "intent": "informational",
-      "angle": "A cash-flow model for deploying $50k in 0% business credit into paid ads without wrecking utilization or personal FICO."
+      "angle": "A cash-flow model for deploying $50k in 0% business credit into paid ads without wrecking utilization or personal FICO.",
+      "slug": "how-to-use-aos-funding-to-buy-marketing-leads-without-wrecking-your-credit",
+      "publishedAt": "2026-07-22T14:01:32.641Z"
     },
     {
       "status": "pending",
