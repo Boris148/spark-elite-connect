@@ -833,11 +833,13 @@
       "publishedAt": "2026-07-23T14:01:37.300Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to charge performance based pricing marketing agency",
       "intent": "informational",
-      "angle": "The hybrid retainer + per-lead pricing model we use to protect margin while giving clients the upside they think they want."
+      "angle": "The hybrid retainer + per-lead pricing model we use to protect margin while giving clients the upside they think they want.",
+      "slug": "business-credit-stacking-for-contractors-100k-in-90-days",
+      "publishedAt": "2026-07-23T14:01:52.924Z"
     },
     {
       "status": "pending",
