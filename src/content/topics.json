@@ -824,11 +824,13 @@
       "publishedAt": "2026-07-22T14:01:53.370Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "business credit stacking for contractors",
       "intent": "commercial",
-      "angle": "How trades operators are stacking $100k-$250k across 4-6 issuers in 90 days to fund trucks, crews, and lead flow simultaneously."
+      "angle": "How trades operators are stacking $100k-$250k across 4-6 issuers in 90 days to fund trucks, crews, and lead flow simultaneously.",
+      "slug": "business-credit-stacking-for-contractors-250k-in-90-days",
+      "publishedAt": "2026-07-23T14:01:37.300Z"
     },
     {
       "status": "pending",
