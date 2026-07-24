@@ -842,11 +842,13 @@
       "publishedAt": "2026-07-23T14:01:52.924Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "marketing agency sales process for cold leads",
       "intent": "commercial",
-      "angle": "The 4-call close sequence (triage → audit → proposal → onboarding) that turns cold booked calls into $3k-$8k/mo retainers at a 35% close rate."
+      "angle": "The 4-call close sequence (triage → audit → proposal → onboarding) that turns cold booked calls into $3k-$8k/mo retainers at a 35% close rate.",
+      "slug": "the-4-call-marketing-agency-sales-process-for-cold-leads",
+      "publishedAt": "2026-07-24T14:01:30.661Z"
     },
     {
       "status": "pending",
