@@ -869,11 +869,13 @@
       "publishedAt": "2026-07-25T14:01:29.602Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "youtube ads cost per lead for financial advisors",
       "intent": "transactional",
-      "angle": "Publish real CPL ranges ($40-$120) from advisor accounts and show the exact video hook + retargeting stack that makes YouTube profitable for RIAs."
+      "angle": "Publish real CPL ranges ($40-$120) from advisor accounts and show the exact video hook + retargeting stack that makes YouTube profitable for RIAs.",
+      "slug": "how-to-lower-cost-per-lead-on-facebook-ads-for-contractors-u64w",
+      "publishedAt": "2026-07-25T14:01:57.416Z"
     },
     {
       "status": "pending",
