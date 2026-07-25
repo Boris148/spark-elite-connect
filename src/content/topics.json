@@ -860,11 +860,13 @@
       "publishedAt": "2026-07-24T14:02:03.723Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to lower cost per lead on facebook ads for contractors",
       "intent": "informational",
-      "angle": "Give a 5-lever teardown (creative, offer, audience, form friction, follow-up) with real CPL drops we've hit for roofing and remodeling accounts."
+      "angle": "Give a 5-lever teardown (creative, offer, audience, form friction, follow-up) with real CPL drops we've hit for roofing and remodeling accounts.",
+      "slug": "how-to-lower-cost-per-lead-on-facebook-ads-for-contractors",
+      "publishedAt": "2026-07-25T14:01:29.602Z"
     },
     {
       "status": "pending",
