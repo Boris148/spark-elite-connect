@@ -887,11 +887,13 @@
       "publishedAt": "2026-07-26T14:01:42.588Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a law firm without seo",
       "intent": "informational",
-      "angle": "Rank the 4 fastest paid channels (LSA, Google Ads, Meta lead ads, YouTube) by intake-to-signed-case ratio for PI, family, and criminal defense firms."
+      "angle": "Rank the 4 fastest paid channels (LSA, Google Ads, Meta lead ads, YouTube) by intake-to-signed-case ratio for PI, family, and criminal defense firms.",
+      "slug": "best-lead-generation-strategy-for-commercial-hvac-in-90-days",
+      "publishedAt": "2026-07-26T14:01:54.501Z"
     },
     {
       "status": "pending",
