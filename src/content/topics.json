@@ -878,11 +878,13 @@
       "publishedAt": "2026-07-25T14:01:57.416Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead generation strategy for commercial hvac",
       "intent": "commercial",
-      "angle": "Argue commercial HVAC needs an ABM + LinkedIn + direct mail play, not Meta ads, and lay out a 90-day pipeline framework property managers actually respond to."
+      "angle": "Argue commercial HVAC needs an ABM + LinkedIn + direct mail play, not Meta ads, and lay out a 90-day pipeline framework property managers actually respond to.",
+      "slug": "best-lead-generation-strategy-for-commercial-hvac-the-abm-play",
+      "publishedAt": "2026-07-26T14:01:42.588Z"
     },
     {
       "status": "pending",
