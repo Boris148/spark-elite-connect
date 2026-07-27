@@ -905,11 +905,13 @@
       "publishedAt": "2026-07-27T14:01:28.099Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to build a lead nurture sequence in gohighlevel",
       "intent": "informational",
-      "angle": "Step-by-step 14-day SMS + email + voicemail drop workflow with copy templates that consistently 2x show rate for home services and med spa leads."
+      "angle": "Step-by-step 14-day SMS + email + voicemail drop workflow with copy templates that consistently 2x show rate for home services and med spa leads.",
+      "slug": "how-to-hire-a-lead-generation-agency-for-your-medical-spa",
+      "publishedAt": "2026-07-27T14:02:01.446Z"
     },
     {
       "status": "pending",
