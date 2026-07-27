@@ -896,11 +896,13 @@
       "publishedAt": "2026-07-26T14:01:54.501Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire lead generation agency for medical spa",
       "intent": "transactional",
-      "angle": "Checklist for vetting med spa lead gen agencies: what a legit CPL/CPA range looks like, red-flag guarantees, and the contract terms that protect the operator."
+      "angle": "Checklist for vetting med spa lead gen agencies: what a legit CPL/CPA range looks like, red-flag guarantees, and the contract terms that protect the operator.",
+      "slug": "how-to-hire-a-lead-generation-agency-for-medical-spa-vetting-checklist",
+      "publishedAt": "2026-07-27T14:01:28.099Z"
     },
     {
       "status": "pending",
