@@ -914,11 +914,13 @@
       "publishedAt": "2026-07-27T14:02:01.446Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "best crm automation for roofing companies",
       "intent": "commercial",
-      "angle": "Compare JobNimbus, GHL, and AccuLynx on lead-to-appointment automation, integration with call tracking, and cost per user for a 10-rep sales floor."
+      "angle": "Compare JobNimbus, GHL, and AccuLynx on lead-to-appointment automation, integration with call tracking, and cost per user for a 10-rep sales floor.",
+      "slug": "best-crm-automation-for-roofing-companies-jobnimbus-vs-ghl-vs-acculynx",
+      "publishedAt": "2026-07-28T14:01:28.828Z"
     },
     {
       "status": "pending",
