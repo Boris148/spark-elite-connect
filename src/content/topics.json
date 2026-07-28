@@ -923,11 +923,13 @@
       "publishedAt": "2026-07-28T14:01:28.828Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "automated review generation system for local service business",
       "intent": "transactional",
-      "angle": "Deploy the exact 3-touch review request stack (post-job SMS, 2-day email, negative-review filter) that pushed a plumbing client from 4.2 to 4.9 stars in 90 days."
+      "angle": "Deploy the exact 3-touch review request stack (post-job SMS, 2-day email, negative-review filter) that pushed a plumbing client from 4.2 to 4.9 stars in 90 days.",
+      "slug": "the-best-crm-automation-for-roofing-companies-compared",
+      "publishedAt": "2026-07-28T14:01:54.062Z"
     },
     {
       "status": "pending",
