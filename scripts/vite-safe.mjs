@@ -42,10 +42,26 @@ function isPluginReactHealthy() {
 
 function runRepair(reason) {
   console.warn(`[vite-safe] Repairing Vite install (${reason})...`);
+
+  // npm can incorrectly report "up to date" when node_modules is partially
+  // restored from a stale cache. Remove the exact broken package folders first
+  // so the install has to materialize fresh copies before Vite/tsc run.
+  for (const packagePath of [
+    "node_modules/vite",
+    "node_modules/@vitejs/plugin-react",
+    "node_modules/.package-lock.json",
+  ]) {
+    fs.rmSync(path.join(projectRoot, packagePath), { recursive: true, force: true });
+  }
+
   execSync(
-    `npm install vite@${VITE_VERSION} @vitejs/plugin-react@${PLUGIN_REACT_VERSION} --save-exact --include=dev --no-audit --no-fund`,
+    `npm install vite@${VITE_VERSION} @vitejs/plugin-react@${PLUGIN_REACT_VERSION} --save-exact --include=dev --no-audit --no-fund --force`,
     { stdio: "inherit", cwd: projectRoot },
   );
+
+  if (!isViteInstallHealthy() || !isPluginReactHealthy()) {
+    throw new Error("[vite-safe] Vite repair completed but required files are still missing.");
+  }
 }
 
 function runVite(viteArgs) {
