@@ -82,7 +82,16 @@ function normalizeArgs(rawArgs) {
 }
 
 function main() {
-  const viteArgs = normalizeArgs(process.argv.slice(2));
+  const rawArgs = process.argv.slice(2);
+
+  if (rawArgs[0] === "ensure") {
+    if (!isViteInstallHealthy() || !isPluginReactHealthy()) {
+      runRepair("preflight: missing Vite runtime files");
+    }
+    process.exit(0);
+  }
+
+  const viteArgs = normalizeArgs(rawArgs);
 
   if (!isViteInstallHealthy() || !isPluginReactHealthy()) {
     runRepair("missing Vite runtime files");
