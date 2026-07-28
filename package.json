@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "node scripts/vite-safe.mjs dev",
-    "build": "tsc -b && node scripts/vite-safe.mjs build",
+    "build": "node scripts/vite-safe.mjs ensure && tsc -b && node scripts/vite-safe.mjs build",
     "preview": "node scripts/vite-safe.mjs preview",
     "build:dev": "node scripts/vite-safe.mjs build --mode development",
     "generate-article": "node scripts/generate-article.mjs"
