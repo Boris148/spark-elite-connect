@@ -932,11 +932,13 @@
       "publishedAt": "2026-07-28T14:01:54.062Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to score inbound leads in real time",
       "intent": "informational",
-      "angle": "Show a webhook + GPT-4o setup that scores leads on intent within 30 seconds and routes hot ones to a live rep — with a real fitness studio case study."
+      "angle": "Show a webhook + GPT-4o setup that scores leads on intent within 30 seconds and routes hot ones to a live rep — with a real fitness studio case study.",
+      "slug": "how-to-use-ai-to-score-inbound-leads-in-real-time-under-30s",
+      "publishedAt": "2026-07-29T14:01:39.299Z"
     },
     {
       "status": "pending",
