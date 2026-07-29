@@ -941,11 +941,13 @@
       "publishedAt": "2026-07-29T14:01:39.299Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai phone answering service for contractors",
       "intent": "commercial",
-      "angle": "Head-to-head test of Goodcall, Rosie, and a custom Vapi build on call capture rate, booking rate, and monthly cost for a 5-truck HVAC operator."
+      "angle": "Head-to-head test of Goodcall, Rosie, and a custom Vapi build on call capture rate, booking rate, and monthly cost for a 5-truck HVAC operator.",
+      "slug": "how-to-use-ai-to-score-inbound-leads-in-real-time-step-by-step",
+      "publishedAt": "2026-07-29T14:01:56.342Z"
     },
     {
       "status": "pending",

@@ -4,7 +4,15 @@
   <link>https://socialelitemarketinggroup.com/blog</link>
   <description>Operator-grade marketing playbooks from Social Elite Marketing Group.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Jul 2026 14:01:39 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 14:01:56 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[How to Use AI to Score Inbound Leads in Real Time, Step by Step]]></title>
+    <link>https://socialelitemarketinggroup.com/blog/how-to-use-ai-to-score-inbound-leads-in-real-time-step-by-step</link>
+    <guid isPermaLink="true">https://socialelitemarketinggroup.com/blog/how-to-use-ai-to-score-inbound-leads-in-real-time-step-by-step</guid>
+    <pubDate>Wed, 29 Jul 2026 14:01:56 GMT</pubDate>
+    <category>AI in Marketing</category>
+    <description><![CDATA[Score every inbound lead in under 30 seconds with a webhook + GPT-4o pipeline. The exact setup, prompts, and routing rules — plus a real fitness studio case study.]]></description>
+  </item>
   <item>
     <title><![CDATA[How to Use AI to Score Inbound Leads in Real Time (Under 30s)]]></title>
     <link>https://socialelitemarketinggroup.com/blog/how-to-use-ai-to-score-inbound-leads-in-real-time-under-30s</link>
@@ -156,13 +164,5 @@
     <pubDate>Sun, 19 Jul 2026 14:01:19 GMT</pubDate>
     <category>Marketing Automation</category>
     <description><![CDATA[We benchmarked Zapier, Make, and n8n on cost, reliability, and complexity. Here's why we pulled client automations off Zapier at 500+ tasks/month.]]></description>
-  </item>
-  <item>
-    <title><![CDATA[The GoHighLevel Snapshot for Home Services Agencies That Works]]></title>
-    <link>https://socialelitemarketinggroup.com/blog/the-gohighlevel-snapshot-for-home-services-agencies-that-works</link>
-    <guid isPermaLink="true">https://socialelitemarketinggroup.com/blog/the-gohighlevel-snapshot-for-home-services-agencies-that-works</guid>
-    <pubDate>Sat, 18 Jul 2026 14:01:58 GMT</pubDate>
-    <category>Marketing Automation</category>
-    <description><![CDATA[The exact GHL snapshot structure — pipelines, workflows, triggers — we deploy for HVAC, roofing, and plumbing clients on day one. Steal the blueprint.]]></description>
   </item>
 </channel></rss>
