@@ -4,7 +4,15 @@
   <link>https://socialelitemarketinggroup.com/blog</link>
   <description>Operator-grade marketing playbooks from Social Elite Marketing Group.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Jul 2026 14:01:56 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 14:01:45 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[The AI Content Repurposing Workflow That Replaced a Full-Time Hire]]></title>
+    <link>https://socialelitemarketinggroup.com/blog/the-ai-content-repurposing-workflow-that-replaced-a-full-time-hire</link>
+    <guid isPermaLink="true">https://socialelitemarketinggroup.com/blog/the-ai-content-repurposing-workflow-that-replaced-a-full-time-hire</guid>
+    <pubDate>Thu, 30 Jul 2026 14:01:45 GMT</pubDate>
+    <category>AI in Marketing</category>
+    <description><![CDATA[The exact n8n + Claude workflow that turns one founder podcast into 12 content assets a week — and why it beats hiring a $65K content marketer.]]></description>
+  </item>
   <item>
     <title><![CDATA[How to Use AI to Score Inbound Leads in Real Time, Step by Step]]></title>
     <link>https://socialelitemarketinggroup.com/blog/how-to-use-ai-to-score-inbound-leads-in-real-time-step-by-step</link>
@@ -156,13 +164,5 @@
     <pubDate>Sun, 19 Jul 2026 14:01:53 GMT</pubDate>
     <category>AI in Marketing</category>
     <description><![CDATA[We moved client automations off Zapier at 500+ tasks/month. Here's the real cost, reliability, and complexity breakdown of Zapier vs Make vs n8n.]]></description>
-  </item>
-  <item>
-    <title><![CDATA[Zapier vs Make vs n8n for Marketing Agencies: The Real Cost]]></title>
-    <link>https://socialelitemarketinggroup.com/blog/zapier-vs-make-vs-n8n-for-marketing-agencies-the-real-cost</link>
-    <guid isPermaLink="true">https://socialelitemarketinggroup.com/blog/zapier-vs-make-vs-n8n-for-marketing-agencies-the-real-cost</guid>
-    <pubDate>Sun, 19 Jul 2026 14:01:19 GMT</pubDate>
-    <category>Marketing Automation</category>
-    <description><![CDATA[We benchmarked Zapier, Make, and n8n on cost, reliability, and complexity. Here's why we pulled client automations off Zapier at 500+ tasks/month.]]></description>
   </item>
 </channel></rss>

@@ -950,11 +950,13 @@
       "publishedAt": "2026-07-29T14:01:56.342Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "ai content repurposing workflow for agencies",
       "intent": "informational",
-      "angle": "Publish the n8n + Claude workflow that turns one founder podcast into 12 assets/week and killed our need for a full-time content hire."
+      "angle": "Publish the n8n + Claude workflow that turns one founder podcast into 12 assets/week and killed our need for a full-time content hire.",
+      "slug": "the-ai-content-repurposing-workflow-that-replaced-a-full-time-hire",
+      "publishedAt": "2026-07-30T14:01:45.094Z"
     },
     {
       "status": "pending",
@@ -990,6 +992,132 @@
       "keyword": "outbound sales system for marketing agency owners",
       "intent": "commercial",
       "angle": "Detail the cold email + LinkedIn + AI voice combo stack (Instantly + Clay + Vapi) that reliably books 15-20 discovery calls/month for a solo agency owner."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for electricians cost per lead 2026",
+      "intent": "commercial",
+      "angle": "Real CPL benchmarks from $45-$120 across residential vs commercial electrical, with the exact campaign structure that hits the low end."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "facebook ads for pest control companies",
+      "intent": "commercial",
+      "angle": "Why lead-form ads underperform for pest control and the landing-page-to-call workflow that cuts CPL under $30 in secondary markets."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to fix rising cpm on meta ads",
+      "intent": "informational",
+      "angle": "The five diagnostic checks (creative fatigue, audience overlap, auction pressure, placement drift, learning resets) to run before touching budget."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "buy exclusive hvac leads vs run your own ads",
+      "intent": "commercial",
+      "angle": "Break-even math on $85 shared leads vs building an in-house Meta funnel at $42 CPL and why most HVAC operators should run hybrid."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for kitchen remodeling contractors",
+      "intent": "commercial",
+      "angle": "Why Angi and Thumbtack tank margin for remodelers and the three-channel stack (Meta + LSA + retargeting) that produces $200k+ jobs."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation company for pressure washing business",
+      "intent": "transactional",
+      "angle": "What to demand in a pressure-washing lead-gen contract: exclusivity, geo caps, and pay-per-booked-job pricing that actually works."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel calendar automation for med spas",
+      "intent": "informational",
+      "angle": "The exact GHL calendar + tag + workflow build that eliminates no-shows for Botox consults using deposit holds and 3-touch reminders."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best marketing automation platform for insurance agents",
+      "intent": "commercial",
+      "angle": "Why GHL beats Salesforce and HubSpot for solo P&C and life agents under $2M premium, with pricing and integration reality checks."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate quote follow up for roofing companies",
+      "intent": "informational",
+      "angle": "A 14-day SMS + email + ringless voicemail sequence that recovers 18-22% of unsigned roofing estimates without annoying homeowners."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "ai sdr vs human sdr cost comparison for agencies",
+      "intent": "commercial",
+      "angle": "Fully-loaded math: $6k/mo human SDR vs $800/mo AI stack (Clay + Instantly + Smartlead) and where AI still loses on booked meetings."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to build landing pages for ppc campaigns",
+      "intent": "informational",
+      "angle": "The Claude + Unbounce workflow for spinning up 6 vertical-specific landing pages in a day without tanking Quality Score."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai transcription and call scoring tools for sales teams",
+      "intent": "commercial",
+      "angle": "Head-to-head on Gong vs Fireflies vs CallRail Conversation Intelligence for teams under 10 reps, ranked by ROI not features."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to launch a marketing agency",
+      "intent": "informational",
+      "angle": "A $75k AOS deployment plan: what to spend on tools, ads, and hiring in the first 90 days to hit positive cash flow."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding approval requirements and timeline",
+      "intent": "transactional",
+      "angle": "Exact credit profile, documentation, and 21-day timeline for AOS approval — including the three disqualifiers most applicants miss."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "best way to finance ppc ad spend for service business",
+      "intent": "commercial",
+      "angle": "Ranking 0% business cards, Ramp, Parafin, and AOS for funding six-figure annual ad budgets without personal guarantee exposure."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to niche down a general marketing agency without losing clients",
+      "intent": "informational",
+      "angle": "The 90-day transition playbook: repositioning, offer redesign, and the client-retention script that keeps 70%+ of legacy accounts."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "marketing agency profit margin benchmarks 2026",
+      "intent": "commercial",
+      "angle": "Real EBITDA benchmarks by agency stage — 12% at $50k MRR, 22% at $250k MRR — and the three cost lines that separate winners."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "hire fractional cmo vs marketing agency for saas startup",
+      "intent": "transactional",
+      "angle": "When a $8k fractional CMO out-produces a $15k agency retainer for seed-to-Series-A SaaS, and the exact hybrid model that wins."
     }
   ]
 }
