@@ -959,11 +959,13 @@
       "publishedAt": "2026-07-30T14:02:20.346Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how much funding can you get through aos",
       "intent": "informational",
-      "angle": "Explain real funding tiers ($50k-$250k) based on credit profile, and walk through the underwriting factors that actually move the approval number."
+      "angle": "Explain real funding tiers ($50k-$250k) based on credit profile, and walk through the underwriting factors that actually move the approval number.",
+      "slug": "how-much-funding-can-you-get-through-aos-real-tiers-by-credit",
+      "publishedAt": "2026-07-31T14:01:27.081Z"
     },
     {
       "status": "pending",
