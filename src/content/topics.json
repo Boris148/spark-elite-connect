@@ -986,11 +986,13 @@
       "publishedAt": "2026-08-01T14:01:33.952Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to structure retainer contracts for marketing agencies",
       "intent": "informational",
-      "angle": "Break down 3 retainer models (flat, hybrid, performance) with actual contract language and cancellation clauses that keep MRR sticky past month 6."
+      "angle": "Break down 3 retainer models (flat, hybrid, performance) with actual contract language and cancellation clauses that keep MRR sticky past month 6.",
+      "slug": "how-to-apply-for-aos-funding-for-your-marketing-agency-in-7-days-x6s2",
+      "publishedAt": "2026-08-01T14:01:59.985Z"
     },
     {
       "status": "pending",
