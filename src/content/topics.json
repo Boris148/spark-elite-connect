@@ -977,11 +977,13 @@
       "publishedAt": "2026-07-31T19:24:23.318Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "apply for aos funding for marketing agency",
       "intent": "transactional",
-      "angle": "Walk the reader through the exact 7-day AOS application flow, what documents to prep, and how agency owners are deploying capital into paid media arbitrage."
+      "angle": "Walk the reader through the exact 7-day AOS application flow, what documents to prep, and how agency owners are deploying capital into paid media arbitrage.",
+      "slug": "how-to-apply-for-aos-funding-for-your-marketing-agency-in-7-days",
+      "publishedAt": "2026-08-01T14:01:33.952Z"
     },
     {
       "status": "pending",
