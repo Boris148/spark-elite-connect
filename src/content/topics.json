@@ -1004,11 +1004,13 @@
       "publishedAt": "2026-08-02T14:01:41.852Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for electricians cost per lead 2026",
       "intent": "commercial",
-      "angle": "Real CPL benchmarks from $45-$120 across residential vs commercial electrical, with the exact campaign structure that hits the low end."
+      "angle": "Real CPL benchmarks from $45-$120 across residential vs commercial electrical, with the exact campaign structure that hits the low end.",
+      "slug": "the-outbound-sales-system-for-marketing-agency-owners-in-2026",
+      "publishedAt": "2026-08-02T14:01:50.958Z"
     },
     {
       "status": "pending",
