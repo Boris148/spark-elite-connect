@@ -995,11 +995,13 @@
       "publishedAt": "2026-08-01T14:01:59.985Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "outbound sales system for marketing agency owners",
       "intent": "commercial",
-      "angle": "Detail the cold email + LinkedIn + AI voice combo stack (Instantly + Clay + Vapi) that reliably books 15-20 discovery calls/month for a solo agency owner."
+      "angle": "Detail the cold email + LinkedIn + AI voice combo stack (Instantly + Clay + Vapi) that reliably books 15-20 discovery calls/month for a solo agency owner.",
+      "slug": "the-outbound-sales-system-for-marketing-agency-owners-that-books-15-20-callsmont",
+      "publishedAt": "2026-08-02T14:01:41.852Z"
     },
     {
       "status": "pending",
