@@ -1022,11 +1022,13 @@
       "publishedAt": "2026-08-03T14:01:28.215Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to fix rising cpm on meta ads",
       "intent": "informational",
-      "angle": "The five diagnostic checks (creative fatigue, audience overlap, auction pressure, placement drift, learning resets) to run before touching budget."
+      "angle": "The five diagnostic checks (creative fatigue, audience overlap, auction pressure, placement drift, learning resets) to run before touching budget.",
+      "slug": "facebook-ads-for-pest-control-companies-cpl-under-30",
+      "publishedAt": "2026-08-03T14:02:08.058Z"
     },
     {
       "status": "pending",
