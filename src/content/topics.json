@@ -1013,11 +1013,13 @@
       "publishedAt": "2026-08-02T14:01:50.958Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "facebook ads for pest control companies",
       "intent": "commercial",
-      "angle": "Why lead-form ads underperform for pest control and the landing-page-to-call workflow that cuts CPL under $30 in secondary markets."
+      "angle": "Why lead-form ads underperform for pest control and the landing-page-to-call workflow that cuts CPL under $30 in secondary markets.",
+      "slug": "facebook-ads-for-pest-control-companies-the-sub-30-cpl-playbook",
+      "publishedAt": "2026-08-03T14:01:28.215Z"
     },
     {
       "status": "pending",
