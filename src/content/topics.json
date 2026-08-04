@@ -1040,11 +1040,13 @@
       "publishedAt": "2026-08-04T14:01:28.984Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead generation for kitchen remodeling contractors",
       "intent": "commercial",
-      "angle": "Why Angi and Thumbtack tank margin for remodelers and the three-channel stack (Meta + LSA + retargeting) that produces $200k+ jobs."
+      "angle": "Why Angi and Thumbtack tank margin for remodelers and the three-channel stack (Meta + LSA + retargeting) that produces $200k+ jobs.",
+      "slug": "buy-exclusive-hvac-leads-vs-run-your-own-ads-real-math",
+      "publishedAt": "2026-08-04T14:01:47.075Z"
     },
     {
       "status": "pending",
