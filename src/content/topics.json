@@ -1031,11 +1031,13 @@
       "publishedAt": "2026-08-03T14:02:08.058Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "buy exclusive hvac leads vs run your own ads",
       "intent": "commercial",
-      "angle": "Break-even math on $85 shared leads vs building an in-house Meta funnel at $42 CPL and why most HVAC operators should run hybrid."
+      "angle": "Break-even math on $85 shared leads vs building an in-house Meta funnel at $42 CPL and why most HVAC operators should run hybrid.",
+      "slug": "buy-exclusive-hvac-leads-vs-run-your-own-ads-the-real-math",
+      "publishedAt": "2026-08-04T14:01:28.984Z"
     },
     {
       "status": "pending",
