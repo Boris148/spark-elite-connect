@@ -1049,11 +1049,13 @@
       "publishedAt": "2026-08-04T14:01:47.075Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire lead generation company for pressure washing business",
       "intent": "transactional",
-      "angle": "What to demand in a pressure-washing lead-gen contract: exclusivity, geo caps, and pay-per-booked-job pricing that actually works."
+      "angle": "What to demand in a pressure-washing lead-gen contract: exclusivity, geo caps, and pay-per-booked-job pricing that actually works.",
+      "slug": "hire-a-lead-generation-company-for-pressure-washing-contract-rules",
+      "publishedAt": "2026-08-05T14:01:33.671Z"
     },
     {
       "status": "pending",
