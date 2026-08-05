@@ -1058,11 +1058,13 @@
       "publishedAt": "2026-08-05T14:01:33.671Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel calendar automation for med spas",
       "intent": "informational",
-      "angle": "The exact GHL calendar + tag + workflow build that eliminates no-shows for Botox consults using deposit holds and 3-touch reminders."
+      "angle": "The exact GHL calendar + tag + workflow build that eliminates no-shows for Botox consults using deposit holds and 3-touch reminders.",
+      "slug": "hire-a-lead-generation-company-for-pressure-washing-read-this",
+      "publishedAt": "2026-08-05T14:01:52.128Z"
     },
     {
       "status": "pending",
