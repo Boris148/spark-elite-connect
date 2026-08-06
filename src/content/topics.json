@@ -1067,11 +1067,13 @@
       "publishedAt": "2026-08-05T14:01:52.128Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "best marketing automation platform for insurance agents",
       "intent": "commercial",
-      "angle": "Why GHL beats Salesforce and HubSpot for solo P&C and life agents under $2M premium, with pricing and integration reality checks."
+      "angle": "Why GHL beats Salesforce and HubSpot for solo P&C and life agents under $2M premium, with pricing and integration reality checks.",
+      "slug": "best-marketing-automation-platform-for-insurance-agents-in-2026",
+      "publishedAt": "2026-08-06T14:01:32.968Z"
     },
     {
       "status": "pending",
