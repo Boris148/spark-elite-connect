@@ -1076,11 +1076,13 @@
       "publishedAt": "2026-08-06T14:01:32.968Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate quote follow up for roofing companies",
       "intent": "informational",
-      "angle": "A 14-day SMS + email + ringless voicemail sequence that recovers 18-22% of unsigned roofing estimates without annoying homeowners."
+      "angle": "A 14-day SMS + email + ringless voicemail sequence that recovers 18-22% of unsigned roofing estimates without annoying homeowners.",
+      "slug": "best-marketing-automation-platform-for-insurance-agents-in-review",
+      "publishedAt": "2026-08-06T14:01:56.417Z"
     },
     {
       "status": "pending",
