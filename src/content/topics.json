@@ -1085,11 +1085,13 @@
       "publishedAt": "2026-08-06T14:01:56.417Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "ai sdr vs human sdr cost comparison for agencies",
       "intent": "commercial",
-      "angle": "Fully-loaded math: $6k/mo human SDR vs $800/mo AI stack (Clay + Instantly + Smartlead) and where AI still loses on booked meetings."
+      "angle": "Fully-loaded math: $6k/mo human SDR vs $800/mo AI stack (Clay + Instantly + Smartlead) and where AI still loses on booked meetings.",
+      "slug": "ai-sdr-vs-human-sdr-cost-comparison-for-agencies-real-math",
+      "publishedAt": "2026-08-07T14:01:29.389Z"
     },
     {
       "status": "pending",
