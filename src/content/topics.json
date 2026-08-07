@@ -1094,11 +1094,13 @@
       "publishedAt": "2026-08-07T14:01:29.389Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to build landing pages for ppc campaigns",
       "intent": "informational",
-      "angle": "The Claude + Unbounce workflow for spinning up 6 vertical-specific landing pages in a day without tanking Quality Score."
+      "angle": "The Claude + Unbounce workflow for spinning up 6 vertical-specific landing pages in a day without tanking Quality Score.",
+      "slug": "ai-sdr-vs-human-sdr-the-real-cost-comparison-for-agencies",
+      "publishedAt": "2026-08-07T14:02:15.528Z"
     },
     {
       "status": "pending",
