@@ -1103,11 +1103,13 @@
       "publishedAt": "2026-08-07T14:02:15.528Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai transcription and call scoring tools for sales teams",
       "intent": "commercial",
-      "angle": "Head-to-head on Gong vs Fireflies vs CallRail Conversation Intelligence for teams under 10 reps, ranked by ROI not features."
+      "angle": "Head-to-head on Gong vs Fireflies vs CallRail Conversation Intelligence for teams under 10 reps, ranked by ROI not features.",
+      "slug": "best-ai-transcription-and-call-scoring-tools-for-sales-teams",
+      "publishedAt": "2026-08-08T14:01:47.802Z"
     },
     {
       "status": "pending",
@@ -1150,6 +1152,125 @@
       "keyword": "hire fractional cmo vs marketing agency for saas startup",
       "intent": "transactional",
       "angle": "When a $8k fractional CMO out-produces a $15k agency retainer for seed-to-Series-A SaaS, and the exact hybrid model that wins."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for window replacement contractors cost per lead",
+      "intent": "commercial",
+      "angle": "Breaks down realistic CPL ranges ($85-$220) for window replacement Google Ads by market size, with keyword bid data and landing page conversion benchmarks from 40+ contractor campaigns."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for personal injury law firms",
+      "intent": "commercial",
+      "angle": "Why most PI firms burn cash on Meta and the exact creative-to-intake funnel structure that actually produces signed cases under $400 per qualified lead."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to structure google ads campaigns for multi location service businesses",
+      "intent": "informational",
+      "angle": "Location-based campaign architecture using geo-targeted single keyword ad groups vs performance max, with a decision tree based on locations and monthly budget."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for commercial solar installers",
+      "intent": "commercial",
+      "angle": "Why residential solar tactics fail for commercial and the 3-channel outbound + LinkedIn + Google Ads stack that fills a $2M+ commercial solar pipeline."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for concrete contractors",
+      "intent": "transactional",
+      "angle": "What concrete contractors should pay per exclusive lead, red flags in agency contracts, and why performance-based deals beat retainers in this vertical."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for mortgage loan officers 2026",
+      "intent": "commercial",
+      "angle": "Ranks Zillow, Bankrate, Facebook lead ads, and Google LSAs by close rate and cost per funded loan based on 2026 broker data."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate estimate follow up for hvac companies",
+      "intent": "informational",
+      "angle": "A 14-day SMS + email + ringless voicemail sequence in GoHighLevel that recovers 22% of unsigned HVAC estimates without sounding automated."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel vs keap for solo service business owners",
+      "intent": "commercial",
+      "angle": "Head-to-head for one-person shops under $500k revenue: pricing, learning curve, and which platform actually gets used versus abandoned after 60 days."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "automated lead routing by zip code in gohighlevel",
+      "intent": "informational",
+      "angle": "Step-by-step workflow build for multi-location or franchise service brands to route inbound leads to the right rep in under 60 seconds."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to generate ugc style video ads for meta",
+      "intent": "informational",
+      "angle": "The Arcads + HeyGen + ElevenLabs stack producing scroll-stopping UGC ads at $12 each, with the prompt frameworks that beat human-shot creative in 60% of tests."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai tools for automating client reporting at marketing agencies",
+      "intent": "commercial",
+      "angle": "Compares AgencyAnalytics, Whatagraph, and custom GPT + Looker Studio setups on time saved and client perception of value."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "ai voice agent for after hours lead capture for law firms",
+      "intent": "transactional",
+      "angle": "Why law firms lose 34% of intake calls after 5pm and the exact Retell/Vapi build that qualifies and books consults 24/7 for under $300/month."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding vs 0 percent business credit cards for buying leads",
+      "intent": "commercial",
+      "angle": "Real math on cost of capital: when $75k in stacked 0% cards beats AOS funding for lead-buying operators, and when it doesn't."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use business credit to launch a hvac company",
+      "intent": "informational",
+      "angle": "The 90-day credit stacking sequence to fund trucks, tools, and first 6 months of Google Ads without touching personal savings or SBA loans."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding for real estate investors",
+      "intent": "transactional",
+      "angle": "How investors are using $50k-$150k in AOS capital for earnest money, rehab reserves, and marketing spend when hard money won't cover the gap."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to sell marketing retainers to blue collar business owners",
+      "intent": "informational",
+      "angle": "Sales script and objection handling for closing $3-8k/mo retainers with roofers, plumbers, and HVAC owners who hate 'marketing speak'."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "marketing agency owner salary benchmarks by revenue tier",
+      "intent": "commercial",
+      "angle": "What agency owners actually pay themselves at $250k, $500k, $1M, and $3M ARR — with the operational hires that unlock each jump."
     }
   ]
 }
