@@ -1121,11 +1121,13 @@
       "publishedAt": "2026-08-09T14:01:24.884Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "aos funding approval requirements and timeline",
       "intent": "transactional",
-      "angle": "Exact credit profile, documentation, and 21-day timeline for AOS approval — including the three disqualifiers most applicants miss."
+      "angle": "Exact credit profile, documentation, and 21-day timeline for AOS approval — including the three disqualifiers most applicants miss.",
+      "slug": "how-to-use-aos-funding-to-launch-a-marketing-agency",
+      "publishedAt": "2026-08-09T14:01:50.235Z"
     },
     {
       "status": "pending",

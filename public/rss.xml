@@ -4,7 +4,15 @@
   <link>https://socialelitemarketinggroup.com/blog</link>
   <description>Operator-grade marketing playbooks from Social Elite Marketing Group.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 09 Aug 2026 14:01:24 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 14:01:50 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[How to Use AOS Funding to Launch a Marketing Agency]]></title>
+    <link>https://socialelitemarketinggroup.com/blog/how-to-use-aos-funding-to-launch-a-marketing-agency</link>
+    <guid isPermaLink="true">https://socialelitemarketinggroup.com/blog/how-to-use-aos-funding-to-launch-a-marketing-agency</guid>
+    <pubDate>Sun, 09 Aug 2026 14:01:50 GMT</pubDate>
+    <category>Funding &amp; AOS</category>
+    <description><![CDATA[A $75K AOS deployment plan for launching a marketing agency: exact spend on tools, ads, and hiring in the first 90 days to reach positive cash flow.]]></description>
+  </item>
   <item>
     <title><![CDATA[How to Use AOS Funding to Launch a Marketing Agency in 90 Days]]></title>
     <link>https://socialelitemarketinggroup.com/blog/how-to-use-aos-funding-to-launch-a-marketing-agency-in-90-days</link>
@@ -156,13 +164,5 @@
     <pubDate>Thu, 30 Jul 2026 14:02:20 GMT</pubDate>
     <category>AI in Marketing</category>
     <description><![CDATA[The exact n8n + Claude content repurposing workflow we use to turn one founder podcast into 12 assets a week. No content hire required.]]></description>
-  </item>
-  <item>
-    <title><![CDATA[How to Use AI to Score Inbound Leads in Real Time, Step by Step]]></title>
-    <link>https://socialelitemarketinggroup.com/blog/how-to-use-ai-to-score-inbound-leads-in-real-time-step-by-step</link>
-    <guid isPermaLink="true">https://socialelitemarketinggroup.com/blog/how-to-use-ai-to-score-inbound-leads-in-real-time-step-by-step</guid>
-    <pubDate>Wed, 29 Jul 2026 14:01:56 GMT</pubDate>
-    <category>AI in Marketing</category>
-    <description><![CDATA[Score every inbound lead in under 30 seconds with a webhook + GPT-4o pipeline. The exact setup, prompts, and routing rules — plus a real fitness studio case study.]]></description>
   </item>
 </channel></rss>
