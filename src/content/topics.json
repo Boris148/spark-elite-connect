@@ -1112,11 +1112,13 @@
       "publishedAt": "2026-08-08T14:01:47.802Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to launch a marketing agency",
       "intent": "informational",
-      "angle": "A $75k AOS deployment plan: what to spend on tools, ads, and hiring in the first 90 days to hit positive cash flow."
+      "angle": "A $75k AOS deployment plan: what to spend on tools, ads, and hiring in the first 90 days to hit positive cash flow.",
+      "slug": "how-to-use-aos-funding-to-launch-a-marketing-agency-in-90-days",
+      "publishedAt": "2026-08-09T14:01:24.884Z"
     },
     {
       "status": "pending",
