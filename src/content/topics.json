@@ -1130,11 +1130,13 @@
       "publishedAt": "2026-08-09T14:01:50.235Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "best way to finance ppc ad spend for service business",
       "intent": "commercial",
-      "angle": "Ranking 0% business cards, Ramp, Parafin, and AOS for funding six-figure annual ad budgets without personal guarantee exposure."
+      "angle": "Ranking 0% business cards, Ramp, Parafin, and AOS for funding six-figure annual ad budgets without personal guarantee exposure.",
+      "slug": "best-way-to-finance-ppc-ad-spend-for-a-service-business",
+      "publishedAt": "2026-08-10T14:01:29.268Z"
     },
     {
       "status": "pending",
