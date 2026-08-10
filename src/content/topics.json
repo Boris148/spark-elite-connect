@@ -1139,11 +1139,13 @@
       "publishedAt": "2026-08-10T14:01:29.268Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to niche down a general marketing agency without losing clients",
       "intent": "informational",
-      "angle": "The 90-day transition playbook: repositioning, offer redesign, and the client-retention script that keeps 70%+ of legacy accounts."
+      "angle": "The 90-day transition playbook: repositioning, offer redesign, and the client-retention script that keeps 70%+ of legacy accounts.",
+      "slug": "the-best-way-to-finance-ppc-ad-spend-for-service-businesses",
+      "publishedAt": "2026-08-10T14:01:46.520Z"
     },
     {
       "status": "pending",
