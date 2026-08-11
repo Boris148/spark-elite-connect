@@ -1157,11 +1157,13 @@
       "publishedAt": "2026-08-11T14:01:29.824Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "hire fractional cmo vs marketing agency for saas startup",
       "intent": "transactional",
-      "angle": "When a $8k fractional CMO out-produces a $15k agency retainer for seed-to-Series-A SaaS, and the exact hybrid model that wins."
+      "angle": "When a $8k fractional CMO out-produces a $15k agency retainer for seed-to-Series-A SaaS, and the exact hybrid model that wins.",
+      "slug": "marketing-agency-profit-margin-benchmarks-2026-real-numbers",
+      "publishedAt": "2026-08-11T14:01:53.818Z"
     },
     {
       "status": "pending",
