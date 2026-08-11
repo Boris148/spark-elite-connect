@@ -1148,11 +1148,13 @@
       "publishedAt": "2026-08-10T14:01:46.520Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "marketing agency profit margin benchmarks 2026",
       "intent": "commercial",
-      "angle": "Real EBITDA benchmarks by agency stage — 12% at $50k MRR, 22% at $250k MRR — and the three cost lines that separate winners."
+      "angle": "Real EBITDA benchmarks by agency stage — 12% at $50k MRR, 22% at $250k MRR — and the three cost lines that separate winners.",
+      "slug": "marketing-agency-profit-margin-benchmarks-2026-real-ebitda-data",
+      "publishedAt": "2026-08-11T14:01:29.824Z"
     },
     {
       "status": "pending",
