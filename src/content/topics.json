@@ -1166,11 +1166,13 @@
       "publishedAt": "2026-08-11T14:01:53.818Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for window replacement contractors cost per lead",
       "intent": "commercial",
-      "angle": "Breaks down realistic CPL ranges ($85-$220) for window replacement Google Ads by market size, with keyword bid data and landing page conversion benchmarks from 40+ contractor campaigns."
+      "angle": "Breaks down realistic CPL ranges ($85-$220) for window replacement Google Ads by market size, with keyword bid data and landing page conversion benchmarks from 40+ contractor campaigns.",
+      "slug": "google-ads-for-window-replacement-contractors-real-cpl-data",
+      "publishedAt": "2026-08-12T14:01:45.306Z"
     },
     {
       "status": "pending",
