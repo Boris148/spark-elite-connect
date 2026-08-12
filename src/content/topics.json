@@ -1175,11 +1175,13 @@
       "publishedAt": "2026-08-12T14:01:45.306Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "meta ads for personal injury law firms",
       "intent": "commercial",
-      "angle": "Why most PI firms burn cash on Meta and the exact creative-to-intake funnel structure that actually produces signed cases under $400 per qualified lead."
+      "angle": "Why most PI firms burn cash on Meta and the exact creative-to-intake funnel structure that actually produces signed cases under $400 per qualified lead.",
+      "slug": "google-ads-for-window-replacement-contractors-cost-per-lead",
+      "publishedAt": "2026-08-12T14:02:06.302Z"
     },
     {
       "status": "pending",
