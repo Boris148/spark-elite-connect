@@ -1184,11 +1184,13 @@
       "publishedAt": "2026-08-12T14:02:06.302Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to structure google ads campaigns for multi location service businesses",
       "intent": "informational",
-      "angle": "Location-based campaign architecture using geo-targeted single keyword ad groups vs performance max, with a decision tree based on locations and monthly budget."
+      "angle": "Location-based campaign architecture using geo-targeted single keyword ad groups vs performance max, with a decision tree based on locations and monthly budget.",
+      "slug": "how-to-structure-google-ads-campaigns-for-multi-location-service-businesses",
+      "publishedAt": "2026-08-13T14:01:35.492Z"
     },
     {
       "status": "pending",
