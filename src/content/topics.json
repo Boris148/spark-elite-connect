@@ -1193,11 +1193,13 @@
       "publishedAt": "2026-08-13T14:01:35.492Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead generation for commercial solar installers",
       "intent": "commercial",
-      "angle": "Why residential solar tactics fail for commercial and the 3-channel outbound + LinkedIn + Google Ads stack that fills a $2M+ commercial solar pipeline."
+      "angle": "Why residential solar tactics fail for commercial and the 3-channel outbound + LinkedIn + Google Ads stack that fills a $2M+ commercial solar pipeline.",
+      "slug": "how-to-structure-google-ads-for-multi-location-service-businesses",
+      "publishedAt": "2026-08-13T14:02:02.279Z"
     },
     {
       "status": "pending",
