@@ -1211,11 +1211,13 @@
       "publishedAt": "2026-08-14T14:01:30.399Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead sources for mortgage loan officers 2026",
       "intent": "commercial",
-      "angle": "Ranks Zillow, Bankrate, Facebook lead ads, and Google LSAs by close rate and cost per funded loan based on 2026 broker data."
+      "angle": "Ranks Zillow, Bankrate, Facebook lead ads, and Google LSAs by close rate and cost per funded loan based on 2026 broker data.",
+      "slug": "how-to-hire-a-lead-generation-agency-for-concrete-contractors",
+      "publishedAt": "2026-08-14T14:02:12.465Z"
     },
     {
       "status": "pending",
