@@ -1202,11 +1202,13 @@
       "publishedAt": "2026-08-13T14:02:02.279Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire lead generation agency for concrete contractors",
       "intent": "transactional",
-      "angle": "What concrete contractors should pay per exclusive lead, red flags in agency contracts, and why performance-based deals beat retainers in this vertical."
+      "angle": "What concrete contractors should pay per exclusive lead, red flags in agency contracts, and why performance-based deals beat retainers in this vertical.",
+      "slug": "hire-a-lead-generation-agency-for-concrete-contractors-real-costs",
+      "publishedAt": "2026-08-14T14:01:30.399Z"
     },
     {
       "status": "pending",
