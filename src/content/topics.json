@@ -1229,11 +1229,13 @@
       "publishedAt": "2026-08-15T14:01:37.963Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel vs keap for solo service business owners",
       "intent": "commercial",
-      "angle": "Head-to-head for one-person shops under $500k revenue: pricing, learning curve, and which platform actually gets used versus abandoned after 60 days."
+      "angle": "Head-to-head for one-person shops under $500k revenue: pricing, learning curve, and which platform actually gets used versus abandoned after 60 days.",
+      "slug": "how-to-automate-estimate-follow-up-for-hvac-companies-2uag",
+      "publishedAt": "2026-08-15T14:01:47.259Z"
     },
     {
       "status": "pending",
