@@ -1220,11 +1220,13 @@
       "publishedAt": "2026-08-14T14:02:12.465Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate estimate follow up for hvac companies",
       "intent": "informational",
-      "angle": "A 14-day SMS + email + ringless voicemail sequence in GoHighLevel that recovers 22% of unsigned HVAC estimates without sounding automated."
+      "angle": "A 14-day SMS + email + ringless voicemail sequence in GoHighLevel that recovers 22% of unsigned HVAC estimates without sounding automated.",
+      "slug": "how-to-automate-estimate-follow-up-for-hvac-companies",
+      "publishedAt": "2026-08-15T14:01:37.963Z"
     },
     {
       "status": "pending",
