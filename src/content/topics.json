@@ -1247,11 +1247,13 @@
       "publishedAt": "2026-08-16T14:01:23.907Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to generate ugc style video ads for meta",
       "intent": "informational",
-      "angle": "The Arcads + HeyGen + ElevenLabs stack producing scroll-stopping UGC ads at $12 each, with the prompt frameworks that beat human-shot creative in 60% of tests."
+      "angle": "The Arcads + HeyGen + ElevenLabs stack producing scroll-stopping UGC ads at $12 each, with the prompt frameworks that beat human-shot creative in 60% of tests.",
+      "slug": "automated-lead-routing-by-zip-code-in-gohighlevel-full-build",
+      "publishedAt": "2026-08-16T14:01:57.487Z"
     },
     {
       "status": "pending",
