@@ -1238,11 +1238,13 @@
       "publishedAt": "2026-08-15T14:01:47.259Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "automated lead routing by zip code in gohighlevel",
       "intent": "informational",
-      "angle": "Step-by-step workflow build for multi-location or franchise service brands to route inbound leads to the right rep in under 60 seconds."
+      "angle": "Step-by-step workflow build for multi-location or franchise service brands to route inbound leads to the right rep in under 60 seconds.",
+      "slug": "automated-lead-routing-by-zip-code-in-gohighlevel-the-build",
+      "publishedAt": "2026-08-16T14:01:23.907Z"
     },
     {
       "status": "pending",
