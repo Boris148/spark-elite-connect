@@ -1256,11 +1256,13 @@
       "publishedAt": "2026-08-16T14:01:57.487Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai tools for automating client reporting at marketing agencies",
       "intent": "commercial",
-      "angle": "Compares AgencyAnalytics, Whatagraph, and custom GPT + Looker Studio setups on time saved and client perception of value."
+      "angle": "Compares AgencyAnalytics, Whatagraph, and custom GPT + Looker Studio setups on time saved and client perception of value.",
+      "slug": "best-ai-tools-for-automating-marketing-agency-client-reporting",
+      "publishedAt": "2026-08-17T14:01:55.596Z"
     },
     {
       "status": "pending",
@@ -1303,6 +1305,125 @@
       "keyword": "marketing agency owner salary benchmarks by revenue tier",
       "intent": "commercial",
       "angle": "What agency owners actually pay themselves at $250k, $500k, $1M, and $3M ARR — with the operational hires that unlock each jump."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for tree service companies cost per lead",
+      "intent": "commercial",
+      "angle": "Break down real CPL ranges ($35-$95) for tree services by market density, why LSAs outperform search for storm chasers, and the exact campaign structure that beats HomeAdvisor pricing."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for chiropractors near me offer",
+      "intent": "commercial",
+      "angle": "Why $19 new-patient exam offers still print in 2026, the creative angles that survive Meta's health ad restrictions, and a 7-day funnel that converts at under $40 booked appointments."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to fix declining roas on meta ads after ios update",
+      "intent": "informational",
+      "angle": "Diagnose the four real culprits (attribution windows, CAPI gaps, creative fatigue, audience saturation) with a triage checklist media buyers can run in under 30 minutes."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for cabinet refinishing contractors",
+      "intent": "commercial",
+      "angle": "Why Facebook lead forms beat landing pages for this vertical, the before/after creative formula, and realistic CPL targets ($22-$45) to bid contractors against Angi's shared-lead pricing."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for commercial insurance agents 2026",
+      "intent": "commercial",
+      "angle": "Rank LinkedIn outbound, Google Ads for BOP quotes, referral partnerships, and paid data lists by true cost-per-bound-policy — with the one channel most agencies underinvest in."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to buy exclusive leads for medicare agents without getting burned",
+      "intent": "informational",
+      "angle": "Vet lead vendors using a 5-point contract checklist, why 'exclusive' rarely means exclusive, and the callback SLA that separates $18 leads from $85 leads."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel automation for solar sales pipelines",
+      "intent": "commercial",
+      "angle": "A full snapshot walkthrough: lead-to-set, set-to-sit, sit-to-close automations with the exact SMS/email cadence that pushes sit rates above 65% for residential solar."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate contract signing and onboarding for marketing agencies",
+      "intent": "informational",
+      "angle": "The PandaDoc + GHL + Slack stack that turns a signed proposal into a kickoff call, shared drive, and first invoice in under 12 minutes with zero human touch."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "crm automation for personal training studios",
+      "intent": "commercial",
+      "angle": "Trial-to-member conversion framework using missed-call-text-back, 14-day nurture, and win-back sequences that recover 22% of ghosted trial leads."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "ai meeting notes tools for account managers at marketing agencies",
+      "intent": "commercial",
+      "angle": "Head-to-head test of Fathom, Fireflies, and Otter on client-call accuracy, CRM push, and the one that actually reduces account manager hours by 6+ per week."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to audit google ads accounts before pitching clients",
+      "intent": "informational",
+      "angle": "A repeatable ChatGPT + Optmyzr workflow that turns a raw GAQL export into a $2,500 audit deck in 40 minutes — the exact prompts included."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai tools to generate case studies from client data",
+      "intent": "commercial",
+      "angle": "How to feed Looker Studio exports into Claude to produce publish-ready case studies with real ROAS numbers — plus the compliance guardrails to avoid inflating results."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to buy a book of business",
+      "intent": "transactional",
+      "angle": "Stack $150K-$250K in 0% credit to acquire a small agency, insurance book, or roofing company — including the LOI structure and seller-note combo that makes lenders comfortable."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding for ecommerce inventory purchases",
+      "intent": "transactional",
+      "angle": "Why 0% business credit beats Shopify Capital for Q4 inventory buys, the approval sequence that unlocks $100K+, and the payoff strategy before promo rates expire."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "business credit vs personal credit for funding a service business launch",
+      "intent": "informational",
+      "angle": "The 90-day sequence to shift $80K in startup costs off personal FICO, why lenders actually score you on business tradelines, and the mistake that kills approvals in month two."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to hire your first appointment setter for a marketing agency",
+      "intent": "informational",
+      "angle": "Philippines vs LATAM vs US comparison on cost, close rates, and ramp time — plus the 30-day scorecard that fires bad setters before they burn your lead list."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to transition marketing agency from project work to monthly retainers",
+      "intent": "informational",
+      "angle": "The exact repricing conversation, contract language, and 90-day migration plan that moved a $30K/mo project shop to $85K MRR without losing a single client."
     }
   ]
 }
