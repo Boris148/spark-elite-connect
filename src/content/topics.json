@@ -1274,11 +1274,13 @@
       "publishedAt": "2026-08-18T14:01:33.244Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "aos funding vs 0 percent business credit cards for buying leads",
       "intent": "commercial",
-      "angle": "Real math on cost of capital: when $75k in stacked 0% cards beats AOS funding for lead-buying operators, and when it doesn't."
+      "angle": "Real math on cost of capital: when $75k in stacked 0% cards beats AOS funding for lead-buying operators, and when it doesn't.",
+      "slug": "ai-voice-agent-for-after-hours-lead-capture-at-law-firms",
+      "publishedAt": "2026-08-18T14:01:59.829Z"
     },
     {
       "status": "pending",
