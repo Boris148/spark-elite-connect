@@ -1265,11 +1265,13 @@
       "publishedAt": "2026-08-17T14:02:12.390Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "ai voice agent for after hours lead capture for law firms",
       "intent": "transactional",
-      "angle": "Why law firms lose 34% of intake calls after 5pm and the exact Retell/Vapi build that qualifies and books consults 24/7 for under $300/month."
+      "angle": "Why law firms lose 34% of intake calls after 5pm and the exact Retell/Vapi build that qualifies and books consults 24/7 for under $300/month.",
+      "slug": "ai-voice-agent-for-after-hours-lead-capture-for-law-firms",
+      "publishedAt": "2026-08-18T14:01:33.244Z"
     },
     {
       "status": "pending",
