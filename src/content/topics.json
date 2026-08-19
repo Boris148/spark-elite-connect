@@ -1292,11 +1292,13 @@
       "publishedAt": "2026-08-19T14:01:31.876Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "aos funding for real estate investors",
       "intent": "transactional",
-      "angle": "How investors are using $50k-$150k in AOS capital for earnest money, rehab reserves, and marketing spend when hard money won't cover the gap."
+      "angle": "How investors are using $50k-$150k in AOS capital for earnest money, rehab reserves, and marketing spend when hard money won't cover the gap.",
+      "slug": "how-to-use-business-credit-to-launch-a-hvac-company-in-90-days-utkv",
+      "publishedAt": "2026-08-19T14:02:13.979Z"
     },
     {
       "status": "pending",
