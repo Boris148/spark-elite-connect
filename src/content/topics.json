@@ -1283,11 +1283,13 @@
       "publishedAt": "2026-08-18T14:01:59.829Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use business credit to launch a hvac company",
       "intent": "informational",
-      "angle": "The 90-day credit stacking sequence to fund trucks, tools, and first 6 months of Google Ads without touching personal savings or SBA loans."
+      "angle": "The 90-day credit stacking sequence to fund trucks, tools, and first 6 months of Google Ads without touching personal savings or SBA loans.",
+      "slug": "how-to-use-business-credit-to-launch-a-hvac-company-in-90-days",
+      "publishedAt": "2026-08-19T14:01:31.876Z"
     },
     {
       "status": "pending",
