@@ -1301,11 +1301,13 @@
       "publishedAt": "2026-08-19T14:02:13.979Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to sell marketing retainers to blue collar business owners",
       "intent": "informational",
-      "angle": "Sales script and objection handling for closing $3-8k/mo retainers with roofers, plumbers, and HVAC owners who hate 'marketing speak'."
+      "angle": "Sales script and objection handling for closing $3-8k/mo retainers with roofers, plumbers, and HVAC owners who hate 'marketing speak'.",
+      "slug": "how-to-sell-marketing-retainers-to-blue-collar-business-owners",
+      "publishedAt": "2026-08-20T14:01:36.035Z"
     },
     {
       "status": "pending",
