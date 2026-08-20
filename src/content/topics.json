@@ -1310,11 +1310,13 @@
       "publishedAt": "2026-08-20T14:01:36.035Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "marketing agency owner salary benchmarks by revenue tier",
       "intent": "commercial",
-      "angle": "What agency owners actually pay themselves at $250k, $500k, $1M, and $3M ARR — with the operational hires that unlock each jump."
+      "angle": "What agency owners actually pay themselves at $250k, $500k, $1M, and $3M ARR — with the operational hires that unlock each jump.",
+      "slug": "how-to-sell-marketing-retainers-to-blue-collar-business-owners-ahwn",
+      "publishedAt": "2026-08-20T14:02:05.758Z"
     },
     {
       "status": "pending",
