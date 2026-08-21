@@ -1319,11 +1319,13 @@
       "publishedAt": "2026-08-20T14:02:05.758Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for tree service companies cost per lead",
       "intent": "commercial",
-      "angle": "Break down real CPL ranges ($35-$95) for tree services by market density, why LSAs outperform search for storm chasers, and the exact campaign structure that beats HomeAdvisor pricing."
+      "angle": "Break down real CPL ranges ($35-$95) for tree services by market density, why LSAs outperform search for storm chasers, and the exact campaign structure that beats HomeAdvisor pricing.",
+      "slug": "google-ads-for-tree-service-companies-real-cpl-costs-and-fixes",
+      "publishedAt": "2026-08-21T14:01:42.517Z"
     },
     {
       "status": "pending",
