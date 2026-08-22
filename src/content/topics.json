@@ -1337,11 +1337,13 @@
       "publishedAt": "2026-08-21T14:02:31.274Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to fix declining roas on meta ads after ios update",
       "intent": "informational",
-      "angle": "Diagnose the four real culprits (attribution windows, CAPI gaps, creative fatigue, audience saturation) with a triage checklist media buyers can run in under 30 minutes."
+      "angle": "Diagnose the four real culprits (attribution windows, CAPI gaps, creative fatigue, audience saturation) with a triage checklist media buyers can run in under 30 minutes.",
+      "slug": "how-to-fix-declining-roas-on-meta-ads-after-the-ios-update",
+      "publishedAt": "2026-08-22T14:01:32.146Z"
     },
     {
       "status": "pending",
