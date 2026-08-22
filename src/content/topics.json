@@ -1346,11 +1346,13 @@
       "publishedAt": "2026-08-22T14:01:32.146Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead generation for cabinet refinishing contractors",
       "intent": "commercial",
-      "angle": "Why Facebook lead forms beat landing pages for this vertical, the before/after creative formula, and realistic CPL targets ($22-$45) to bid contractors against Angi's shared-lead pricing."
+      "angle": "Why Facebook lead forms beat landing pages for this vertical, the before/after creative formula, and realistic CPL targets ($22-$45) to bid contractors against Angi's shared-lead pricing.",
+      "slug": "how-to-fix-declining-roas-on-meta-ads-after-the-ios-update-6b8g",
+      "publishedAt": "2026-08-22T14:02:10.949Z"
     },
     {
       "status": "pending",
