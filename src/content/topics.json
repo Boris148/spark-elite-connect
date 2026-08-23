@@ -1355,11 +1355,13 @@
       "publishedAt": "2026-08-22T14:02:10.949Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead sources for commercial insurance agents 2026",
       "intent": "commercial",
-      "angle": "Rank LinkedIn outbound, Google Ads for BOP quotes, referral partnerships, and paid data lists by true cost-per-bound-policy — with the one channel most agencies underinvest in."
+      "angle": "Rank LinkedIn outbound, Google Ads for BOP quotes, referral partnerships, and paid data lists by true cost-per-bound-policy — with the one channel most agencies underinvest in.",
+      "slug": "best-lead-sources-for-commercial-insurance-agents-2026",
+      "publishedAt": "2026-08-23T14:01:33.187Z"
     },
     {
       "status": "pending",
