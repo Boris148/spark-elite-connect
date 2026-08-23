@@ -1364,11 +1364,13 @@
       "publishedAt": "2026-08-23T14:01:33.187Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "how to buy exclusive leads for medicare agents without getting burned",
       "intent": "informational",
-      "angle": "Vet lead vendors using a 5-point contract checklist, why 'exclusive' rarely means exclusive, and the callback SLA that separates $18 leads from $85 leads."
+      "angle": "Vet lead vendors using a 5-point contract checklist, why 'exclusive' rarely means exclusive, and the callback SLA that separates $18 leads from $85 leads.",
+      "slug": "best-lead-sources-for-commercial-insurance-agents-in-2026-ranked",
+      "publishedAt": "2026-08-23T14:02:31.071Z"
     },
     {
       "status": "pending",
