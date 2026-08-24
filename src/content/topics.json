@@ -1373,11 +1373,13 @@
       "publishedAt": "2026-08-23T14:02:31.071Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for solar sales pipelines",
       "intent": "commercial",
-      "angle": "A full snapshot walkthrough: lead-to-set, set-to-sit, sit-to-close automations with the exact SMS/email cadence that pushes sit rates above 65% for residential solar."
+      "angle": "A full snapshot walkthrough: lead-to-set, set-to-sit, sit-to-close automations with the exact SMS/email cadence that pushes sit rates above 65% for residential solar.",
+      "slug": "gohighlevel-automation-for-solar-sales-pipelines-65-sit-rates",
+      "publishedAt": "2026-08-24T14:01:34.813Z"
     },
     {
       "status": "pending",
