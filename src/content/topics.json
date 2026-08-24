@@ -1382,11 +1382,13 @@
       "publishedAt": "2026-08-24T14:01:34.813Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate contract signing and onboarding for marketing agencies",
       "intent": "informational",
-      "angle": "The PandaDoc + GHL + Slack stack that turns a signed proposal into a kickoff call, shared drive, and first invoice in under 12 minutes with zero human touch."
+      "angle": "The PandaDoc + GHL + Slack stack that turns a signed proposal into a kickoff call, shared drive, and first invoice in under 12 minutes with zero human touch.",
+      "slug": "gohighlevel-automation-for-solar-sales-pipelines-the-65-sit-rate-build",
+      "publishedAt": "2026-08-24T14:02:03.095Z"
     },
     {
       "status": "pending",
