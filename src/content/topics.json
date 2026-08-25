@@ -1391,11 +1391,13 @@
       "publishedAt": "2026-08-24T14:02:03.095Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "crm automation for personal training studios",
       "intent": "commercial",
-      "angle": "Trial-to-member conversion framework using missed-call-text-back, 14-day nurture, and win-back sequences that recover 22% of ghosted trial leads."
+      "angle": "Trial-to-member conversion framework using missed-call-text-back, 14-day nurture, and win-back sequences that recover 22% of ghosted trial leads.",
+      "slug": "crm-automation-for-personal-training-studios-the-22-recovery-play",
+      "publishedAt": "2026-08-25T14:01:35.432Z"
     },
     {
       "status": "pending",
