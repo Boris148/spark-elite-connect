@@ -1400,11 +1400,13 @@
       "publishedAt": "2026-08-25T14:01:35.432Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "ai meeting notes tools for account managers at marketing agencies",
       "intent": "commercial",
-      "angle": "Head-to-head test of Fathom, Fireflies, and Otter on client-call accuracy, CRM push, and the one that actually reduces account manager hours by 6+ per week."
+      "angle": "Head-to-head test of Fathom, Fireflies, and Otter on client-call accuracy, CRM push, and the one that actually reduces account manager hours by 6+ per week.",
+      "slug": "crm-automation-for-personal-training-studios-trial-to-member",
+      "publishedAt": "2026-08-25T14:02:13.354Z"
     },
     {
       "status": "pending",
