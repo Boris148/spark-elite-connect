@@ -1409,11 +1409,13 @@
       "publishedAt": "2026-08-25T14:02:13.354Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to audit google ads accounts before pitching clients",
       "intent": "informational",
-      "angle": "A repeatable ChatGPT + Optmyzr workflow that turns a raw GAQL export into a $2,500 audit deck in 40 minutes — the exact prompts included."
+      "angle": "A repeatable ChatGPT + Optmyzr workflow that turns a raw GAQL export into a $2,500 audit deck in 40 minutes — the exact prompts included.",
+      "slug": "how-to-use-ai-to-audit-google-ads-accounts-before-pitching",
+      "publishedAt": "2026-08-26T14:02:03.641Z"
     },
     {
       "status": "pending",
@@ -1456,6 +1458,125 @@
       "keyword": "how to transition marketing agency from project work to monthly retainers",
       "intent": "informational",
       "angle": "The exact repricing conversation, contract language, and 90-day migration plan that moved a $30K/mo project shop to $85K MRR without losing a single client."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for pool builders cost per lead 2026",
+      "intent": "commercial",
+      "angle": "Benchmark actual CPLs from pool builder accounts ($180-$425), break down by geo and season, and show why call-only + LSA stacking beats search-only campaigns."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for auto detailing businesses",
+      "intent": "commercial",
+      "angle": "A 3-campaign structure (offer, retargeting, referral) that consistently books $150+ ceramic coating jobs at sub-$40 CPL for local detailers."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to structure meta ads campaigns for franchise service businesses",
+      "intent": "informational",
+      "angle": "Territory-based CBO structure with lead routing rules that prevents franchisees from bidding against each other and cannibalizing CPMs."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for foundation repair contractors",
+      "intent": "commercial",
+      "angle": "Why foundation repair leads need a 2-step qualifier (photo upload + zip check) and how it cuts tire-kicker rate from 60% to under 15%."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for bathroom remodeling company",
+      "intent": "transactional",
+      "angle": "The 5 questions to ask any lead gen agency before signing (exclusivity, appointment show rate guarantees, CRM ownership) and red flags in shared-lead contracts."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for final expense insurance agents 2026",
+      "intent": "commercial",
+      "angle": "Rank Facebook direct-response, Google search, aged internet leads, and warm transfers by close rate and true cost-per-issued-policy."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get more leads for a commercial landscaping company",
+      "intent": "informational",
+      "angle": "A 3-channel playbook (LinkedIn outbound to property managers, Google LSA, targeted direct mail) that fills a $2M/yr commercial pipeline."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel automation for mortgage loan officers",
+      "intent": "commercial",
+      "angle": "A pre-approval-to-closing pipeline with 14 automated touchpoints, rate-drop alerts, and referral partner tagging that doubles LO conversion."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate estimate follow up for painting contractors",
+      "intent": "informational",
+      "angle": "The exact 9-touch SMS + email cadence over 21 days that recovers 22% of unsigned estimates for residential painters."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best crm for medical spa chains",
+      "intent": "commercial",
+      "angle": "Compare GoHighLevel, Boulevard, and Zenoti on multi-location reporting, membership billing, and text-to-book conversion for med spa groups doing $5M+."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to write meta ads primary text that beats human copy",
+      "intent": "informational",
+      "angle": "A prompt framework using winning ad libraries + brand voice training that produces primary text hitting 1.2%+ CTR without sounding AI-generated."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai tools for automating cold email personalization at scale",
+      "intent": "commercial",
+      "angle": "Head-to-head on Clay, Instantly AI, and Smartlead for building 10k/month personalized outbound with sub-1% bounce and 8%+ reply rates."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "ai voice agent for booking hvac service calls",
+      "intent": "transactional",
+      "angle": "Deploy a 24/7 AI voice agent that captures after-hours HVAC calls, books directly into ServiceTitan, and pays for itself on the first recovered emergency job."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to buy an existing service business",
+      "intent": "informational",
+      "angle": "Structuring AOS-backed acquisition capital for sub-$1M service business buyouts, including seller-financing stack and cash-flow-based approval logic."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding for medical practice startups",
+      "intent": "transactional",
+      "angle": "How med spa and dental startup owners use AOS funding to cover buildout, equipment, and 90 days of paid ads before revenue ramps."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to raise agency retainer prices without losing clients",
+      "intent": "informational",
+      "angle": "A 60-day price-increase rollout script with performance reporting proof, tiered upgrade offers, and the exact email that raised one agency's ARPU 38%."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "hire agency coach vs join agency mastermind for scaling to 100k mrr",
+      "intent": "commercial",
+      "angle": "Honest cost/ROI breakdown of 1:1 agency coaching vs group masterminds (Agency Lab, 7FA, etc.) for operators stuck between $30k-$100k MRR."
     }
   ]
 }
