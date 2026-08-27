@@ -1418,11 +1418,13 @@
       "publishedAt": "2026-08-26T14:02:07.631Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai tools to generate case studies from client data",
       "intent": "commercial",
-      "angle": "How to feed Looker Studio exports into Claude to produce publish-ready case studies with real ROAS numbers — plus the compliance guardrails to avoid inflating results."
+      "angle": "How to feed Looker Studio exports into Claude to produce publish-ready case studies with real ROAS numbers — plus the compliance guardrails to avoid inflating results.",
+      "slug": "best-ai-tools-to-generate-case-studies-from-client-data-2-hour-workflow",
+      "publishedAt": "2026-08-27T14:01:54.798Z"
     },
     {
       "status": "pending",
