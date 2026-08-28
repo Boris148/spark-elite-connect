@@ -1427,11 +1427,13 @@
       "publishedAt": "2026-08-27T14:01:54.798Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to buy a book of business",
       "intent": "transactional",
-      "angle": "Stack $150K-$250K in 0% credit to acquire a small agency, insurance book, or roofing company — including the LOI structure and seller-note combo that makes lenders comfortable."
+      "angle": "Stack $150K-$250K in 0% credit to acquire a small agency, insurance book, or roofing company — including the LOI structure and seller-note combo that makes lenders comfortable.",
+      "slug": "how-to-use-aos-funding-to-buy-a-book-of-business-2026-playbook",
+      "publishedAt": "2026-08-28T14:01:30.562Z"
     },
     {
       "status": "pending",
