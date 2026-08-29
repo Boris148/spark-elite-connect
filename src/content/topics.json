@@ -1445,11 +1445,13 @@
       "publishedAt": "2026-08-28T14:02:44.827Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "business credit vs personal credit for funding a service business launch",
       "intent": "informational",
-      "angle": "The 90-day sequence to shift $80K in startup costs off personal FICO, why lenders actually score you on business tradelines, and the mistake that kills approvals in month two."
+      "angle": "The 90-day sequence to shift $80K in startup costs off personal FICO, why lenders actually score you on business tradelines, and the mistake that kills approvals in month two.",
+      "slug": "business-credit-vs-personal-credit-for-funding-a-service-business-launch",
+      "publishedAt": "2026-08-29T14:01:34.552Z"
     },
     {
       "status": "pending",
