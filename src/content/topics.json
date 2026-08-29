@@ -1454,11 +1454,13 @@
       "publishedAt": "2026-08-29T14:01:34.552Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to hire your first appointment setter for a marketing agency",
       "intent": "informational",
-      "angle": "Philippines vs LATAM vs US comparison on cost, close rates, and ramp time — plus the 30-day scorecard that fires bad setters before they burn your lead list."
+      "angle": "Philippines vs LATAM vs US comparison on cost, close rates, and ramp time — plus the 30-day scorecard that fires bad setters before they burn your lead list.",
+      "slug": "business-credit-vs-personal-credit-for-funding-a-service-business",
+      "publishedAt": "2026-08-29T14:01:57.984Z"
     },
     {
       "status": "pending",
