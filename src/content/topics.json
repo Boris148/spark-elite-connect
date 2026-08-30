@@ -1472,11 +1472,13 @@
       "publishedAt": "2026-08-30T14:01:38.995Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for pool builders cost per lead 2026",
       "intent": "commercial",
-      "angle": "Benchmark actual CPLs from pool builder accounts ($180-$425), break down by geo and season, and show why call-only + LSA stacking beats search-only campaigns."
+      "angle": "Benchmark actual CPLs from pool builder accounts ($180-$425), break down by geo and season, and show why call-only + LSA stacking beats search-only campaigns.",
+      "slug": "how-to-transition-your-marketing-agency-to-monthly-retainers",
+      "publishedAt": "2026-08-30T14:02:49.024Z"
     },
     {
       "status": "pending",
