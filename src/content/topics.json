@@ -1463,11 +1463,13 @@
       "publishedAt": "2026-08-29T14:01:57.984Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to transition marketing agency from project work to monthly retainers",
       "intent": "informational",
-      "angle": "The exact repricing conversation, contract language, and 90-day migration plan that moved a $30K/mo project shop to $85K MRR without losing a single client."
+      "angle": "The exact repricing conversation, contract language, and 90-day migration plan that moved a $30K/mo project shop to $85K MRR without losing a single client.",
+      "slug": "how-to-transition-a-marketing-agency-from-projects-to-retainers",
+      "publishedAt": "2026-08-30T14:01:38.995Z"
     },
     {
       "status": "pending",
