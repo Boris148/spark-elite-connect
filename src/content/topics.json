@@ -1490,11 +1490,13 @@
       "publishedAt": "2026-08-31T14:01:33.682Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to structure meta ads campaigns for franchise service businesses",
       "intent": "informational",
-      "angle": "Territory-based CBO structure with lead routing rules that prevents franchisees from bidding against each other and cannibalizing CPMs."
+      "angle": "Territory-based CBO structure with lead routing rules that prevents franchisees from bidding against each other and cannibalizing CPMs.",
+      "slug": "meta-ads-for-auto-detailing-businesses-the-3-campaign-system",
+      "publishedAt": "2026-08-31T14:01:57.193Z"
     },
     {
       "status": "pending",
