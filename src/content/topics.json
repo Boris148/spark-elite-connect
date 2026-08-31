@@ -1481,11 +1481,13 @@
       "publishedAt": "2026-08-30T14:02:49.024Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "meta ads for auto detailing businesses",
       "intent": "commercial",
-      "angle": "A 3-campaign structure (offer, retargeting, referral) that consistently books $150+ ceramic coating jobs at sub-$40 CPL for local detailers."
+      "angle": "A 3-campaign structure (offer, retargeting, referral) that consistently books $150+ ceramic coating jobs at sub-$40 CPL for local detailers.",
+      "slug": "meta-ads-for-auto-detailing-businesses-the-3-campaign-playbook",
+      "publishedAt": "2026-08-31T14:01:33.682Z"
     },
     {
       "status": "pending",
