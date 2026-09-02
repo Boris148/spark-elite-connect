@@ -1517,11 +1517,13 @@
       "publishedAt": "2026-09-01T14:02:05.896Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead sources for final expense insurance agents 2026",
       "intent": "commercial",
-      "angle": "Rank Facebook direct-response, Google search, aged internet leads, and warm transfers by close rate and true cost-per-issued-policy."
+      "angle": "Rank Facebook direct-response, Google search, aged internet leads, and warm transfers by close rate and true cost-per-issued-policy.",
+      "slug": "best-lead-sources-for-final-expense-insurance-agents-2026",
+      "publishedAt": "2026-09-02T14:01:27.108Z"
     },
     {
       "status": "pending",
