@@ -1526,11 +1526,13 @@
       "publishedAt": "2026-09-02T14:01:27.108Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a commercial landscaping company",
       "intent": "informational",
-      "angle": "A 3-channel playbook (LinkedIn outbound to property managers, Google LSA, targeted direct mail) that fills a $2M/yr commercial pipeline."
+      "angle": "A 3-channel playbook (LinkedIn outbound to property managers, Google LSA, targeted direct mail) that fills a $2M/yr commercial pipeline.",
+      "slug": "best-lead-sources-for-final-expense-insurance-agents-in-2026",
+      "publishedAt": "2026-09-02T14:02:00.637Z"
     },
     {
       "status": "pending",
