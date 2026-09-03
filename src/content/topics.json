@@ -1535,11 +1535,13 @@
       "publishedAt": "2026-09-02T14:02:00.637Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for mortgage loan officers",
       "intent": "commercial",
-      "angle": "A pre-approval-to-closing pipeline with 14 automated touchpoints, rate-drop alerts, and referral partner tagging that doubles LO conversion."
+      "angle": "A pre-approval-to-closing pipeline with 14 automated touchpoints, rate-drop alerts, and referral partner tagging that doubles LO conversion.",
+      "slug": "gohighlevel-automation-for-mortgage-loan-officers-14-touch-pipeline",
+      "publishedAt": "2026-09-03T14:01:32.478Z"
     },
     {
       "status": "pending",
