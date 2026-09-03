@@ -1544,11 +1544,13 @@
       "publishedAt": "2026-09-03T14:01:32.478Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate estimate follow up for painting contractors",
       "intent": "informational",
-      "angle": "The exact 9-touch SMS + email cadence over 21 days that recovers 22% of unsigned estimates for residential painters."
+      "angle": "The exact 9-touch SMS + email cadence over 21 days that recovers 22% of unsigned estimates for residential painters.",
+      "slug": "gohighlevel-automation-for-mortgage-loan-officers-the-pipeline",
+      "publishedAt": "2026-09-03T14:02:34.831Z"
     },
     {
       "status": "pending",
