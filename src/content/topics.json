@@ -1553,11 +1553,13 @@
       "publishedAt": "2026-09-03T14:02:34.831Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "best crm for medical spa chains",
       "intent": "commercial",
-      "angle": "Compare GoHighLevel, Boulevard, and Zenoti on multi-location reporting, membership billing, and text-to-book conversion for med spa groups doing $5M+."
+      "angle": "Compare GoHighLevel, Boulevard, and Zenoti on multi-location reporting, membership billing, and text-to-book conversion for med spa groups doing $5M+.",
+      "slug": "best-crm-for-medical-spa-chains-ghl-vs-boulevard-vs-zenoti",
+      "publishedAt": "2026-09-04T14:01:36.191Z"
     },
     {
       "status": "pending",
