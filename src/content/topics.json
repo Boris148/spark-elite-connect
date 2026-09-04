@@ -1562,11 +1562,13 @@
       "publishedAt": "2026-09-04T14:01:36.191Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to write meta ads primary text that beats human copy",
       "intent": "informational",
-      "angle": "A prompt framework using winning ad libraries + brand voice training that produces primary text hitting 1.2%+ CTR without sounding AI-generated."
+      "angle": "A prompt framework using winning ad libraries + brand voice training that produces primary text hitting 1.2%+ CTR without sounding AI-generated.",
+      "slug": "best-crm-for-medical-spa-chains-ghl-vs-boulevard-vs-zenoti-xxgk",
+      "publishedAt": "2026-09-04T14:03:22.953Z"
     },
     {
       "status": "pending",
