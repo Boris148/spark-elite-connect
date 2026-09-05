@@ -1571,11 +1571,13 @@
       "publishedAt": "2026-09-04T14:03:22.953Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai tools for automating cold email personalization at scale",
       "intent": "commercial",
-      "angle": "Head-to-head on Clay, Instantly AI, and Smartlead for building 10k/month personalized outbound with sub-1% bounce and 8%+ reply rates."
+      "angle": "Head-to-head on Clay, Instantly AI, and Smartlead for building 10k/month personalized outbound with sub-1% bounce and 8%+ reply rates.",
+      "slug": "best-ai-tools-for-automating-cold-email-personalization-at-scale",
+      "publishedAt": "2026-09-05T14:02:01.626Z"
     },
     {
       "status": "pending",
@@ -1611,6 +1613,132 @@
       "keyword": "hire agency coach vs join agency mastermind for scaling to 100k mrr",
       "intent": "commercial",
       "angle": "Honest cost/ROI breakdown of 1:1 agency coaching vs group masterminds (Agency Lab, 7FA, etc.) for operators stuck between $30k-$100k MRR."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for roofing companies cost per lead 2026",
+      "intent": "commercial",
+      "angle": "Break down real CPL ranges ($65-$180) by region and storm vs retail roofing, with the exact match type + bid strategy combo that keeps CPL under $100."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for dental implant clinics",
+      "intent": "commercial",
+      "angle": "Full-arch implant funnel with $47 consult offer, showing why lead form ads beat landing pages for high-ticket dental and what CPL to expect in tier-1 metros."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to lower cpm on meta ads for local service businesses",
+      "intent": "informational",
+      "angle": "Six-lever framework (creative volume, audience size, placement pruning, dayparting, hook variety, frequency caps) with benchmarks for when each lever moves CPM."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for auto insurance agents 2026",
+      "intent": "commercial",
+      "angle": "Rank EverQuote, MediaAlpha, Facebook forms, and Google LSAs by close rate and true cost per bound policy, not vanity CPL."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get more leads for a fencing company",
+      "intent": "informational",
+      "angle": "Stack Google LSAs + retargeted Meta video + GBP review velocity as the three-channel playbook that gets fencing contractors to 40+ estimates a month."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for personal injury law firm",
+      "intent": "transactional",
+      "angle": "What to demand in the contract (signed case attribution, exclusivity radius, minimum intake SLA) before wiring a PI lead vendor $20k/month."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for commercial electricians",
+      "intent": "commercial",
+      "angle": "Why commercial electrical is an outbound-first game (LinkedIn + cold email to GCs and property managers) and where paid fits as a secondary channel."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel automation for insurance agency lead intake",
+      "intent": "commercial",
+      "angle": "Snapshot walkthrough: inbound lead to quoted policy in under 4 minutes using SMS, missed-call-text-back, and round-robin routing across producers."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate proposal follow up for marketing agencies",
+      "intent": "informational",
+      "angle": "9-touch, 21-day follow-up cadence in GHL that closes an extra 22% of sent proposals without a human touching the pipeline."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best crm for commercial cleaning companies",
+      "intent": "commercial",
+      "angle": "Head-to-head of Jobber, ServiceTitan, and GHL for commercial janitorial ops — pick by bid volume, not feature checklists."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to generate seo content briefs at scale",
+      "intent": "informational",
+      "angle": "Claude + SurferSEO stack that produces 30 defensible content briefs a week, with the prompt architecture that stops AI from hallucinating SERP data."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai voice agents for medical spa appointment booking",
+      "intent": "commercial",
+      "angle": "Compare Retell, Vapi, Bland, and Synthflow on booking conversion, HIPAA posture, and per-minute cost for med spa front-desk replacement."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to rewrite google ads landing pages for higher quality score",
+      "intent": "informational",
+      "angle": "Prompt sequence that lifts Quality Score from 5 to 8+ by rewriting H1, above-fold copy, and CTA to match exact keyword theme intent."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to scale a roofing company",
+      "intent": "informational",
+      "angle": "Deploy $150k in 0% capital across ads, trucks, and a sales rep — with the payback math that keeps you cash-positive by month 4."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding vs merchant cash advance for service businesses",
+      "intent": "commercial",
+      "angle": "True APR comparison (AOS 0% intro vs MCA's 40%+ effective rate) and why MCAs quietly kill 30% of the contractors who take them."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "apply for aos funding with an llc less than 2 years old",
+      "intent": "transactional",
+      "angle": "Exact documentation stack (EIN, business bank statements, personal FICO floor) and the mistakes on the application that trigger auto-declines."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to build a marketing agency case study library that closes deals",
+      "intent": "informational",
+      "angle": "The 5-part case study template (offer, spend, CPL, close rate, revenue) that outperforms testimonials 3-to-1 on sales calls."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "hire a white label seo provider for marketing agency",
+      "intent": "transactional",
+      "angle": "Vetting checklist for white-label SEO vendors — link quality audits, reporting cadence, and the markup math that keeps 60%+ margin intact."
     }
   ]
 }
