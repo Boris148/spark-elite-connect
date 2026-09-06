@@ -1580,11 +1580,13 @@
       "publishedAt": "2026-09-05T14:02:01.626Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "ai voice agent for booking hvac service calls",
       "intent": "transactional",
-      "angle": "Deploy a 24/7 AI voice agent that captures after-hours HVAC calls, books directly into ServiceTitan, and pays for itself on the first recovered emergency job."
+      "angle": "Deploy a 24/7 AI voice agent that captures after-hours HVAC calls, books directly into ServiceTitan, and pays for itself on the first recovered emergency job.",
+      "slug": "ai-voice-agent-for-booking-hvac-service-calls-247-revenue",
+      "publishedAt": "2026-09-06T14:01:27.115Z"
     },
     {
       "status": "pending",
