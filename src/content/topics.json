@@ -1589,11 +1589,13 @@
       "publishedAt": "2026-09-06T14:01:27.115Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to buy an existing service business",
       "intent": "informational",
-      "angle": "Structuring AOS-backed acquisition capital for sub-$1M service business buyouts, including seller-financing stack and cash-flow-based approval logic."
+      "angle": "Structuring AOS-backed acquisition capital for sub-$1M service business buyouts, including seller-financing stack and cash-flow-based approval logic.",
+      "slug": "ai-voice-agent-for-booking-hvac-service-calls-the-247-math",
+      "publishedAt": "2026-09-06T14:02:21.811Z"
     },
     {
       "status": "pending",
