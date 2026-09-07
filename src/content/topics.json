@@ -1598,11 +1598,13 @@
       "publishedAt": "2026-09-06T14:02:21.811Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "aos funding for medical practice startups",
       "intent": "transactional",
-      "angle": "How med spa and dental startup owners use AOS funding to cover buildout, equipment, and 90 days of paid ads before revenue ramps."
+      "angle": "How med spa and dental startup owners use AOS funding to cover buildout, equipment, and 90 days of paid ads before revenue ramps.",
+      "slug": "aos-funding-for-medical-practice-startups-the-launch-playbook",
+      "publishedAt": "2026-09-07T14:01:31.627Z"
     },
     {
       "status": "pending",
