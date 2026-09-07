@@ -1607,11 +1607,13 @@
       "publishedAt": "2026-09-07T14:01:31.627Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to raise agency retainer prices without losing clients",
       "intent": "informational",
-      "angle": "A 60-day price-increase rollout script with performance reporting proof, tiered upgrade offers, and the exact email that raised one agency's ARPU 38%."
+      "angle": "A 60-day price-increase rollout script with performance reporting proof, tiered upgrade offers, and the exact email that raised one agency's ARPU 38%.",
+      "slug": "aos-funding-for-medical-practice-startups-med-spa-and-dental",
+      "publishedAt": "2026-09-07T14:02:39.351Z"
     },
     {
       "status": "pending",
