@@ -73,6 +73,9 @@ export function Footer() {
               <Link to="/contact" className="hover:text-elite-gold">
                 Contact
               </Link>
+              <Link to="/portal" className="hover:text-elite-gold">
+                Client Portal
+              </Link>
             </div>
           </div>
         </div>

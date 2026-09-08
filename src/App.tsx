@@ -13,6 +13,8 @@ import { HomePage } from "./pages/HomePage";
 import { ResultsPage } from "./pages/ResultsPage";
 import { ServicesPage } from "./pages/ServicesPage";
 import { WhiteLabelPage } from "./pages/WhiteLabelPage";
+import { OnboardingPage } from "./pages/OnboardingPage";
+import { PortalPage } from "./pages/PortalPage";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -50,6 +52,8 @@ export default function App() {
         <Route path="/contact" element={<ContactPage />} />
         <Route path="/blog" element={<BlogIndexPage />} />
         <Route path="/blog/:slug" element={<BlogPostPage />} />
+        <Route path="/onboarding" element={<OnboardingPage />} />
+        <Route path="/portal" element={<PortalPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>
     </Routes>
