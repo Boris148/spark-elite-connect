@@ -1625,11 +1625,13 @@
       "publishedAt": "2026-09-08T14:01:31.282Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for roofing companies cost per lead 2026",
       "intent": "commercial",
-      "angle": "Break down real CPL ranges ($65-$180) by region and storm vs retail roofing, with the exact match type + bid strategy combo that keeps CPL under $100."
+      "angle": "Break down real CPL ranges ($65-$180) by region and storm vs retail roofing, with the exact match type + bid strategy combo that keeps CPL under $100.",
+      "slug": "hire-an-agency-coach-vs-join-a-mastermind-to-hit-100k-mrr",
+      "publishedAt": "2026-09-08T14:02:10.278Z"
     },
     {
       "status": "pending",
