@@ -1634,11 +1634,13 @@
       "publishedAt": "2026-09-08T14:02:10.278Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "meta ads for dental implant clinics",
       "intent": "commercial",
-      "angle": "Full-arch implant funnel with $47 consult offer, showing why lead form ads beat landing pages for high-ticket dental and what CPL to expect in tier-1 metros."
+      "angle": "Full-arch implant funnel with $47 consult offer, showing why lead form ads beat landing pages for high-ticket dental and what CPL to expect in tier-1 metros.",
+      "slug": "meta-ads-for-dental-implant-clinics-the-47-consult-funnel",
+      "publishedAt": "2026-09-09T14:01:20.000Z"
     },
     {
       "status": "pending",
