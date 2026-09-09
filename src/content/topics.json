@@ -1643,11 +1643,13 @@
       "publishedAt": "2026-09-09T14:01:20.000Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to lower cpm on meta ads for local service businesses",
       "intent": "informational",
-      "angle": "Six-lever framework (creative volume, audience size, placement pruning, dayparting, hook variety, frequency caps) with benchmarks for when each lever moves CPM."
+      "angle": "Six-lever framework (creative volume, audience size, placement pruning, dayparting, hook variety, frequency caps) with benchmarks for when each lever moves CPM.",
+      "slug": "meta-ads-for-dental-implant-clinics-the-47-consult-funnel-3h5f",
+      "publishedAt": "2026-09-09T14:02:03.050Z"
     },
     {
       "status": "pending",
