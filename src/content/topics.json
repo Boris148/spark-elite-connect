@@ -1661,11 +1661,13 @@
       "publishedAt": "2026-09-10T14:01:25.141Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a fencing company",
       "intent": "informational",
-      "angle": "Stack Google LSAs + retargeted Meta video + GBP review velocity as the three-channel playbook that gets fencing contractors to 40+ estimates a month."
+      "angle": "Stack Google LSAs + retargeted Meta video + GBP review velocity as the three-channel playbook that gets fencing contractors to 40+ estimates a month.",
+      "slug": "best-lead-sources-for-auto-insurance-agents-2026-ranked",
+      "publishedAt": "2026-09-10T14:02:39.626Z"
     },
     {
       "status": "pending",
