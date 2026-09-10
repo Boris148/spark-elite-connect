@@ -1652,11 +1652,13 @@
       "publishedAt": "2026-09-09T14:02:03.050Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead sources for auto insurance agents 2026",
       "intent": "commercial",
-      "angle": "Rank EverQuote, MediaAlpha, Facebook forms, and Google LSAs by close rate and true cost per bound policy, not vanity CPL."
+      "angle": "Rank EverQuote, MediaAlpha, Facebook forms, and Google LSAs by close rate and true cost per bound policy, not vanity CPL.",
+      "slug": "best-lead-sources-for-auto-insurance-agents-2026-ranked-by-cpp",
+      "publishedAt": "2026-09-10T14:01:25.141Z"
     },
     {
       "status": "pending",
