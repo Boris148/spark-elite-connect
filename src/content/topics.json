@@ -1670,11 +1670,13 @@
       "publishedAt": "2026-09-10T14:02:39.626Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire lead generation agency for personal injury law firm",
       "intent": "transactional",
-      "angle": "What to demand in the contract (signed case attribution, exclusivity radius, minimum intake SLA) before wiring a PI lead vendor $20k/month."
+      "angle": "What to demand in the contract (signed case attribution, exclusivity radius, minimum intake SLA) before wiring a PI lead vendor $20k/month.",
+      "slug": "hire-lead-generation-agency-for-personal-injury-law-firm-contract-terms",
+      "publishedAt": "2026-09-11T14:01:42.430Z"
     },
     {
       "status": "pending",
