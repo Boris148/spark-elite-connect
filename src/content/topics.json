@@ -1688,11 +1688,13 @@
       "publishedAt": "2026-09-12T14:01:37.887Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for insurance agency lead intake",
       "intent": "commercial",
-      "angle": "Snapshot walkthrough: inbound lead to quoted policy in under 4 minutes using SMS, missed-call-text-back, and round-robin routing across producers."
+      "angle": "Snapshot walkthrough: inbound lead to quoted policy in under 4 minutes using SMS, missed-call-text-back, and round-robin routing across producers.",
+      "slug": "lead-generation-for-commercial-electricians-go-outbound-first",
+      "publishedAt": "2026-09-12T14:02:28.791Z"
     },
     {
       "status": "pending",
