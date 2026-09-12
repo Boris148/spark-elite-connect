@@ -1679,11 +1679,13 @@
       "publishedAt": "2026-09-11T14:01:42.430Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead generation for commercial electricians",
       "intent": "commercial",
-      "angle": "Why commercial electrical is an outbound-first game (LinkedIn + cold email to GCs and property managers) and where paid fits as a secondary channel."
+      "angle": "Why commercial electrical is an outbound-first game (LinkedIn + cold email to GCs and property managers) and where paid fits as a secondary channel.",
+      "slug": "lead-generation-for-commercial-electricians-outbound-wins",
+      "publishedAt": "2026-09-12T14:01:37.887Z"
     },
     {
       "status": "pending",
