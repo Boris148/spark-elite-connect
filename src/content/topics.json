@@ -1706,11 +1706,13 @@
       "publishedAt": "2026-09-13T14:01:35.036Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "best crm for commercial cleaning companies",
       "intent": "commercial",
-      "angle": "Head-to-head of Jobber, ServiceTitan, and GHL for commercial janitorial ops — pick by bid volume, not feature checklists."
+      "angle": "Head-to-head of Jobber, ServiceTitan, and GHL for commercial janitorial ops — pick by bid volume, not feature checklists.",
+      "slug": "how-to-automate-proposal-follow-up-for-marketing-agencies-xnci",
+      "publishedAt": "2026-09-13T14:04:12.045Z"
     },
     {
       "status": "pending",
