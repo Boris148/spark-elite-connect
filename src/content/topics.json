@@ -1697,11 +1697,13 @@
       "publishedAt": "2026-09-12T14:02:28.791Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate proposal follow up for marketing agencies",
       "intent": "informational",
-      "angle": "9-touch, 21-day follow-up cadence in GHL that closes an extra 22% of sent proposals without a human touching the pipeline."
+      "angle": "9-touch, 21-day follow-up cadence in GHL that closes an extra 22% of sent proposals without a human touching the pipeline.",
+      "slug": "how-to-automate-proposal-follow-up-for-marketing-agencies",
+      "publishedAt": "2026-09-13T14:01:35.036Z"
     },
     {
       "status": "pending",
