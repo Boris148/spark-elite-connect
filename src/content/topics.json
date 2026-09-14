@@ -1715,11 +1715,13 @@
       "publishedAt": "2026-09-13T14:04:12.045Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to generate seo content briefs at scale",
       "intent": "informational",
-      "angle": "Claude + SurferSEO stack that produces 30 defensible content briefs a week, with the prompt architecture that stops AI from hallucinating SERP data."
+      "angle": "Claude + SurferSEO stack that produces 30 defensible content briefs a week, with the prompt architecture that stops AI from hallucinating SERP data.",
+      "slug": "how-to-use-ai-to-generate-seo-content-briefs-at-scale",
+      "publishedAt": "2026-09-14T14:01:29.668Z"
     },
     {
       "status": "pending",
