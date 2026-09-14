@@ -1724,11 +1724,13 @@
       "publishedAt": "2026-09-14T14:01:29.668Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai voice agents for medical spa appointment booking",
       "intent": "commercial",
-      "angle": "Compare Retell, Vapi, Bland, and Synthflow on booking conversion, HIPAA posture, and per-minute cost for med spa front-desk replacement."
+      "angle": "Compare Retell, Vapi, Bland, and Synthflow on booking conversion, HIPAA posture, and per-minute cost for med spa front-desk replacement.",
+      "slug": "how-to-use-ai-to-generate-seo-content-briefs-at-scale-30week",
+      "publishedAt": "2026-09-14T14:02:44.737Z"
     },
     {
       "status": "pending",
