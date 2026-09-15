@@ -1733,11 +1733,13 @@
       "publishedAt": "2026-09-14T14:02:44.737Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to rewrite google ads landing pages for higher quality score",
       "intent": "informational",
-      "angle": "Prompt sequence that lifts Quality Score from 5 to 8+ by rewriting H1, above-fold copy, and CTA to match exact keyword theme intent."
+      "angle": "Prompt sequence that lifts Quality Score from 5 to 8+ by rewriting H1, above-fold copy, and CTA to match exact keyword theme intent.",
+      "slug": "how-to-use-ai-to-rewrite-google-ads-landing-pages-for-higher-quality-score",
+      "publishedAt": "2026-09-15T14:02:03.854Z"
     },
     {
       "status": "pending",
@@ -1773,6 +1775,132 @@
       "keyword": "hire a white label seo provider for marketing agency",
       "intent": "transactional",
       "angle": "Vetting checklist for white-label SEO vendors — link quality audits, reporting cadence, and the markup math that keeps 60%+ margin intact."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for siding contractors cost per lead 2026",
+      "intent": "commercial",
+      "angle": "Break down real CPL ranges ($95-$220) for siding contractors across Sunbelt vs Northeast markets and the campaign structure that hits the low end."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for hvac tune up offers in shoulder season",
+      "intent": "informational",
+      "angle": "Show the exact $79 tune-up creative angle, audience, and daily budget that keeps HVAC crews booked during March and October dead months."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for commercial hvac",
+      "intent": "transactional",
+      "angle": "Buyer's checklist for vetting commercial HVAC lead gen agencies, including how to spot resold leads and what a fair per-appointment fee looks like."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for epoxy flooring contractors",
+      "intent": "commercial",
+      "angle": "Rank the 4 channels (Meta, GLSA, YouTube, door-to-door lists) by CPL and close rate for residential garage epoxy jobs."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for life insurance agents 2026",
+      "intent": "commercial",
+      "angle": "Rank Facebook direct-response, Google intent, aged internet leads, and Medicare cross-sell by cost-to-issue for IUL and term producers."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel automation for personal injury law firm intake",
+      "intent": "informational",
+      "angle": "Full intake workflow build: signed retainer in under 4 hours using missed-call text-back, AI qualifying questions, and paralegal handoff triggers."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate rehash of dead leads in gohighlevel",
+      "intent": "informational",
+      "angle": "90-day rehash sequence combining SMS, ringless voicemail, and email that pulls 8-12% of dead leads back into booked appointments."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best crm for solar sales teams",
+      "intent": "commercial",
+      "angle": "Compare GHL, Enerflo, and Sunbase on pipeline visibility, financing integrations, and setter-to-closer handoff for door-to-door solar orgs."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to write cold email subject lines that hit inbox",
+      "intent": "informational",
+      "angle": "Prompt framework using Claude and spam-word scoring to generate 40 subject line variants that keep deliverability above 85%."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai voice agent for roofing storm response call volume",
+      "intent": "commercial",
+      "angle": "Compare Air.ai, Bland, and Retell on latency and booking rate when a hailstorm dumps 400 inbound calls in 6 hours."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to analyze meta ads creative performance at scale",
+      "intent": "informational",
+      "angle": "Vision-model workflow that tags 500 winning ads by hook, format, and CTA to reverse-engineer your next creative sprint."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to buy a competitor service business",
+      "intent": "transactional",
+      "angle": "Deal structure combining AOS lines and seller financing to acquire a $1.2M revenue HVAC company with $0 down out of pocket."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding for chiropractic practice equipment",
+      "intent": "transactional",
+      "angle": "How chiropractors stack 0% intro credit lines through AOS to finance $80k in decompression tables without touching SBA."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "business credit tradelines that report in 30 days",
+      "intent": "informational",
+      "angle": "Ranked list of net-30 and revolving vendors that actually report to D&B and Experian Business inside a month, with application order."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how much does aos funding cost in fees and interest",
+      "intent": "informational",
+      "angle": "Full cost breakdown of AOS packages including origination, 0% intro periods, and effective APR after month 12 balance transfer."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to fire a bad marketing agency client without killing mrr",
+      "intent": "informational",
+      "angle": "Scripted 30-day offboarding process that replaces the churned retainer before the last invoice clears, with exact email templates."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "marketing agency org chart at 25k 50k and 100k mrr",
+      "intent": "informational",
+      "angle": "Exact hires, seat costs, and reporting lines at each revenue tier so founders stop over-hiring account managers before media buyers."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to sell google ads management to plumbers who hate marketing",
+      "intent": "commercial",
+      "angle": "Sales framework that reframes ads as 'truck-feeding' with dispatch-board math, closing blue-collar owners on $2k/mo retainers in one call."
     }
   ]
 }
