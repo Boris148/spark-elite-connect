@@ -1751,11 +1751,13 @@
       "publishedAt": "2026-09-16T14:01:33.137Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "aos funding vs merchant cash advance for service businesses",
       "intent": "commercial",
-      "angle": "True APR comparison (AOS 0% intro vs MCA's 40%+ effective rate) and why MCAs quietly kill 30% of the contractors who take them."
+      "angle": "True APR comparison (AOS 0% intro vs MCA's 40%+ effective rate) and why MCAs quietly kill 30% of the contractors who take them.",
+      "slug": "how-to-use-aos-funding-to-scale-a-roofing-company-safely",
+      "publishedAt": "2026-09-16T14:02:26.687Z"
     },
     {
       "status": "pending",
