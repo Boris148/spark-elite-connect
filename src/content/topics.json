@@ -1742,11 +1742,13 @@
       "publishedAt": "2026-09-15T14:02:03.854Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to scale a roofing company",
       "intent": "informational",
-      "angle": "Deploy $150k in 0% capital across ads, trucks, and a sales rep — with the payback math that keeps you cash-positive by month 4."
+      "angle": "Deploy $150k in 0% capital across ads, trucks, and a sales rep — with the payback math that keeps you cash-positive by month 4.",
+      "slug": "how-to-use-aos-funding-to-scale-a-roofing-company-150k-plan",
+      "publishedAt": "2026-09-16T14:01:33.137Z"
     },
     {
       "status": "pending",
