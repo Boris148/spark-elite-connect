@@ -1760,11 +1760,13 @@
       "publishedAt": "2026-09-17T14:01:33.730Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "apply for aos funding with an llc less than 2 years old",
       "intent": "transactional",
-      "angle": "Exact documentation stack (EIN, business bank statements, personal FICO floor) and the mistakes on the application that trigger auto-declines."
+      "angle": "Exact documentation stack (EIN, business bank statements, personal FICO floor) and the mistakes on the application that trigger auto-declines.",
+      "slug": "aos-funding-vs-merchant-cash-advance-for-service-businesses-nd2y",
+      "publishedAt": "2026-09-17T14:02:53.071Z"
     },
     {
       "status": "pending",
