@@ -1778,11 +1778,13 @@
       "publishedAt": "2026-09-18T14:01:25.522Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "hire a white label seo provider for marketing agency",
       "intent": "transactional",
-      "angle": "Vetting checklist for white-label SEO vendors — link quality audits, reporting cadence, and the markup math that keeps 60%+ margin intact."
+      "angle": "Vetting checklist for white-label SEO vendors — link quality audits, reporting cadence, and the markup math that keeps 60%+ margin intact.",
+      "slug": "how-to-build-a-marketing-agency-case-study-library-that-closes",
+      "publishedAt": "2026-09-18T14:02:33.342Z"
     },
     {
       "status": "pending",
