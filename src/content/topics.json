@@ -1769,11 +1769,13 @@
       "publishedAt": "2026-09-17T14:02:53.071Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to build a marketing agency case study library that closes deals",
       "intent": "informational",
-      "angle": "The 5-part case study template (offer, spend, CPL, close rate, revenue) that outperforms testimonials 3-to-1 on sales calls."
+      "angle": "The 5-part case study template (offer, spend, CPL, close rate, revenue) that outperforms testimonials 3-to-1 on sales calls.",
+      "slug": "how-to-build-a-marketing-agency-case-study-library-that-closes-deals",
+      "publishedAt": "2026-09-18T14:01:25.522Z"
     },
     {
       "status": "pending",
