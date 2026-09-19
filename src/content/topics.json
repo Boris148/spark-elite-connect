@@ -1787,11 +1787,13 @@
       "publishedAt": "2026-09-18T14:02:33.342Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for siding contractors cost per lead 2026",
       "intent": "commercial",
-      "angle": "Break down real CPL ranges ($95-$220) for siding contractors across Sunbelt vs Northeast markets and the campaign structure that hits the low end."
+      "angle": "Break down real CPL ranges ($95-$220) for siding contractors across Sunbelt vs Northeast markets and the campaign structure that hits the low end.",
+      "slug": "google-ads-for-siding-contractors-cost-per-lead-2026-breakdown",
+      "publishedAt": "2026-09-19T14:01:35.853Z"
     },
     {
       "status": "pending",
