@@ -1796,11 +1796,13 @@
       "publishedAt": "2026-09-19T14:01:35.853Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "meta ads for hvac tune up offers in shoulder season",
       "intent": "informational",
-      "angle": "Show the exact $79 tune-up creative angle, audience, and daily budget that keeps HVAC crews booked during March and October dead months."
+      "angle": "Show the exact $79 tune-up creative angle, audience, and daily budget that keeps HVAC crews booked during March and October dead months.",
+      "slug": "google-ads-for-siding-contractors-cost-per-lead-in-2026",
+      "publishedAt": "2026-09-19T14:03:08.053Z"
     },
     {
       "status": "pending",
