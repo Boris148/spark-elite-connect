@@ -1805,11 +1805,13 @@
       "publishedAt": "2026-09-19T14:03:08.053Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire lead generation agency for commercial hvac",
       "intent": "transactional",
-      "angle": "Buyer's checklist for vetting commercial HVAC lead gen agencies, including how to spot resold leads and what a fair per-appointment fee looks like."
+      "angle": "Buyer's checklist for vetting commercial HVAC lead gen agencies, including how to spot resold leads and what a fair per-appointment fee looks like.",
+      "slug": "how-to-hire-a-lead-generation-agency-for-commercial-hvac",
+      "publishedAt": "2026-09-20T14:01:33.193Z"
     },
     {
       "status": "pending",
