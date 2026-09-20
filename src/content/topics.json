@@ -1814,11 +1814,13 @@
       "publishedAt": "2026-09-20T14:01:33.193Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead generation for epoxy flooring contractors",
       "intent": "commercial",
-      "angle": "Rank the 4 channels (Meta, GLSA, YouTube, door-to-door lists) by CPL and close rate for residential garage epoxy jobs."
+      "angle": "Rank the 4 channels (Meta, GLSA, YouTube, door-to-door lists) by CPL and close rate for residential garage epoxy jobs.",
+      "slug": "hire-a-lead-generation-agency-for-commercial-hvac-vetting-guide",
+      "publishedAt": "2026-09-20T14:02:13.632Z"
     },
     {
       "status": "pending",
