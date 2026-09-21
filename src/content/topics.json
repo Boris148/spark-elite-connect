@@ -1832,11 +1832,13 @@
       "publishedAt": "2026-09-21T14:01:26.091Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for personal injury law firm intake",
       "intent": "informational",
-      "angle": "Full intake workflow build: signed retainer in under 4 hours using missed-call text-back, AI qualifying questions, and paralegal handoff triggers."
+      "angle": "Full intake workflow build: signed retainer in under 4 hours using missed-call text-back, AI qualifying questions, and paralegal handoff triggers.",
+      "slug": "best-lead-sources-for-life-insurance-agents-2026-ranked-by-cost",
+      "publishedAt": "2026-09-21T14:03:18.328Z"
     },
     {
       "status": "pending",
