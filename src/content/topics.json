@@ -1841,11 +1841,13 @@
       "publishedAt": "2026-09-21T14:03:18.328Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate rehash of dead leads in gohighlevel",
       "intent": "informational",
-      "angle": "90-day rehash sequence combining SMS, ringless voicemail, and email that pulls 8-12% of dead leads back into booked appointments."
+      "angle": "90-day rehash sequence combining SMS, ringless voicemail, and email that pulls 8-12% of dead leads back into booked appointments.",
+      "slug": "how-to-automate-rehash-of-dead-leads-in-gohighlevel-90-day-system",
+      "publishedAt": "2026-09-22T14:01:27.579Z"
     },
     {
       "status": "pending",
