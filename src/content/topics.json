@@ -1850,11 +1850,13 @@
       "publishedAt": "2026-09-22T14:01:27.579Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "best crm for solar sales teams",
       "intent": "commercial",
-      "angle": "Compare GHL, Enerflo, and Sunbase on pipeline visibility, financing integrations, and setter-to-closer handoff for door-to-door solar orgs."
+      "angle": "Compare GHL, Enerflo, and Sunbase on pipeline visibility, financing integrations, and setter-to-closer handoff for door-to-door solar orgs.",
+      "slug": "how-to-automate-rehash-of-dead-leads-in-gohighlevel-90-days",
+      "publishedAt": "2026-09-22T14:03:32.849Z"
     },
     {
       "status": "pending",
