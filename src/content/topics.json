@@ -1859,11 +1859,13 @@
       "publishedAt": "2026-09-22T14:03:32.849Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to write cold email subject lines that hit inbox",
       "intent": "informational",
-      "angle": "Prompt framework using Claude and spam-word scoring to generate 40 subject line variants that keep deliverability above 85%."
+      "angle": "Prompt framework using Claude and spam-word scoring to generate 40 subject line variants that keep deliverability above 85%.",
+      "slug": "how-to-use-ai-to-write-cold-email-subject-lines-that-hit-inbox",
+      "publishedAt": "2026-09-23T14:01:16.012Z"
     },
     {
       "status": "pending",
