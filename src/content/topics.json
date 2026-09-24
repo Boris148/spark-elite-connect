@@ -1868,11 +1868,13 @@
       "publishedAt": "2026-09-23T14:01:34.196Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai voice agent for roofing storm response call volume",
       "intent": "commercial",
-      "angle": "Compare Air.ai, Bland, and Retell on latency and booking rate when a hailstorm dumps 400 inbound calls in 6 hours."
+      "angle": "Compare Air.ai, Bland, and Retell on latency and booking rate when a hailstorm dumps 400 inbound calls in 6 hours.",
+      "slug": "best-ai-voice-agent-for-roofing-storm-response-air-vs-bland-vs-retell",
+      "publishedAt": "2026-09-24T14:01:29.481Z"
     },
     {
       "status": "pending",
