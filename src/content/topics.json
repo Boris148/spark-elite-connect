@@ -1877,11 +1877,13 @@
       "publishedAt": "2026-09-24T14:01:29.481Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to analyze meta ads creative performance at scale",
       "intent": "informational",
-      "angle": "Vision-model workflow that tags 500 winning ads by hook, format, and CTA to reverse-engineer your next creative sprint."
+      "angle": "Vision-model workflow that tags 500 winning ads by hook, format, and CTA to reverse-engineer your next creative sprint.",
+      "slug": "how-to-use-ai-to-analyze-meta-ads-creative-performance-at-scale",
+      "publishedAt": "2026-09-24T14:05:04.431Z"
     },
     {
       "status": "pending",
