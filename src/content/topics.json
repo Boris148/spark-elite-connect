@@ -1895,11 +1895,13 @@
       "publishedAt": "2026-09-25T14:01:59.273Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "aos funding for chiropractic practice equipment",
       "intent": "transactional",
-      "angle": "How chiropractors stack 0% intro credit lines through AOS to finance $80k in decompression tables without touching SBA."
+      "angle": "How chiropractors stack 0% intro credit lines through AOS to finance $80k in decompression tables without touching SBA.",
+      "slug": "how-to-use-aos-funding-to-buy-a-competitor-service-business-5b0n",
+      "publishedAt": "2026-09-25T14:02:12.383Z"
     },
     {
       "status": "pending",
