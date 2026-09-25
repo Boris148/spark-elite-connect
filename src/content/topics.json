@@ -1886,11 +1886,13 @@
       "publishedAt": "2026-09-24T14:05:04.431Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to buy a competitor service business",
       "intent": "transactional",
-      "angle": "Deal structure combining AOS lines and seller financing to acquire a $1.2M revenue HVAC company with $0 down out of pocket."
+      "angle": "Deal structure combining AOS lines and seller financing to acquire a $1.2M revenue HVAC company with $0 down out of pocket.",
+      "slug": "how-to-use-aos-funding-to-buy-a-competitor-service-business",
+      "publishedAt": "2026-09-25T14:01:59.273Z"
     },
     {
       "status": "pending",
@@ -1933,6 +1935,125 @@
       "keyword": "how to sell google ads management to plumbers who hate marketing",
       "intent": "commercial",
       "angle": "Sales framework that reframes ads as 'truck-feeding' with dispatch-board math, closing blue-collar owners on $2k/mo retainers in one call."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for junk removal companies cost per lead 2026",
+      "intent": "commercial",
+      "angle": "Break down realistic CPL ranges ($18-$45) for junk removal on Google Ads, campaign structure by service type, and why call-only outperforms search for this vertical."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for orthodontists invisalign offer",
+      "intent": "commercial",
+      "angle": "A tested funnel for Invisalign consult bookings: offer stack, creative angles, lead form vs landing page, and the CPL benchmark separating winners from losers."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to structure google ads campaigns for seasonal service businesses",
+      "intent": "informational",
+      "angle": "A budget-shifting framework using shared budgets, seasonal bid adjustments, and Performance Max asset groups so pest/HVAC/landscaping don't waste spend in shoulder months."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for commercial paving contractors",
+      "intent": "commercial",
+      "angle": "Why LinkedIn outbound + geo-fenced YouTube beats Google Ads for $50k+ commercial paving jobs, with a channel mix built for 90-day sales cycles."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for tree removal company",
+      "intent": "transactional",
+      "angle": "What to actually pay per exclusive tree removal lead, red flags in agency contracts, and the 3 questions that expose shared-lead resellers pretending to be agencies."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for health insurance agents 2026",
+      "intent": "commercial",
+      "angle": "Ranked breakdown of exclusive vs shared vs owned lead sources for health agents post-CMS rule changes, with contact-to-close rates by source."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get more leads for a mobile detailing business",
+      "intent": "informational",
+      "angle": "A $20/day Meta + GBP stack that fills a mobile detailer's calendar in 30 days, including the exact offer structure that beats generic 'book now' creatives."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel automation for chiropractic new patient intake",
+      "intent": "informational",
+      "angle": "A copy-and-paste GHL workflow for chiro intake: form → SMS confirm → intake docs → reminder cadence, tuned to cut no-shows below 12%."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate quote follow up for window cleaning companies",
+      "intent": "informational",
+      "angle": "A 14-day 7-touch SMS + email sequence that recovers 22-30% of quoted-but-cold window cleaning jobs, with actual message copy included."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best crm for pest control companies",
+      "intent": "commercial",
+      "angle": "Head-to-head of FieldRoutes, ServiceTitan, and GoHighLevel for pest control ops — routing, recurring billing, and marketing automation ranked for sub-$5M shops."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to build negative keyword lists for google ads",
+      "intent": "informational",
+      "angle": "A GPT + search terms report workflow that cuts wasted Google Ads spend 15-25% in the first 30 days, with the exact prompt structure we use in client accounts."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai voice agent for real estate inbound lead qualification",
+      "intent": "commercial",
+      "angle": "Comparing Air.ai, Bland, and Retell for real estate lead intake — pricing, latency, CRM handoff, and which one actually books showings vs just qualifies."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to write ppc landing page headlines that lift conversion",
+      "intent": "informational",
+      "angle": "A 5-variant Claude prompt framework tied to message-match scoring that lifts landing page CVR 18-40% without touching the offer."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to open a second med spa location",
+      "intent": "informational",
+      "angle": "A capital stack that combines AOS funding, equipment financing, and 0% business cards to open a second med spa without touching personal savings."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding for franchise buildout costs",
+      "intent": "transactional",
+      "angle": "Exactly which franchise buildout expenses AOS funding covers, timeline from application to first draw, and the credit profile franchisors want to see."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use business credit to hire a marketing agency",
+      "intent": "informational",
+      "angle": "A 90-day plan to fund your first agency retainer entirely on business credit — which cards, tradelines, and vendor accounts to stack in what order."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to build a referral partner program for a marketing agency",
+      "intent": "informational",
+      "angle": "The 3-tier partner program structure (web devs, CPAs, business coaches) that drives 30%+ of new MRR at $100k+ agencies, with commission math that doesn't kill margin."
     }
   ]
 }
