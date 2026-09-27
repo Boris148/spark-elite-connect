@@ -1922,11 +1922,13 @@
       "publishedAt": "2026-09-26T14:01:23.880Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to fire a bad marketing agency client without killing mrr",
       "intent": "informational",
-      "angle": "Scripted 30-day offboarding process that replaces the churned retainer before the last invoice clears, with exact email templates."
+      "angle": "Scripted 30-day offboarding process that replaces the churned retainer before the last invoice clears, with exact email templates.",
+      "slug": "how-to-fire-a-bad-marketing-agency-client-without-killing-mrr",
+      "publishedAt": "2026-09-27T14:01:21.727Z"
     },
     {
       "status": "pending",
