@@ -1931,11 +1931,13 @@
       "publishedAt": "2026-09-27T14:01:36.106Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "marketing agency org chart at 25k 50k and 100k mrr",
       "intent": "informational",
-      "angle": "Exact hires, seat costs, and reporting lines at each revenue tier so founders stop over-hiring account managers before media buyers."
+      "angle": "Exact hires, seat costs, and reporting lines at each revenue tier so founders stop over-hiring account managers before media buyers.",
+      "slug": "marketing-agency-org-chart-at-25k-50k-and-100k-mrr",
+      "publishedAt": "2026-09-28T14:01:26.302Z"
     },
     {
       "status": "pending",
