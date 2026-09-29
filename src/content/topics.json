@@ -1940,11 +1940,13 @@
       "publishedAt": "2026-09-28T14:01:32.619Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to sell google ads management to plumbers who hate marketing",
       "intent": "commercial",
-      "angle": "Sales framework that reframes ads as 'truck-feeding' with dispatch-board math, closing blue-collar owners on $2k/mo retainers in one call."
+      "angle": "Sales framework that reframes ads as 'truck-feeding' with dispatch-board math, closing blue-collar owners on $2k/mo retainers in one call.",
+      "slug": "how-to-sell-google-ads-management-to-plumbers-who-hate-marketing",
+      "publishedAt": "2026-09-29T14:01:27.733Z"
     },
     {
       "status": "pending",
