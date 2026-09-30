@@ -1958,11 +1958,13 @@
       "publishedAt": "2026-09-30T14:01:28.974Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "meta ads for orthodontists invisalign offer",
       "intent": "commercial",
-      "angle": "A tested funnel for Invisalign consult bookings: offer stack, creative angles, lead form vs landing page, and the CPL benchmark separating winners from losers."
+      "angle": "A tested funnel for Invisalign consult bookings: offer stack, creative angles, lead form vs landing page, and the CPL benchmark separating winners from losers.",
+      "slug": "google-ads-for-junk-removal-real-cost-per-lead-in-2026",
+      "publishedAt": "2026-09-30T14:01:32.033Z"
     },
     {
       "status": "pending",
