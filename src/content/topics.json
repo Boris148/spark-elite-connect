@@ -1949,11 +1949,13 @@
       "publishedAt": "2026-09-29T14:01:34.549Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for junk removal companies cost per lead 2026",
       "intent": "commercial",
-      "angle": "Break down realistic CPL ranges ($18-$45) for junk removal on Google Ads, campaign structure by service type, and why call-only outperforms search for this vertical."
+      "angle": "Break down realistic CPL ranges ($18-$45) for junk removal on Google Ads, campaign structure by service type, and why call-only outperforms search for this vertical.",
+      "slug": "google-ads-for-junk-removal-companies-cost-per-lead-in-2026",
+      "publishedAt": "2026-09-30T14:01:28.974Z"
     },
     {
       "status": "pending",
