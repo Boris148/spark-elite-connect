@@ -1976,11 +1976,13 @@
       "publishedAt": "2026-10-01T14:01:23.018Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead generation for commercial paving contractors",
       "intent": "commercial",
-      "angle": "Why LinkedIn outbound + geo-fenced YouTube beats Google Ads for $50k+ commercial paving jobs, with a channel mix built for 90-day sales cycles."
+      "angle": "Why LinkedIn outbound + geo-fenced YouTube beats Google Ads for $50k+ commercial paving jobs, with a channel mix built for 90-day sales cycles.",
+      "slug": "how-to-structure-google-ads-campaigns-for-seasonal-service-businesses-rhzb",
+      "publishedAt": "2026-10-01T14:01:29.572Z"
     },
     {
       "status": "pending",
