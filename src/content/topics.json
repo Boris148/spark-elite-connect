@@ -1967,11 +1967,13 @@
       "publishedAt": "2026-09-30T14:01:32.033Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to structure google ads campaigns for seasonal service businesses",
       "intent": "informational",
-      "angle": "A budget-shifting framework using shared budgets, seasonal bid adjustments, and Performance Max asset groups so pest/HVAC/landscaping don't waste spend in shoulder months."
+      "angle": "A budget-shifting framework using shared budgets, seasonal bid adjustments, and Performance Max asset groups so pest/HVAC/landscaping don't waste spend in shoulder months.",
+      "slug": "how-to-structure-google-ads-campaigns-for-seasonal-service-businesses",
+      "publishedAt": "2026-10-01T14:01:23.018Z"
     },
     {
       "status": "pending",
