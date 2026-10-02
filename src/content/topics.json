@@ -1985,11 +1985,13 @@
       "publishedAt": "2026-10-01T14:01:29.572Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire lead generation agency for tree removal company",
       "intent": "transactional",
-      "angle": "What to actually pay per exclusive tree removal lead, red flags in agency contracts, and the 3 questions that expose shared-lead resellers pretending to be agencies."
+      "angle": "What to actually pay per exclusive tree removal lead, red flags in agency contracts, and the 3 questions that expose shared-lead resellers pretending to be agencies.",
+      "slug": "hire-a-lead-generation-agency-for-tree-removal-pricing-and-red-flags",
+      "publishedAt": "2026-10-02T14:01:26.602Z"
     },
     {
       "status": "pending",
