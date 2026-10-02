@@ -1994,11 +1994,13 @@
       "publishedAt": "2026-10-02T14:01:26.602Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead sources for health insurance agents 2026",
       "intent": "commercial",
-      "angle": "Ranked breakdown of exclusive vs shared vs owned lead sources for health agents post-CMS rule changes, with contact-to-close rates by source."
+      "angle": "Ranked breakdown of exclusive vs shared vs owned lead sources for health agents post-CMS rule changes, with contact-to-close rates by source.",
+      "slug": "hire-a-lead-generation-agency-for-tree-removal-what-to-pay",
+      "publishedAt": "2026-10-02T14:02:01.991Z"
     },
     {
       "status": "pending",
