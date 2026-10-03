@@ -2003,11 +2003,13 @@
       "publishedAt": "2026-10-02T14:02:01.991Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a mobile detailing business",
       "intent": "informational",
-      "angle": "A $20/day Meta + GBP stack that fills a mobile detailer's calendar in 30 days, including the exact offer structure that beats generic 'book now' creatives."
+      "angle": "A $20/day Meta + GBP stack that fills a mobile detailer's calendar in 30 days, including the exact offer structure that beats generic 'book now' creatives.",
+      "slug": "how-to-get-more-leads-for-a-mobile-detailing-business-on-20day",
+      "publishedAt": "2026-10-03T14:01:34.329Z"
     },
     {
       "status": "pending",
