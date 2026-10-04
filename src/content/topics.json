@@ -2012,11 +2012,13 @@
       "publishedAt": "2026-10-03T14:01:36.459Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for chiropractic new patient intake",
       "intent": "informational",
-      "angle": "A copy-and-paste GHL workflow for chiro intake: form → SMS confirm → intake docs → reminder cadence, tuned to cut no-shows below 12%."
+      "angle": "A copy-and-paste GHL workflow for chiro intake: form → SMS confirm → intake docs → reminder cadence, tuned to cut no-shows below 12%.",
+      "slug": "gohighlevel-automation-for-chiropractic-new-patient-intake",
+      "publishedAt": "2026-10-04T14:01:22.784Z"
     },
     {
       "status": "pending",
