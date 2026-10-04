@@ -2021,11 +2021,13 @@
       "publishedAt": "2026-10-04T14:01:22.784Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate quote follow up for window cleaning companies",
       "intent": "informational",
-      "angle": "A 14-day 7-touch SMS + email sequence that recovers 22-30% of quoted-but-cold window cleaning jobs, with actual message copy included."
+      "angle": "A 14-day 7-touch SMS + email sequence that recovers 22-30% of quoted-but-cold window cleaning jobs, with actual message copy included.",
+      "slug": "gohighlevel-automation-for-chiropractic-new-patient-intake-2x16",
+      "publishedAt": "2026-10-04T14:01:23.166Z"
     },
     {
       "status": "pending",
