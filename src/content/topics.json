@@ -2039,11 +2039,13 @@
       "publishedAt": "2026-10-05T14:01:27.690Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to build negative keyword lists for google ads",
       "intent": "informational",
-      "angle": "A GPT + search terms report workflow that cuts wasted Google Ads spend 15-25% in the first 30 days, with the exact prompt structure we use in client accounts."
+      "angle": "A GPT + search terms report workflow that cuts wasted Google Ads spend 15-25% in the first 30 days, with the exact prompt structure we use in client accounts.",
+      "slug": "how-to-use-ai-to-build-negative-keyword-lists-for-google-ads",
+      "publishedAt": "2026-10-06T14:01:41.314Z"
     },
     {
       "status": "pending",
@@ -2086,6 +2088,125 @@
       "keyword": "how to build a referral partner program for a marketing agency",
       "intent": "informational",
       "angle": "The 3-tier partner program structure (web devs, CPAs, business coaches) that drives 30%+ of new MRR at $100k+ agencies, with commission math that doesn't kill margin."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for mobile mechanics cost per lead 2026",
+      "intent": "commercial",
+      "angle": "Break down real CPL ranges ($28-$75) for mobile mechanic campaigns, which match types pull cheapest leads, and why call-only beats search for this vertical."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for cosmetic dentists veneers offer",
+      "intent": "commercial",
+      "angle": "A tested creative + offer framework for veneer campaigns including lead magnet, qualifying questions, and the $150-$300 CPL benchmark that signals a winning funnel."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to run geo targeted meta ads for multi city service businesses",
+      "intent": "informational",
+      "angle": "The campaign structure we use for 10+ city operators: when to split ad sets by metro vs. use broad geo with location-aware creative, with cost ceilings per market."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for appliance repair company",
+      "intent": "transactional",
+      "angle": "What appliance repair owners should demand from a lead gen agency: exclusive leads, same-day dispatch SLA, and the pricing structure that aligns incentives."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for commercial truck insurance agents 2026",
+      "intent": "commercial",
+      "angle": "Ranked list of lead sources (aged, live transfer, SEO, LinkedIn) with close rates, cost per policy, and which combos actually scale past $50k/mo in commission."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for commercial window washing contractors",
+      "intent": "commercial",
+      "angle": "Why cold outbound crushes paid ads for commercial window washing, with a tested LinkedIn + email sequence targeting property managers and GCs."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel automation for pest control recurring service plans",
+      "intent": "informational",
+      "angle": "Full GHL build-out: quarterly service reminders, auto-reschedule logic, invoice automation, and the retention lift (18-24%) we see from stacking SMS + email."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate lead handoff from marketing agency to client sales team",
+      "intent": "informational",
+      "angle": "The webhook + Slack + CRM push stack that eliminates lead leakage, including the SLA dashboard that proves speed-to-lead to retainer clients monthly."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best crm for home inspection companies",
+      "intent": "commercial",
+      "angle": "Head-to-head comparison of ISN, Spectora, and GHL for home inspectors: scheduling, agent referral tracking, and which actually drives repeat realtor business."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to build custom audiences from crm data for meta ads",
+      "intent": "informational",
+      "angle": "The AI-powered segmentation workflow that turns messy CRM exports into high-ROAS lookalike seeds, with a 3-tier scoring model you can deploy this week."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai voice agent for insurance agency inbound call routing",
+      "intent": "commercial",
+      "angle": "Side-by-side of Synthflow, Retell, and Vapi for insurance intake: compliance handling, warm transfer accuracy, and per-minute cost at 500+ calls/mo."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to write facebook ad hooks that stop the scroll",
+      "intent": "informational",
+      "angle": "The prompt framework pulling top-performing TikTok hooks and reformatting them for Meta, with CTR benchmarks before/after across 12 service verticals."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to buy a dental practice",
+      "intent": "informational",
+      "angle": "Deal structure for using AOS stacking alongside SBA 7(a) to cover down payment and working capital on a $1M+ dental acquisition without personal collateral."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding timeline from application to funded capital",
+      "intent": "informational",
+      "angle": "Day-by-day walkthrough of the AOS process: docs needed on day 1, underwriting bottlenecks, and realistic 21-45 day funded timeline most reps won't tell you."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "apply for aos funding for hvac company expansion",
+      "intent": "transactional",
+      "angle": "Exact application prep for HVAC operators: revenue docs, use-of-funds narrative for new trucks/techs, and the approval amounts we see for $500k-$3M shops."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to run a quarterly business review that saves at risk agency clients",
+      "intent": "informational",
+      "angle": "The 7-slide QBR deck we use to turn churn-risk retainers into upsells, built around attribution wins, pipeline value, and a forward 90-day roadmap."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "hire marketing agency vs build in house team for home services company",
+      "intent": "commercial",
+      "angle": "True cost comparison at $50k/mo ad spend: in-house marketer + tools vs. agency retainer, including the hidden hiring risk most home service owners underestimate."
     }
   ]
 }
