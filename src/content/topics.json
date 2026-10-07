@@ -2057,11 +2057,13 @@
       "publishedAt": "2026-10-07T14:01:26.290Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to write ppc landing page headlines that lift conversion",
       "intent": "informational",
-      "angle": "A 5-variant Claude prompt framework tied to message-match scoring that lifts landing page CVR 18-40% without touching the offer."
+      "angle": "A 5-variant Claude prompt framework tied to message-match scoring that lifts landing page CVR 18-40% without touching the offer.",
+      "slug": "best-ai-voice-agent-for-real-estate-inbound-lead-qualification-ejme",
+      "publishedAt": "2026-10-07T14:01:26.525Z"
     },
     {
       "status": "pending",
