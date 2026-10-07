@@ -2048,11 +2048,13 @@
       "publishedAt": "2026-10-06T14:01:41.314Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai voice agent for real estate inbound lead qualification",
       "intent": "commercial",
-      "angle": "Comparing Air.ai, Bland, and Retell for real estate lead intake — pricing, latency, CRM handoff, and which one actually books showings vs just qualifies."
+      "angle": "Comparing Air.ai, Bland, and Retell for real estate lead intake — pricing, latency, CRM handoff, and which one actually books showings vs just qualifies.",
+      "slug": "best-ai-voice-agent-for-real-estate-inbound-lead-qualification",
+      "publishedAt": "2026-10-07T14:01:26.290Z"
     },
     {
       "status": "pending",
