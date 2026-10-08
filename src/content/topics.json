@@ -2066,11 +2066,13 @@
       "publishedAt": "2026-10-07T14:01:26.525Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to open a second med spa location",
       "intent": "informational",
-      "angle": "A capital stack that combines AOS funding, equipment financing, and 0% business cards to open a second med spa without touching personal savings."
+      "angle": "A capital stack that combines AOS funding, equipment financing, and 0% business cards to open a second med spa without touching personal savings.",
+      "slug": "how-to-use-aos-funding-to-open-a-second-med-spa-location",
+      "publishedAt": "2026-10-08T14:01:38.621Z"
     },
     {
       "status": "pending",
