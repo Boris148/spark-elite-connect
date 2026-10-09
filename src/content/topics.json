@@ -2075,11 +2075,13 @@
       "publishedAt": "2026-10-08T14:01:39.239Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "aos funding for franchise buildout costs",
       "intent": "transactional",
-      "angle": "Exactly which franchise buildout expenses AOS funding covers, timeline from application to first draw, and the credit profile franchisors want to see."
+      "angle": "Exactly which franchise buildout expenses AOS funding covers, timeline from application to first draw, and the credit profile franchisors want to see.",
+      "slug": "aos-funding-for-franchise-buildout-costs-what-it-covers",
+      "publishedAt": "2026-10-09T14:01:35.232Z"
     },
     {
       "status": "pending",
