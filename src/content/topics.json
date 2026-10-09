@@ -2084,11 +2084,13 @@
       "publishedAt": "2026-10-09T14:01:35.232Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use business credit to hire a marketing agency",
       "intent": "informational",
-      "angle": "A 90-day plan to fund your first agency retainer entirely on business credit — which cards, tradelines, and vendor accounts to stack in what order."
+      "angle": "A 90-day plan to fund your first agency retainer entirely on business credit — which cards, tradelines, and vendor accounts to stack in what order.",
+      "slug": "aos-funding-for-franchise-buildout-costs-what-it-really-covers",
+      "publishedAt": "2026-10-09T14:01:46.106Z"
     },
     {
       "status": "pending",
