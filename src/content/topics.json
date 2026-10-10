@@ -2093,11 +2093,13 @@
       "publishedAt": "2026-10-09T14:01:46.106Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to build a referral partner program for a marketing agency",
       "intent": "informational",
-      "angle": "The 3-tier partner program structure (web devs, CPAs, business coaches) that drives 30%+ of new MRR at $100k+ agencies, with commission math that doesn't kill margin."
+      "angle": "The 3-tier partner program structure (web devs, CPAs, business coaches) that drives 30%+ of new MRR at $100k+ agencies, with commission math that doesn't kill margin.",
+      "slug": "how-to-build-a-referral-partner-program-for-a-marketing-agency",
+      "publishedAt": "2026-10-10T14:01:20.117Z"
     },
     {
       "status": "pending",
