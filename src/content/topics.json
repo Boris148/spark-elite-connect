@@ -2102,11 +2102,13 @@
       "publishedAt": "2026-10-10T14:01:36.543Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for mobile mechanics cost per lead 2026",
       "intent": "commercial",
-      "angle": "Break down real CPL ranges ($28-$75) for mobile mechanic campaigns, which match types pull cheapest leads, and why call-only beats search for this vertical."
+      "angle": "Break down real CPL ranges ($28-$75) for mobile mechanic campaigns, which match types pull cheapest leads, and why call-only beats search for this vertical.",
+      "slug": "google-ads-for-mobile-mechanics-cost-per-lead-in-2026",
+      "publishedAt": "2026-10-11T14:01:23.626Z"
     },
     {
       "status": "pending",
