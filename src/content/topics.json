@@ -2120,11 +2120,13 @@
       "publishedAt": "2026-10-12T14:01:37.685Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to run geo targeted meta ads for multi city service businesses",
       "intent": "informational",
-      "angle": "The campaign structure we use for 10+ city operators: when to split ad sets by metro vs. use broad geo with location-aware creative, with cost ceilings per market."
+      "angle": "The campaign structure we use for 10+ city operators: when to split ad sets by metro vs. use broad geo with location-aware creative, with cost ceilings per market.",
+      "slug": "geo-targeted-meta-ads-for-multi-city-service-businesses",
+      "publishedAt": "2026-10-13T14:01:24.732Z"
     },
     {
       "status": "pending",
