@@ -2129,11 +2129,13 @@
       "publishedAt": "2026-10-13T14:01:34.569Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire lead generation agency for appliance repair company",
       "intent": "transactional",
-      "angle": "What appliance repair owners should demand from a lead gen agency: exclusive leads, same-day dispatch SLA, and the pricing structure that aligns incentives."
+      "angle": "What appliance repair owners should demand from a lead gen agency: exclusive leads, same-day dispatch SLA, and the pricing structure that aligns incentives.",
+      "slug": "hire-lead-generation-agency-for-appliance-repair-company",
+      "publishedAt": "2026-10-14T14:01:34.720Z"
     },
     {
       "status": "pending",
