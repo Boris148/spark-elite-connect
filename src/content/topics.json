@@ -2138,11 +2138,13 @@
       "publishedAt": "2026-10-14T14:01:35.809Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead sources for commercial truck insurance agents 2026",
       "intent": "commercial",
-      "angle": "Ranked list of lead sources (aged, live transfer, SEO, LinkedIn) with close rates, cost per policy, and which combos actually scale past $50k/mo in commission."
+      "angle": "Ranked list of lead sources (aged, live transfer, SEO, LinkedIn) with close rates, cost per policy, and which combos actually scale past $50k/mo in commission.",
+      "slug": "best-lead-sources-for-commercial-truck-insurance-agents-in-2026",
+      "publishedAt": "2026-10-15T14:01:29.499Z"
     },
     {
       "status": "pending",
