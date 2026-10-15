@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
 import { PageHeader } from "../components/PageHeader";
 import { Seo } from "../components/Seo";
@@ -88,6 +89,12 @@ export function WhiteLabelPage() {
               <p className="mt-1 text-sm text-white/70">{stat.label}</p>
             </div>
           ))}
+        </div>
+        <div className="mt-8 flex flex-col items-center gap-3 text-center sm:flex-row sm:justify-center">
+          <p className="text-sm text-white/70">Already partnered with us? Onboard your next client account.</p>
+          <Link to="/start?type=wl" className="btn-primary text-sm">
+            Start onboarding
+          </Link>
         </div>
       </section>
 

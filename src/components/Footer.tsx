@@ -76,6 +76,9 @@ export function Footer() {
               <Link to="/portal" className="hover:text-elite-gold">
                 Client Portal
               </Link>
+              <Link to="/start" className="hover:text-elite-gold">
+                Client Onboarding
+              </Link>
             </div>
           </div>
         </div>
