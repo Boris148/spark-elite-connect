@@ -2147,11 +2147,13 @@
       "publishedAt": "2026-10-15T14:01:43.126Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead generation for commercial window washing contractors",
       "intent": "commercial",
-      "angle": "Why cold outbound crushes paid ads for commercial window washing, with a tested LinkedIn + email sequence targeting property managers and GCs."
+      "angle": "Why cold outbound crushes paid ads for commercial window washing, with a tested LinkedIn + email sequence targeting property managers and GCs.",
+      "slug": "lead-generation-for-commercial-window-washing-contractors-cold-outbound-wins",
+      "publishedAt": "2026-10-16T14:01:42.773Z"
     },
     {
       "status": "pending",
