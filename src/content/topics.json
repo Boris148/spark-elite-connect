@@ -2156,11 +2156,13 @@
       "publishedAt": "2026-10-16T14:01:42.773Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for pest control recurring service plans",
       "intent": "informational",
-      "angle": "Full GHL build-out: quarterly service reminders, auto-reschedule logic, invoice automation, and the retention lift (18-24%) we see from stacking SMS + email."
+      "angle": "Full GHL build-out: quarterly service reminders, auto-reschedule logic, invoice automation, and the retention lift (18-24%) we see from stacking SMS + email.",
+      "slug": "lead-generation-for-commercial-window-washing-outbound-wins",
+      "publishedAt": "2026-10-16T14:02:26.738Z"
     },
     {
       "status": "pending",
