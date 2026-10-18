@@ -2183,11 +2183,13 @@
       "publishedAt": "2026-10-18T14:01:28.471Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to build custom audiences from crm data for meta ads",
       "intent": "informational",
-      "angle": "The AI-powered segmentation workflow that turns messy CRM exports into high-ROAS lookalike seeds, with a 3-tier scoring model you can deploy this week."
+      "angle": "The AI-powered segmentation workflow that turns messy CRM exports into high-ROAS lookalike seeds, with a 3-tier scoring model you can deploy this week.",
+      "slug": "best-crm-for-home-inspection-companies-isn-vs-spectora-vs-ghl-8yu5",
+      "publishedAt": "2026-10-18T14:01:28.960Z"
     },
     {
       "status": "pending",
