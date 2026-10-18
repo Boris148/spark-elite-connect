@@ -2174,11 +2174,13 @@
       "publishedAt": "2026-10-17T14:01:29.079Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "best crm for home inspection companies",
       "intent": "commercial",
-      "angle": "Head-to-head comparison of ISN, Spectora, and GHL for home inspectors: scheduling, agent referral tracking, and which actually drives repeat realtor business."
+      "angle": "Head-to-head comparison of ISN, Spectora, and GHL for home inspectors: scheduling, agent referral tracking, and which actually drives repeat realtor business.",
+      "slug": "best-crm-for-home-inspection-companies-isn-vs-spectora-vs-ghl",
+      "publishedAt": "2026-10-18T14:01:28.471Z"
     },
     {
       "status": "pending",
