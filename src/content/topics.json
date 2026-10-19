@@ -2192,11 +2192,13 @@
       "publishedAt": "2026-10-18T14:01:28.960Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai voice agent for insurance agency inbound call routing",
       "intent": "commercial",
-      "angle": "Side-by-side of Synthflow, Retell, and Vapi for insurance intake: compliance handling, warm transfer accuracy, and per-minute cost at 500+ calls/mo."
+      "angle": "Side-by-side of Synthflow, Retell, and Vapi for insurance intake: compliance handling, warm transfer accuracy, and per-minute cost at 500+ calls/mo.",
+      "slug": "best-ai-voice-agent-for-insurance-agency-inbound-call-routing",
+      "publishedAt": "2026-10-19T14:01:37.072Z"
     },
     {
       "status": "pending",
@@ -2239,6 +2241,125 @@
       "keyword": "hire marketing agency vs build in house team for home services company",
       "intent": "commercial",
       "angle": "True cost comparison at $50k/mo ad spend: in-house marketer + tools vs. agency retainer, including the hidden hiring risk most home service owners underestimate."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for appliance repair companies cost per lead 2026",
+      "intent": "commercial",
+      "angle": "Benchmarks CPL for appliance repair across 15 metros and shows why call-only + LSA stacking beats pure search for sub-$35 leads."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for lasik surgery clinics",
+      "intent": "commercial",
+      "angle": "Breaks down a creative + offer framework (financing hooks, before/after UGC) that drops CPL under $80 for lasik practices."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to structure google ads for emergency plumbing calls",
+      "intent": "informational",
+      "angle": "Opinionated campaign architecture using call-only, bid-by-schedule, and location bid modifiers to capture 2am intent at profitable CPLs."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for commercial flooring contractors",
+      "intent": "commercial",
+      "angle": "Why LinkedIn outbound + Google Ads for GC decision-makers outperforms Facebook for $50k+ commercial flooring projects."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for septic tank services",
+      "intent": "transactional",
+      "angle": "Vetting checklist and pricing ranges ($1.5k-$4k/mo) for septic lead gen agencies, with red flags around shared-lead resellers."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for annuity agents 2026",
+      "intent": "commercial",
+      "angle": "Head-to-head on YouTube pre-roll, direct mail retargeting, and Facebook lead ads with real CPL and close rate data for annuity producers."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get more leads for a drywall contractor",
+      "intent": "informational",
+      "angle": "Three-channel playbook (GBP optimization, Nextdoor ads, GC referral automation) that fills a 2-crew drywall calendar inside 60 days."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel automation for dental new patient intake",
+      "intent": "commercial",
+      "angle": "Full snapshot walkthrough: insurance verification form, 7-touch nurture, no-show rescue SMS, and reactivation workflow for GP dental."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate warranty follow up for hvac companies",
+      "intent": "informational",
+      "angle": "12-month automated touch sequence that converts warranty customers into maintenance plan subscribers at 34% opt-in rate."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best crm for mortgage brokers 2026",
+      "intent": "commercial",
+      "angle": "Side-by-side on Shape, Velocify, and GoHighLevel for mortgage brokers scaling past 20 loans/month, with LOS integration tradeoffs."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to generate landing page variants for split testing",
+      "intent": "informational",
+      "angle": "Prompt stack + Unbounce/Instapage workflow that ships 8 AI-generated variants per week and lifts conversion 22% in 60 days."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai voice agent for law firm intake after hours",
+      "intent": "commercial",
+      "angle": "Head-to-head on Synthflow, Retell, and Vapi for PI intake: pricing, conflict-check handling, and conversion vs human intake specialists."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to detect ad fatigue on meta before roas tanks",
+      "intent": "informational",
+      "angle": "Early-warning framework using AI to flag CTR decay, frequency spikes, and creative similarity 7-10 days before ROAS collapses."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to buy a plumbing company",
+      "intent": "informational",
+      "angle": "Deal structure walkthrough: stacking AOS capital with SBA 7(a) to acquire a $1-3M revenue plumbing shop with minimal cash out of pocket."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding for commercial truck fleet financing",
+      "intent": "commercial",
+      "angle": "Why AOS beats traditional equipment financing for owner-operators scaling from 1 to 5 trucks, including rate and term comparison."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "apply for aos funding with recent bankruptcy discharge",
+      "intent": "transactional",
+      "angle": "Exact qualification path, timeline, and tradeline-building prerequisites for entrepreneurs 12-24 months post-discharge seeking AOS capital."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to build a 90 day onboarding system for new marketing agency clients",
+      "intent": "informational",
+      "angle": "Week-by-week onboarding SOP that cuts churn in months 2-4 by 41%, with Loom scripts, kickoff decks, and milestone reporting cadence."
     }
   ]
 }
