@@ -2219,11 +2219,13 @@
       "publishedAt": "2026-10-21T14:01:34.880Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "aos funding timeline from application to funded capital",
       "intent": "informational",
-      "angle": "Day-by-day walkthrough of the AOS process: docs needed on day 1, underwriting bottlenecks, and realistic 21-45 day funded timeline most reps won't tell you."
+      "angle": "Day-by-day walkthrough of the AOS process: docs needed on day 1, underwriting bottlenecks, and realistic 21-45 day funded timeline most reps won't tell you.",
+      "slug": "aos-funding-timeline-application-to-funded-capital-day-by-day",
+      "publishedAt": "2026-10-22T14:01:32.482Z"
     },
     {
       "status": "pending",
