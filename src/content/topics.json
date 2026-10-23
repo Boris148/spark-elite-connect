@@ -2228,11 +2228,13 @@
       "publishedAt": "2026-10-22T14:01:35.634Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "apply for aos funding for hvac company expansion",
       "intent": "transactional",
-      "angle": "Exact application prep for HVAC operators: revenue docs, use-of-funds narrative for new trucks/techs, and the approval amounts we see for $500k-$3M shops."
+      "angle": "Exact application prep for HVAC operators: revenue docs, use-of-funds narrative for new trucks/techs, and the approval amounts we see for $500k-$3M shops.",
+      "slug": "apply-for-aos-funding-for-hvac-company-expansion-the-prep-guide",
+      "publishedAt": "2026-10-23T14:01:53.252Z"
     },
     {
       "status": "pending",
