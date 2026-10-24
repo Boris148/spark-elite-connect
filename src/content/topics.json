@@ -2237,11 +2237,13 @@
       "publishedAt": "2026-10-23T14:01:53.252Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "how to run a quarterly business review that saves at risk agency clients",
       "intent": "informational",
-      "angle": "The 7-slide QBR deck we use to turn churn-risk retainers into upsells, built around attribution wins, pipeline value, and a forward 90-day roadmap."
+      "angle": "The 7-slide QBR deck we use to turn churn-risk retainers into upsells, built around attribution wins, pipeline value, and a forward 90-day roadmap.",
+      "slug": "how-to-run-a-quarterly-business-review-that-saves-agency-clients",
+      "publishedAt": "2026-10-24T14:01:29.544Z"
     },
     {
       "status": "pending",
