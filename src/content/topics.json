@@ -2246,11 +2246,13 @@
       "publishedAt": "2026-10-24T14:01:38.193Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "hire marketing agency vs build in house team for home services company",
       "intent": "commercial",
-      "angle": "True cost comparison at $50k/mo ad spend: in-house marketer + tools vs. agency retainer, including the hidden hiring risk most home service owners underestimate."
+      "angle": "True cost comparison at $50k/mo ad spend: in-house marketer + tools vs. agency retainer, including the hidden hiring risk most home service owners underestimate.",
+      "slug": "hire-a-marketing-agency-vs-build-in-house-for-home-services",
+      "publishedAt": "2026-10-25T14:01:27.366Z"
     },
     {
       "status": "pending",
