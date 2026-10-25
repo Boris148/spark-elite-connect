@@ -2255,11 +2255,13 @@
       "publishedAt": "2026-10-25T14:01:27.366Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "google ads for appliance repair companies cost per lead 2026",
       "intent": "commercial",
-      "angle": "Benchmarks CPL for appliance repair across 15 metros and shows why call-only + LSA stacking beats pure search for sub-$35 leads."
+      "angle": "Benchmarks CPL for appliance repair across 15 metros and shows why call-only + LSA stacking beats pure search for sub-$35 leads.",
+      "slug": "google-ads-for-appliance-repair-cost-per-lead-in-2026",
+      "publishedAt": "2026-10-25T14:02:59.377Z"
     },
     {
       "status": "pending",
