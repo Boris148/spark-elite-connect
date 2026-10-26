@@ -2273,11 +2273,13 @@
       "publishedAt": "2026-10-26T14:01:36.546Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "how to structure google ads for emergency plumbing calls",
       "intent": "informational",
-      "angle": "Opinionated campaign architecture using call-only, bid-by-schedule, and location bid modifiers to capture 2am intent at profitable CPLs."
+      "angle": "Opinionated campaign architecture using call-only, bid-by-schedule, and location bid modifiers to capture 2am intent at profitable CPLs.",
+      "slug": "how-to-structure-google-ads-for-emergency-plumbing-calls",
+      "publishedAt": "2026-10-26T14:07:51.135Z"
     },
     {
       "status": "pending",
