@@ -2264,11 +2264,13 @@
       "publishedAt": "2026-10-25T14:02:59.377Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Paid Media",
       "keyword": "meta ads for lasik surgery clinics",
       "intent": "commercial",
-      "angle": "Breaks down a creative + offer framework (financing hooks, before/after UGC) that drops CPL under $80 for lasik practices."
+      "angle": "Breaks down a creative + offer framework (financing hooks, before/after UGC) that drops CPL under $80 for lasik practices.",
+      "slug": "meta-ads-for-lasik-surgery-clinics-the-sub-80-cpl-playbook",
+      "publishedAt": "2026-10-26T14:01:36.546Z"
     },
     {
       "status": "pending",
