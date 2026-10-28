@@ -2300,11 +2300,13 @@
       "publishedAt": "2026-10-28T14:01:25.838Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "best lead sources for annuity agents 2026",
       "intent": "commercial",
-      "angle": "Head-to-head on YouTube pre-roll, direct mail retargeting, and Facebook lead ads with real CPL and close rate data for annuity producers."
+      "angle": "Head-to-head on YouTube pre-roll, direct mail retargeting, and Facebook lead ads with real CPL and close rate data for annuity producers.",
+      "slug": "hire-a-lead-generation-agency-for-septic-tank-services-the-vetting-guide",
+      "publishedAt": "2026-10-28T14:01:39.706Z"
     },
     {
       "status": "pending",
