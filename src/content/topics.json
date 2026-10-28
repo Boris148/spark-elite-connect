@@ -2291,11 +2291,13 @@
       "publishedAt": "2026-10-27T14:01:33.626Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "hire lead generation agency for septic tank services",
       "intent": "transactional",
-      "angle": "Vetting checklist and pricing ranges ($1.5k-$4k/mo) for septic lead gen agencies, with red flags around shared-lead resellers."
+      "angle": "Vetting checklist and pricing ranges ($1.5k-$4k/mo) for septic lead gen agencies, with red flags around shared-lead resellers.",
+      "slug": "hire-a-lead-generation-agency-for-septic-tank-services-vetting-guide",
+      "publishedAt": "2026-10-28T14:01:25.838Z"
     },
     {
       "status": "pending",
