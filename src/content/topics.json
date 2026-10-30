@@ -2327,11 +2327,13 @@
       "publishedAt": "2026-10-30T14:01:32.372Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "how to automate warranty follow up for hvac companies",
       "intent": "informational",
-      "angle": "12-month automated touch sequence that converts warranty customers into maintenance plan subscribers at 34% opt-in rate."
+      "angle": "12-month automated touch sequence that converts warranty customers into maintenance plan subscribers at 34% opt-in rate.",
+      "slug": "gohighlevel-automation-for-dental-new-patient-intake-the-build",
+      "publishedAt": "2026-10-30T14:01:37.347Z"
     },
     {
       "status": "pending",
