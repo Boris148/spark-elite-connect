@@ -2345,11 +2345,13 @@
       "publishedAt": "2026-10-31T14:01:34.153Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to generate landing page variants for split testing",
       "intent": "informational",
-      "angle": "Prompt stack + Unbounce/Instapage workflow that ships 8 AI-generated variants per week and lifts conversion 22% in 60 days."
+      "angle": "Prompt stack + Unbounce/Instapage workflow that ships 8 AI-generated variants per week and lifts conversion 22% in 60 days.",
+      "slug": "how-to-use-ai-to-generate-landing-page-variants-for-split-testing",
+      "publishedAt": "2026-10-31T14:06:16.196Z"
     },
     {
       "status": "pending",
