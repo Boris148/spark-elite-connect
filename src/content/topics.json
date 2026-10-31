@@ -2336,11 +2336,13 @@
       "publishedAt": "2026-10-30T14:01:37.347Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "best crm for mortgage brokers 2026",
       "intent": "commercial",
-      "angle": "Side-by-side on Shape, Velocify, and GoHighLevel for mortgage brokers scaling past 20 loans/month, with LOS integration tradeoffs."
+      "angle": "Side-by-side on Shape, Velocify, and GoHighLevel for mortgage brokers scaling past 20 loans/month, with LOS integration tradeoffs.",
+      "slug": "best-crm-for-mortgage-brokers-2026-shape-vs-velocify-vs-ghl",
+      "publishedAt": "2026-10-31T14:01:34.153Z"
     },
     {
       "status": "pending",
