@@ -2354,11 +2354,13 @@
       "publishedAt": "2026-10-31T14:06:16.196Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "best ai voice agent for law firm intake after hours",
       "intent": "commercial",
-      "angle": "Head-to-head on Synthflow, Retell, and Vapi for PI intake: pricing, conflict-check handling, and conversion vs human intake specialists."
+      "angle": "Head-to-head on Synthflow, Retell, and Vapi for PI intake: pricing, conflict-check handling, and conversion vs human intake specialists.",
+      "slug": "best-ai-voice-agent-for-law-firm-intake-after-hours-ranked",
+      "publishedAt": "2026-11-01T15:01:27.631Z"
     },
     {
       "status": "pending",
@@ -2394,6 +2396,132 @@
       "keyword": "how to build a 90 day onboarding system for new marketing agency clients",
       "intent": "informational",
       "angle": "Week-by-week onboarding SOP that cuts churn in months 2-4 by 41%, with Loom scripts, kickoff decks, and milestone reporting cadence."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "google ads for mold remediation companies cost per lead 2026",
+      "intent": "commercial",
+      "angle": "Breakdown of real CPL ranges ($85-$220) for mold remediation on Google Ads, with bid strategy and emergency keyword structure that beats restoration franchise competitors."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "meta ads for weight loss clinics semaglutide offer",
+      "intent": "commercial",
+      "angle": "Compliant creative angles and landing page structure for GLP-1 clinics on Meta, including the three ad account bans we've reverse-engineered to avoid."
+    },
+    {
+      "status": "pending",
+      "category": "Paid Media",
+      "keyword": "how to structure meta ads account for home services with 10+ service lines",
+      "intent": "informational",
+      "angle": "Campaign-per-service-line vs consolidated ASC structure, with a decision tree based on monthly budget and lead volume thresholds."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "lead generation for commercial hvac maintenance contracts",
+      "intent": "commercial",
+      "angle": "Why LinkedIn + cold email outperforms paid search for 6-figure maintenance contracts, with the 4-touch sequence that books facility manager meetings."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "hire lead generation agency for commercial roofing",
+      "intent": "transactional",
+      "angle": "The 7 questions to ask a commercial roofing lead gen agency before signing, including proof-of-pipeline requirements most agencies can't produce."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "best lead sources for commercial auto insurance agents 2026",
+      "intent": "commercial",
+      "angle": "Ranked comparison of aged leads, exclusive live transfers, and self-generated Meta leads with real close rates from 3 commercial auto agencies."
+    },
+    {
+      "status": "pending",
+      "category": "Lead Generation",
+      "keyword": "how to get more leads for a stucco repair contractor",
+      "intent": "informational",
+      "angle": "Why GBP + hyperlocal Meta beats Google Ads for stucco in sub-100k metros, including the before/after photo ad format pulling $38 CPLs."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "gohighlevel automation for commercial cleaning rfp follow up",
+      "intent": "informational",
+      "angle": "The 11-step GHL workflow that nurtures commercial cleaning RFPs over 90 days, including the decision-maker re-engagement trigger that lifts win rate 22%."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "how to automate rebook sequence for med spa no shows",
+      "intent": "informational",
+      "angle": "The SMS + voice drop sequence that recovers 34% of med spa no-shows within 72 hours, built in GHL with Twilio voice."
+    },
+    {
+      "status": "pending",
+      "category": "Marketing Automation",
+      "keyword": "best crm for roofing sales teams with field reps",
+      "intent": "commercial",
+      "angle": "Head-to-head of JobNimbus, AccuLynx, and GHL for roofing orgs with 5+ field reps, scored on mobile UX, aerial measurement integrations, and commission tracking."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to build weekly ppc performance reports for clients",
+      "intent": "informational",
+      "angle": "The Claude + Looker Studio workflow that generates narrative client reports in 4 minutes instead of 2 hours, with the exact prompt stack."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "best ai voice agent for dental practice new patient booking",
+      "intent": "commercial",
+      "angle": "Comparison of Retell, Vapi, and Bland for dental intake, with cost-per-booked-appointment math from a 6-location DSO deployment."
+    },
+    {
+      "status": "pending",
+      "category": "AI in Marketing",
+      "keyword": "how to use ai to forecast monthly ad spend needed to hit revenue goals",
+      "intent": "informational",
+      "angle": "A ChatGPT + Google Sheets model that back-solves required ad spend from close rate, AOV, and CPL by channel, with a template agencies can clone."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "how to use aos funding to buy a hvac company book of business",
+      "intent": "informational",
+      "angle": "Deal structure walkthrough: using AOS capital to buy maintenance agreements from retiring HVAC owners at 1.2-1.8x annual contract revenue."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "aos funding for solar installation companies working capital",
+      "intent": "informational",
+      "angle": "How solar installers bridge 60-90 day inverter payment gaps using AOS lines, with real draw schedules tied to install milestones."
+    },
+    {
+      "status": "pending",
+      "category": "Funding & AOS",
+      "keyword": "apply for aos funding for med spa equipment purchase",
+      "intent": "transactional",
+      "angle": "Document checklist and 14-day approval timeline for financing a $180k GLP-1 or laser device through AOS vs equipment leasing."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "how to build a sales team for a marketing agency past 100k mrr",
+      "intent": "informational",
+      "angle": "Setter-closer-AM org chart with comp plans at 100k, 250k, and 500k MRR, pulled from 3 agencies that scaled through the hiring wall."
+    },
+    {
+      "status": "pending",
+      "category": "Agency Growth",
+      "keyword": "hire white label cold email provider for marketing agency",
+      "intent": "transactional",
+      "angle": "Vetting framework for white label cold email vendors: infrastructure (domains, IPs, warmup), reporting transparency, and the 4 red flags that signal churn risk."
     }
   ]
 }
