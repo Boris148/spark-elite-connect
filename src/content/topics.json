@@ -2372,11 +2372,13 @@
       "publishedAt": "2026-11-02T15:01:28.709Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to buy a plumbing company",
       "intent": "informational",
-      "angle": "Deal structure walkthrough: stacking AOS capital with SBA 7(a) to acquire a $1-3M revenue plumbing shop with minimal cash out of pocket."
+      "angle": "Deal structure walkthrough: stacking AOS capital with SBA 7(a) to acquire a $1-3M revenue plumbing shop with minimal cash out of pocket.",
+      "slug": "how-to-use-ai-to-detect-meta-ad-fatigue-before-roas-tanks",
+      "publishedAt": "2026-11-02T15:01:34.666Z"
     },
     {
       "status": "pending",
