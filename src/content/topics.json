@@ -2363,11 +2363,13 @@
       "publishedAt": "2026-11-01T15:02:01.089Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to use ai to detect ad fatigue on meta before roas tanks",
       "intent": "informational",
-      "angle": "Early-warning framework using AI to flag CTR decay, frequency spikes, and creative similarity 7-10 days before ROAS collapses."
+      "angle": "Early-warning framework using AI to flag CTR decay, frequency spikes, and creative similarity 7-10 days before ROAS collapses.",
+      "slug": "how-to-use-ai-to-detect-ad-fatigue-on-meta-before-roas-tanks",
+      "publishedAt": "2026-11-02T15:01:28.709Z"
     },
     {
       "status": "pending",
