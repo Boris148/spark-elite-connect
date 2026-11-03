@@ -77,11 +77,13 @@
       "publishedAt": "2026-05-01T14:01:34.753Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "AI generated ad creatives Meta",
       "intent": "informational",
-      "angle": "AI ad creative pipeline that actually scales — from ICP research to UGC-style video output."
+      "angle": "AI ad creative pipeline that actually scales — from ICP research to UGC-style video output.",
+      "slug": "ai-generated-ad-creatives-for-meta-a-pipeline-that-scales",
+      "publishedAt": "2026-11-03T15:01:27.159Z"
     },
     {
       "status": "published",
