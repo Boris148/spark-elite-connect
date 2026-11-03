@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { Link, Navigate, useParams } from "react-router-dom";
 import { CTASection } from "../components/CTASection";
-import { getArticleBySlug, getRelatedArticles, type Article } from "../lib/blog";
+import { getArticleBySlug, getRedirectSlug, getRelatedArticles, type Article } from "../lib/blog";
 
 const SITE_URL = "https://socialelitemarketinggroup.com";
 
@@ -36,7 +36,8 @@ export function BlogPostPage() {
   }, [article]);
 
   if (!article) {
-    return <Navigate to="/blog" replace />;
+    const target = slug ? getRedirectSlug(slug) : undefined;
+    return <Navigate to={target ? `/blog/${target}` : "/blog"} replace />;
   }
 
   const related = getRelatedArticles(article.slug);

@@ -77,13 +77,11 @@
       "publishedAt": "2026-05-01T14:01:34.753Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "AI generated ad creatives Meta",
       "intent": "informational",
-      "angle": "AI ad creative pipeline that actually scales — from ICP research to UGC-style video output.",
-      "slug": "google-ads-vs-meta-ads-for-lead-gen-roi-decision-guide",
-      "publishedAt": "2026-05-01T14:01:44.960Z"
+      "angle": "AI ad creative pipeline that actually scales — from ICP research to UGC-style video output."
     },
     {
       "status": "published",
@@ -95,13 +93,11 @@
       "publishedAt": "2026-05-02T14:01:34.872Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "GHL workflow automation examples",
       "intent": "informational",
-      "angle": "10 GoHighLevel workflows that pay for themselves — speed-to-lead, missed-call text-back, review requests, more.",
-      "slug": "a-lead-scoring-framework-for-b2b-sales-that-filters-noise",
-      "publishedAt": "2026-05-02T14:03:18.123Z"
+      "angle": "10 GoHighLevel workflows that pay for themselves — speed-to-lead, missed-call text-back, review requests, more."
     },
     {
       "status": "published",
@@ -122,13 +118,11 @@
       "publishedAt": "2026-05-05T14:01:36.231Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "missed call text back automation",
       "intent": "informational",
-      "angle": "Why every service business should run missed-call-text-back — the conversion data and how to set it up in 20 minutes.",
-      "slug": "ai-cold-outreach-systems-the-exact-stack-we-use-to-scale",
-      "publishedAt": "2026-05-05T14:04:59.544Z"
+      "angle": "Why every service business should run missed-call-text-back — the conversion data and how to set it up in 20 minutes."
     },
     {
       "status": "published",
@@ -140,13 +134,11 @@
       "publishedAt": "2026-05-06T14:01:31.173Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "credit repair for entrepreneurs",
       "intent": "commercial",
-      "angle": "How personal credit repair unlocks business funding — the order of operations most founders miss.",
-      "slug": "how-to-scale-a-marketing-agency-past-50k-mrr-the-ops-playbook",
-      "publishedAt": "2026-05-06T14:05:31.426Z"
+      "angle": "How personal credit repair unlocks business funding — the order of operations most founders miss."
     },
     {
       "status": "published",
@@ -158,13 +150,11 @@
       "publishedAt": "2026-05-07T14:01:48.165Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "marketing attribution for small business",
       "intent": "informational",
-      "angle": "Attribution without a data team — UTM hygiene, GHL source tracking, and the 3 reports we actually look at weekly.",
-      "slug": "facebook-ads-landing-page-best-practices-that-actually-convert",
-      "publishedAt": "2026-05-07T14:04:02.638Z"
+      "angle": "Attribution without a data team — UTM hygiene, GHL source tracking, and the 3 reports we actually look at weekly."
     },
     {
       "status": "published",
@@ -176,13 +166,11 @@
       "publishedAt": "2026-05-08T14:01:34.061Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "lead magnets that convert",
       "intent": "informational",
-      "angle": "Lead magnets ranked by 2025 conversion data — what still works post-AI saturation.",
-      "slug": "chatgpt-for-ad-copy-prompts-and-checklists-that-win",
-      "publishedAt": "2026-05-08T14:03:08.236Z"
+      "angle": "Lead magnets ranked by 2025 conversion data — what still works post-AI saturation."
     },
     {
       "status": "published",
@@ -194,13 +182,11 @@
       "publishedAt": "2026-05-09T14:01:30.456Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "agency client retention strategies",
       "intent": "informational",
-      "angle": "Why agencies churn clients at month 3 — retention systems built around weekly reporting and proactive comms.",
-      "slug": "tiktok-ads-for-service-businesses-what-actually-converts",
-      "publishedAt": "2026-05-09T14:03:46.878Z"
+      "angle": "Why agencies churn clients at month 3 — retention systems built around weekly reporting and proactive comms."
     },
     {
       "status": "published",
@@ -212,13 +198,11 @@
       "publishedAt": "2026-05-10T14:01:31.709Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "speed to lead response time",
       "intent": "informational",
-      "angle": "Speed-to-lead data: why under-5-minute response wins, and the automations that make it inevitable.",
-      "slug": "business-credit-cards-for-new-businesses-the-0-apr-stack-fhn3",
-      "publishedAt": "2026-05-10T14:03:33.541Z"
+      "angle": "Speed-to-lead data: why under-5-minute response wins, and the automations that make it inevitable."
     },
     {
       "status": "published",
@@ -230,13 +214,11 @@
       "publishedAt": "2026-05-11T14:01:18.572Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "Meta ads creative testing framework",
       "intent": "informational",
-      "angle": "Creative testing matrix — hook x format x angle — that consistently finds winners under $500 in spend.",
-      "slug": "ai-voice-agents-for-sales-calls-whats-actually-working",
-      "publishedAt": "2026-05-11T14:05:06.446Z"
+      "angle": "Creative testing matrix — hook x format x angle — that consistently finds winners under $500 in spend."
     },
     {
       "status": "published",
@@ -248,13 +230,11 @@
       "publishedAt": "2026-05-12T14:01:18.752Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "agency pricing models 2026",
       "intent": "informational",
-      "angle": "Performance vs retainer vs hybrid pricing — what's working in 2026 and how to structure it without margin death.",
-      "slug": "google-business-profile-optimization-9-fields-youre-missing",
-      "publishedAt": "2026-05-12T14:06:03.218Z"
+      "angle": "Performance vs retainer vs hybrid pricing — what's working in 2026 and how to structure it without margin death."
     },
     {
       "status": "published",
@@ -266,13 +246,11 @@
       "publishedAt": "2026-05-13T14:01:13.154Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "review request automation for local business",
       "intent": "informational",
-      "angle": "Review request systems that generate 5+ Google reviews a week — timing, channel, and copy patterns.",
-      "slug": "how-to-qualify-for-business-loans-the-math-banks-wont-show",
-      "publishedAt": "2026-05-13T14:03:48.820Z"
+      "angle": "Review request systems that generate 5+ Google reviews a week — timing, channel, and copy patterns."
     },
     {
       "status": "published",
@@ -298,7 +276,7 @@
       "keyword": "Facebook ads for roofing companies",
       "intent": "commercial",
       "angle": "Roofing lead-gen on Meta: storm-response targeting, the creative angles that work, and realistic cost-per-lead to budget for.",
-      "slug": "google-ads-for-hvac-companies-the-2026-cost-playbook",
+      "slug": "google-ads-for-hvac-companies-2026-cpl-benchmarks-and-structure",
       "publishedAt": "2026-06-18T14:01:51.510Z"
     },
     {
@@ -329,13 +307,11 @@
       "publishedAt": "2026-06-21T14:01:39.537Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "lead generation for plumbers",
       "intent": "commercial",
-      "angle": "Emergency vs scheduled demand, Local Services Ads vs search, and the fastest path to booked plumbing jobs.",
-      "slug": "meta-ads-for-med-spas-booked-appointments-not-likes",
-      "publishedAt": "2026-06-21T14:01:46.659Z"
+      "angle": "Emergency vs scheduled demand, Local Services Ads vs search, and the fastest path to booked plumbing jobs."
     },
     {
       "status": "published",
@@ -347,13 +323,11 @@
       "publishedAt": "2026-06-22T14:01:35.226Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "cost per lead by industry 2026",
       "intent": "informational",
-      "angle": "Benchmark CPLs across home services, legal, dental, and finance, and how to tell if yours is too high.",
-      "slug": "how-much-do-google-ads-cost-for-a-small-business-in-2026-at07",
-      "publishedAt": "2026-06-22T14:01:45.593Z"
+      "angle": "Benchmark CPLs across home services, legal, dental, and finance, and how to tell if yours is too high."
     },
     {
       "status": "published",
@@ -365,13 +339,11 @@
       "publishedAt": "2026-06-23T14:01:28.531Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "how much should I spend on Facebook ads per month",
       "intent": "transactional",
-      "angle": "A budgeting framework tied to your average ticket and target cost-per-acquisition, not a random number.",
-      "slug": "how-much-does-a-marketing-agency-cost-for-a-small-business-qjbf",
-      "publishedAt": "2026-06-23T14:01:39.934Z"
+      "angle": "A budgeting framework tied to your average ticket and target cost-per-acquisition, not a random number."
     },
     {
       "status": "published",
@@ -383,13 +355,11 @@
       "publishedAt": "2026-06-24T14:01:30.509Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "Google Ads vs SEO for local business",
       "intent": "commercial",
-      "angle": "When to pay for clicks vs build organic, with a realistic ROI timeline for local service businesses.",
-      "slug": "best-crm-for-service-businesses-a-2026-operators-guide",
-      "publishedAt": "2026-06-24T14:01:30.897Z"
+      "angle": "When to pay for clicks vs build organic, with a realistic ROI timeline for local service businesses."
     },
     {
       "status": "published",
@@ -401,13 +371,11 @@
       "publishedAt": "2026-06-25T14:01:30.266Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "AI receptionist for small business",
       "intent": "commercial",
-      "angle": "AI receptionist vs answering service: the 3-10x cost gap, what AI books on its own, and where humans still win.",
-      "slug": "best-lead-generation-companies-for-contractors-2026",
-      "publishedAt": "2026-06-25T14:01:37.363Z"
+      "angle": "AI receptionist vs answering service: the 3-10x cost gap, what AI books on its own, and where humans still win."
     },
     {
       "status": "published",
@@ -419,13 +387,11 @@
       "publishedAt": "2026-06-26T14:01:31.868Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a service business",
       "intent": "informational",
-      "angle": "The full demand stack (paid, local SEO, reviews, referrals, speed-to-lead) prioritized by ROI.",
-      "slug": "why-am-i-not-getting-leads-from-facebook-ads-7-real-fixes",
-      "publishedAt": "2026-06-26T14:01:44.944Z"
+      "angle": "The full demand stack (paid, local SEO, reviews, referrals, speed-to-lead) prioritized by ROI."
     },
     {
       "status": "published",
@@ -437,13 +403,11 @@
       "publishedAt": "2026-06-27T14:01:30.350Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "landing page conversion rate optimization for lead generation",
       "intent": "informational",
-      "angle": "The on-page elements that turn ad clicks into booked calls: message match, friction, proof, and CTA.",
-      "slug": "the-lead-follow-up-sequence-that-books-service-appointments",
-      "publishedAt": "2026-06-27T14:01:39.223Z"
+      "angle": "The on-page elements that turn ad clicks into booked calls: message match, friction, proof, and CTA."
     },
     {
       "status": "published",
@@ -455,13 +419,11 @@
       "publishedAt": "2026-06-28T14:01:19.641Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "AI chatbot for lead generation",
       "intent": "commercial",
-      "angle": "Turning website traffic into booked leads with an AI chat agent: setup, guardrails, and what actually converts.",
-      "slug": "ai-appointment-setter-for-small-business-the-real-roi",
-      "publishedAt": "2026-06-28T14:01:36.951Z"
+      "angle": "Turning website traffic into booked leads with an AI chat agent: setup, guardrails, and what actually converts."
     },
     {
       "status": "published",
@@ -473,13 +435,11 @@
       "publishedAt": "2026-06-29T14:01:34.905Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "AI customer service automation for small business",
       "intent": "commercial",
-      "angle": "Automating FAQs, scheduling, and intake with AI so your team only handles what truly needs a human.",
-      "slug": "how-to-use-ai-for-lead-follow-up-without-sounding-robotic",
-      "publishedAt": "2026-06-29T14:02:04.382Z"
+      "angle": "Automating FAQs, scheduling, and intake with AI so your team only handles what truly needs a human."
     },
     {
       "status": "published",
@@ -505,7 +465,7 @@
       "keyword": "business line of credit vs business loan",
       "intent": "informational",
       "angle": "Which financing fits which need, and how lenders actually evaluate you for each.",
-      "slug": "business-credit-cards-with-no-personal-guarantee-explained",
+      "slug": "business-credit-cards-with-no-personal-guarantee-the-2026-playbook",
       "publishedAt": "2026-07-01T14:01:39.768Z"
     },
     {
@@ -518,13 +478,11 @@
       "publishedAt": "2026-07-02T14:01:25.721Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "white label PPC management for agencies",
       "intent": "commercial",
-      "angle": "When to outsource ad ops, what good white-label fulfillment looks like, and the margins to expect.",
-      "slug": "how-to-get-business-funding-with-bad-credit-7-real-options-piw8",
-      "publishedAt": "2026-07-02T14:01:54.952Z"
+      "angle": "When to outsource ad ops, what good white-label fulfillment looks like, and the margins to expect."
     },
     {
       "status": "published",
@@ -536,13 +494,11 @@
       "publishedAt": "2026-07-03T14:01:38.210Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "youtube ads for home services lead generation",
       "intent": "commercial",
-      "angle": "Why YouTube in-stream + Demand Gen is the cheapest CPL channel for HVAC and roofing in 2026 when Meta CPMs cross $40.",
-      "slug": "how-to-get-clients-for-a-marketing-agency-without-buying-leads-5cpe",
-      "publishedAt": "2026-07-03T14:01:53.827Z"
+      "angle": "Why YouTube in-stream + Demand Gen is the cheapest CPL channel for HVAC and roofing in 2026 when Meta CPMs cross $40."
     },
     {
       "status": "published",
@@ -554,13 +510,11 @@
       "publishedAt": "2026-07-04T14:01:41.913Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "facebook ads budget for med spa",
       "intent": "transactional",
-      "angle": "Exact monthly ad spend tiers ($1.5k, $3k, $7k) tied to expected booked consults using our med spa client benchmarks.",
-      "slug": "google-local-services-ads-vs-google-ads-for-contractors",
-      "publishedAt": "2026-07-04T14:02:02.058Z"
+      "angle": "Exact monthly ad spend tiers ($1.5k, $3k, $7k) tied to expected booked consults using our med spa client benchmarks."
     },
     {
       "status": "published",
@@ -572,13 +526,11 @@
       "publishedAt": "2026-07-05T14:01:37.443Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "how to get commercial roofing leads",
       "intent": "informational",
-      "angle": "A LinkedIn outbound + Google Ads hybrid playbook for commercial roofers chasing $50k+ ticket jobs, not residential repairs.",
-      "slug": "the-best-lead-generation-strategy-for-solar-companies-now",
-      "publishedAt": "2026-07-05T14:02:08.133Z"
+      "angle": "A LinkedIn outbound + Google Ads hybrid playbook for commercial roofers chasing $50k+ ticket jobs, not residential repairs."
     },
     {
       "status": "published",
@@ -590,13 +542,11 @@
       "publishedAt": "2026-07-06T14:01:23.926Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "gohighlevel vs activecampaign for service businesses",
       "intent": "commercial",
-      "angle": "A feature-by-feature teardown showing why GHL wins for trades but ActiveCampaign still beats it for ecom-style nurture.",
-      "slug": "exclusive-leads-vs-shared-leads-for-contractors-real-math",
-      "publishedAt": "2026-07-06T14:01:54.903Z"
+      "angle": "A feature-by-feature teardown showing why GHL wins for trades but ActiveCampaign still beats it for ecom-style nurture."
     },
     {
       "status": "published",
@@ -608,13 +558,11 @@
       "publishedAt": "2026-07-07T14:01:38.908Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "how to automate appointment booking for dental practice",
       "intent": "transactional",
-      "angle": "The exact GHL + Google Calendar + AI voice agent stack that's cutting front-desk labor 30% for multi-location dental groups.",
-      "slug": "7-sms-drip-campaign-examples-for-local-business-growth",
-      "publishedAt": "2026-07-07T14:02:07.636Z"
+      "angle": "The exact GHL + Google Calendar + AI voice agent stack that's cutting front-desk labor 30% for multi-location dental groups."
     },
     {
       "status": "published",
@@ -626,13 +574,11 @@
       "publishedAt": "2026-07-08T14:01:35.001Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "how to train chatgpt on your brand voice",
       "intent": "informational",
-      "angle": "A 5-step custom GPT build with example system prompts that stops AI copy from sounding like a LinkedIn motivational post.",
-      "slug": "the-best-ai-sdr-tools-for-b2b-agencies-ranked-by-reply-rate",
-      "publishedAt": "2026-07-08T14:01:56.290Z"
+      "angle": "A 5-step custom GPT build with example system prompts that stops AI copy from sounding like a LinkedIn motivational post."
     },
     {
       "status": "published",
@@ -644,13 +590,11 @@
       "publishedAt": "2026-07-09T14:02:03.951Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "0 percent business credit cards for startups 2026",
       "intent": "transactional",
-      "angle": "The seven 0% intro APR cards approving new LLCs under 6 months old, ranked by credit limit ceiling and approval odds.",
-      "slug": "ai-voice-agent-pricing-for-small-business-the-real-numbers",
-      "publishedAt": "2026-07-09T14:02:11.017Z"
+      "angle": "The seven 0% intro APR cards approving new LLCs under 6 months old, ranked by credit limit ceiling and approval odds."
     },
     {
       "status": "published",
@@ -662,13 +606,11 @@
       "publishedAt": "2026-07-10T14:01:28.296Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "sba loan vs revenue based financing for agencies",
       "intent": "commercial",
-      "angle": "Why most agencies under $1M ARR get rejected on SBA and a real breakdown of RBF terms from Pipe, Capchase, and Wayflyer.",
-      "slug": "how-to-use-business-credit-to-fund-marketing-spend-safely",
-      "publishedAt": "2026-07-10T14:02:00.883Z"
+      "angle": "Why most agencies under $1M ARR get rejected on SBA and a real breakdown of RBF terms from Pipe, Capchase, and Wayflyer."
     },
     {
       "status": "published",
@@ -680,13 +622,11 @@
       "publishedAt": "2026-07-12T14:01:41.417Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "cold email infrastructure for marketing agencies",
       "intent": "transactional",
-      "angle": "The exact domain, inbox, and warmup setup (Instantly + Smartlead + Google Workspace) booking 8–12 demos/week at <$200 cost.",
-      "slug": "how-to-productize-agency-services-into-4k-mrr-seats",
-      "publishedAt": "2026-07-12T14:01:52.575Z"
+      "angle": "The exact domain, inbox, and warmup setup (Instantly + Smartlead + Google Workspace) booking 8–12 demos/week at <$200 cost."
     },
     {
       "status": "published",
@@ -698,13 +638,11 @@
       "publishedAt": "2026-07-13T14:01:55.886Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "google ads call only campaigns for hvac",
       "intent": "commercial",
-      "angle": "Why call-only campaigns still beat search campaigns for HVAC emergencies under a $75 CPL, with bid and ad copy structure.",
-      "slug": "best-niches-for-marketing-agencies-in-2026-9-verticals-ranked",
-      "publishedAt": "2026-07-13T14:02:09.164Z"
+      "angle": "Why call-only campaigns still beat search campaigns for HVAC emergencies under a $75 CPL, with bid and ad copy structure."
     },
     {
       "status": "published",
@@ -716,13 +654,11 @@
       "publishedAt": "2026-07-14T14:01:31.331Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "meta advantage plus shopping campaigns vs manual campaigns",
       "intent": "commercial",
-      "angle": "When Advantage+ actually wins for lead gen (spoiler: rarely under $150/day) and the manual ASC hybrid setup we run instead.",
-      "slug": "how-much-does-it-cost-to-run-google-ads-for-a-plumbing-company-0cyk",
-      "publishedAt": "2026-07-14T14:02:23.556Z"
+      "angle": "When Advantage+ actually wins for lead gen (spoiler: rarely under $150/day) and the manual ASC hybrid setup we run instead."
     },
     {
       "status": "published",
@@ -734,13 +670,11 @@
       "publishedAt": "2026-07-15T14:01:36.678Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "best lead generation software for roofing contractors",
       "intent": "commercial",
-      "angle": "Head-to-head on CallRail, Leap, JobNimbus, and GHL for roofers — which actually closes the loop from ad click to signed contract.",
-      "slug": "how-to-get-commercial-cleaning-leads-the-3-channel-stack",
-      "publishedAt": "2026-07-15T14:01:55.881Z"
+      "angle": "Head-to-head on CallRail, Leap, JobNimbus, and GHL for roofers — which actually closes the loop from ad click to signed contract."
     },
     {
       "status": "published",
@@ -761,13 +695,11 @@
       "publishedAt": "2026-07-18T14:01:40.009Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "how to automate lead nurture for med spa",
       "intent": "informational",
-      "angle": "A 21-day SMS + email nurture that converts cold Meta leads into $600 consultations, with copy and timing benchmarks.",
-      "slug": "the-gohighlevel-snapshot-for-home-services-agencies-that-works",
-      "publishedAt": "2026-07-18T14:01:58.305Z"
+      "angle": "A 21-day SMS + email nurture that converts cold Meta leads into $600 consultations, with copy and timing benchmarks."
     },
     {
       "status": "published",
@@ -779,13 +711,11 @@
       "publishedAt": "2026-07-19T14:01:19.136Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "ai lead qualification for service businesses",
       "intent": "commercial",
-      "angle": "How to plug a GPT-4 qualifier between form fill and CRM to kill tire-kickers and boost sales close rate by 30%+.",
-      "slug": "zapier-vs-make-vs-n8n-for-marketing-agencies-real-costs",
-      "publishedAt": "2026-07-19T14:01:53.619Z"
+      "angle": "How to plug a GPT-4 qualifier between form fill and CRM to kill tire-kickers and boost sales close rate by 30%+."
     },
     {
       "status": "published",
@@ -815,13 +745,11 @@
       "publishedAt": "2026-07-22T14:01:32.641Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "net 30 vendor accounts to build business credit fast",
       "intent": "transactional",
-      "angle": "The exact 8 net-30 vendors that report to D&B and Experian Business, ranked by approval odds for sub-1-year-old LLCs.",
-      "slug": "how-to-use-aos-funding-to-buy-marketing-leads-profitably",
-      "publishedAt": "2026-07-22T14:01:53.370Z"
+      "angle": "The exact 8 net-30 vendors that report to D&B and Experian Business, ranked by approval odds for sub-1-year-old LLCs."
     },
     {
       "status": "published",
@@ -833,13 +761,11 @@
       "publishedAt": "2026-07-23T14:01:37.300Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "how to charge performance based pricing marketing agency",
       "intent": "informational",
-      "angle": "The hybrid retainer + per-lead pricing model we use to protect margin while giving clients the upside they think they want.",
-      "slug": "business-credit-stacking-for-contractors-100k-in-90-days",
-      "publishedAt": "2026-07-23T14:01:52.924Z"
+      "angle": "The hybrid retainer + per-lead pricing model we use to protect margin while giving clients the upside they think they want."
     },
     {
       "status": "published",
@@ -851,13 +777,11 @@
       "publishedAt": "2026-07-24T14:01:30.661Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "google ads for garage door repair companies",
       "intent": "commercial",
-      "angle": "Break down why garage door is one of the highest-ticket local PPC verticals and share bid strategy, negative keyword list, and expected CPL benchmarks by metro.",
-      "slug": "marketing-agency-sales-process-for-cold-leads-the-4-call-close",
-      "publishedAt": "2026-07-24T14:02:03.723Z"
+      "angle": "Break down why garage door is one of the highest-ticket local PPC verticals and share bid strategy, negative keyword list, and expected CPL benchmarks by metro."
     },
     {
       "status": "published",
@@ -874,7 +798,7 @@
       "keyword": "youtube ads cost per lead for financial advisors",
       "intent": "transactional",
       "angle": "Publish real CPL ranges ($40-$120) from advisor accounts and show the exact video hook + retargeting stack that makes YouTube profitable for RIAs.",
-      "slug": "how-to-lower-cost-per-lead-on-facebook-ads-for-contractors-u64w",
+      "slug": "how-to-lower-cost-per-lead-on-facebook-ads-for-contractors",
       "publishedAt": "2026-07-25T14:01:57.416Z"
     },
     {
@@ -887,13 +811,11 @@
       "publishedAt": "2026-07-26T14:01:42.588Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a law firm without seo",
       "intent": "informational",
-      "angle": "Rank the 4 fastest paid channels (LSA, Google Ads, Meta lead ads, YouTube) by intake-to-signed-case ratio for PI, family, and criminal defense firms.",
-      "slug": "best-lead-generation-strategy-for-commercial-hvac-in-90-days",
-      "publishedAt": "2026-07-26T14:01:54.501Z"
+      "angle": "Rank the 4 fastest paid channels (LSA, Google Ads, Meta lead ads, YouTube) by intake-to-signed-case ratio for PI, family, and criminal defense firms."
     },
     {
       "status": "published",
@@ -905,13 +827,11 @@
       "publishedAt": "2026-07-27T14:01:28.099Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "how to build a lead nurture sequence in gohighlevel",
       "intent": "informational",
-      "angle": "Step-by-step 14-day SMS + email + voicemail drop workflow with copy templates that consistently 2x show rate for home services and med spa leads.",
-      "slug": "how-to-hire-a-lead-generation-agency-for-your-medical-spa",
-      "publishedAt": "2026-07-27T14:02:01.446Z"
+      "angle": "Step-by-step 14-day SMS + email + voicemail drop workflow with copy templates that consistently 2x show rate for home services and med spa leads."
     },
     {
       "status": "published",
@@ -923,13 +843,11 @@
       "publishedAt": "2026-07-28T14:01:28.828Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "automated review generation system for local service business",
       "intent": "transactional",
-      "angle": "Deploy the exact 3-touch review request stack (post-job SMS, 2-day email, negative-review filter) that pushed a plumbing client from 4.2 to 4.9 stars in 90 days.",
-      "slug": "the-best-crm-automation-for-roofing-companies-compared",
-      "publishedAt": "2026-07-28T14:01:54.062Z"
+      "angle": "Deploy the exact 3-touch review request stack (post-job SMS, 2-day email, negative-review filter) that pushed a plumbing client from 4.2 to 4.9 stars in 90 days."
     },
     {
       "status": "published",
@@ -941,13 +859,11 @@
       "publishedAt": "2026-07-29T14:01:39.299Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "best ai phone answering service for contractors",
       "intent": "commercial",
-      "angle": "Head-to-head test of Goodcall, Rosie, and a custom Vapi build on call capture rate, booking rate, and monthly cost for a 5-truck HVAC operator.",
-      "slug": "how-to-use-ai-to-score-inbound-leads-in-real-time-step-by-step",
-      "publishedAt": "2026-07-29T14:01:56.342Z"
+      "angle": "Head-to-head test of Goodcall, Rosie, and a custom Vapi build on call capture rate, booking rate, and monthly cost for a 5-truck HVAC operator."
     },
     {
       "status": "published",
@@ -986,13 +902,11 @@
       "publishedAt": "2026-08-01T14:01:33.952Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "how to structure retainer contracts for marketing agencies",
       "intent": "informational",
-      "angle": "Break down 3 retainer models (flat, hybrid, performance) with actual contract language and cancellation clauses that keep MRR sticky past month 6.",
-      "slug": "how-to-apply-for-aos-funding-for-your-marketing-agency-in-7-days-x6s2",
-      "publishedAt": "2026-08-01T14:01:59.985Z"
+      "angle": "Break down 3 retainer models (flat, hybrid, performance) with actual contract language and cancellation clauses that keep MRR sticky past month 6."
     },
     {
       "status": "published",
@@ -1004,13 +918,11 @@
       "publishedAt": "2026-08-02T14:01:41.852Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "google ads for electricians cost per lead 2026",
       "intent": "commercial",
-      "angle": "Real CPL benchmarks from $45-$120 across residential vs commercial electrical, with the exact campaign structure that hits the low end.",
-      "slug": "the-outbound-sales-system-for-marketing-agency-owners-in-2026",
-      "publishedAt": "2026-08-02T14:01:50.958Z"
+      "angle": "Real CPL benchmarks from $45-$120 across residential vs commercial electrical, with the exact campaign structure that hits the low end."
     },
     {
       "status": "published",
@@ -1022,13 +934,11 @@
       "publishedAt": "2026-08-03T14:01:28.215Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "how to fix rising cpm on meta ads",
       "intent": "informational",
-      "angle": "The five diagnostic checks (creative fatigue, audience overlap, auction pressure, placement drift, learning resets) to run before touching budget.",
-      "slug": "facebook-ads-for-pest-control-companies-cpl-under-30",
-      "publishedAt": "2026-08-03T14:02:08.058Z"
+      "angle": "The five diagnostic checks (creative fatigue, audience overlap, auction pressure, placement drift, learning resets) to run before touching budget."
     },
     {
       "status": "published",
@@ -1040,13 +950,11 @@
       "publishedAt": "2026-08-04T14:01:28.984Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "lead generation for kitchen remodeling contractors",
       "intent": "commercial",
-      "angle": "Why Angi and Thumbtack tank margin for remodelers and the three-channel stack (Meta + LSA + retargeting) that produces $200k+ jobs.",
-      "slug": "buy-exclusive-hvac-leads-vs-run-your-own-ads-real-math",
-      "publishedAt": "2026-08-04T14:01:47.075Z"
+      "angle": "Why Angi and Thumbtack tank margin for remodelers and the three-channel stack (Meta + LSA + retargeting) that produces $200k+ jobs."
     },
     {
       "status": "published",
@@ -1058,13 +966,11 @@
       "publishedAt": "2026-08-05T14:01:33.671Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "gohighlevel calendar automation for med spas",
       "intent": "informational",
-      "angle": "The exact GHL calendar + tag + workflow build that eliminates no-shows for Botox consults using deposit holds and 3-touch reminders.",
-      "slug": "hire-a-lead-generation-company-for-pressure-washing-read-this",
-      "publishedAt": "2026-08-05T14:01:52.128Z"
+      "angle": "The exact GHL calendar + tag + workflow build that eliminates no-shows for Botox consults using deposit holds and 3-touch reminders."
     },
     {
       "status": "published",
@@ -1076,13 +982,11 @@
       "publishedAt": "2026-08-06T14:01:32.968Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "how to automate quote follow up for roofing companies",
       "intent": "informational",
-      "angle": "A 14-day SMS + email + ringless voicemail sequence that recovers 18-22% of unsigned roofing estimates without annoying homeowners.",
-      "slug": "best-marketing-automation-platform-for-insurance-agents-in-review",
-      "publishedAt": "2026-08-06T14:01:56.417Z"
+      "angle": "A 14-day SMS + email + ringless voicemail sequence that recovers 18-22% of unsigned roofing estimates without annoying homeowners."
     },
     {
       "status": "published",
@@ -1094,13 +998,11 @@
       "publishedAt": "2026-08-07T14:01:29.389Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "how to use ai to build landing pages for ppc campaigns",
       "intent": "informational",
-      "angle": "The Claude + Unbounce workflow for spinning up 6 vertical-specific landing pages in a day without tanking Quality Score.",
-      "slug": "ai-sdr-vs-human-sdr-the-real-cost-comparison-for-agencies",
-      "publishedAt": "2026-08-07T14:02:15.528Z"
+      "angle": "The Claude + Unbounce workflow for spinning up 6 vertical-specific landing pages in a day without tanking Quality Score."
     },
     {
       "status": "published",
@@ -1121,13 +1023,11 @@
       "publishedAt": "2026-08-09T14:01:24.884Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "aos funding approval requirements and timeline",
       "intent": "transactional",
-      "angle": "Exact credit profile, documentation, and 21-day timeline for AOS approval — including the three disqualifiers most applicants miss.",
-      "slug": "how-to-use-aos-funding-to-launch-a-marketing-agency",
-      "publishedAt": "2026-08-09T14:01:50.235Z"
+      "angle": "Exact credit profile, documentation, and 21-day timeline for AOS approval — including the three disqualifiers most applicants miss."
     },
     {
       "status": "published",
@@ -1139,13 +1039,11 @@
       "publishedAt": "2026-08-10T14:01:29.268Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "how to niche down a general marketing agency without losing clients",
       "intent": "informational",
-      "angle": "The 90-day transition playbook: repositioning, offer redesign, and the client-retention script that keeps 70%+ of legacy accounts.",
-      "slug": "the-best-way-to-finance-ppc-ad-spend-for-service-businesses",
-      "publishedAt": "2026-08-10T14:01:46.520Z"
+      "angle": "The 90-day transition playbook: repositioning, offer redesign, and the client-retention script that keeps 70%+ of legacy accounts."
     },
     {
       "status": "published",
@@ -1157,13 +1055,11 @@
       "publishedAt": "2026-08-11T14:01:29.824Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "hire fractional cmo vs marketing agency for saas startup",
       "intent": "transactional",
-      "angle": "When a $8k fractional CMO out-produces a $15k agency retainer for seed-to-Series-A SaaS, and the exact hybrid model that wins.",
-      "slug": "marketing-agency-profit-margin-benchmarks-2026-real-numbers",
-      "publishedAt": "2026-08-11T14:01:53.818Z"
+      "angle": "When a $8k fractional CMO out-produces a $15k agency retainer for seed-to-Series-A SaaS, and the exact hybrid model that wins."
     },
     {
       "status": "published",
@@ -1175,13 +1071,11 @@
       "publishedAt": "2026-08-12T14:01:45.306Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "meta ads for personal injury law firms",
       "intent": "commercial",
-      "angle": "Why most PI firms burn cash on Meta and the exact creative-to-intake funnel structure that actually produces signed cases under $400 per qualified lead.",
-      "slug": "google-ads-for-window-replacement-contractors-cost-per-lead",
-      "publishedAt": "2026-08-12T14:02:06.302Z"
+      "angle": "Why most PI firms burn cash on Meta and the exact creative-to-intake funnel structure that actually produces signed cases under $400 per qualified lead."
     },
     {
       "status": "published",
@@ -1193,13 +1087,11 @@
       "publishedAt": "2026-08-13T14:01:35.492Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "lead generation for commercial solar installers",
       "intent": "commercial",
-      "angle": "Why residential solar tactics fail for commercial and the 3-channel outbound + LinkedIn + Google Ads stack that fills a $2M+ commercial solar pipeline.",
-      "slug": "how-to-structure-google-ads-for-multi-location-service-businesses",
-      "publishedAt": "2026-08-13T14:02:02.279Z"
+      "angle": "Why residential solar tactics fail for commercial and the 3-channel outbound + LinkedIn + Google Ads stack that fills a $2M+ commercial solar pipeline."
     },
     {
       "status": "published",
@@ -1211,13 +1103,11 @@
       "publishedAt": "2026-08-14T14:01:30.399Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "best lead sources for mortgage loan officers 2026",
       "intent": "commercial",
-      "angle": "Ranks Zillow, Bankrate, Facebook lead ads, and Google LSAs by close rate and cost per funded loan based on 2026 broker data.",
-      "slug": "how-to-hire-a-lead-generation-agency-for-concrete-contractors",
-      "publishedAt": "2026-08-14T14:02:12.465Z"
+      "angle": "Ranks Zillow, Bankrate, Facebook lead ads, and Google LSAs by close rate and cost per funded loan based on 2026 broker data."
     },
     {
       "status": "published",
@@ -1229,13 +1119,11 @@
       "publishedAt": "2026-08-15T14:01:37.963Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "gohighlevel vs keap for solo service business owners",
       "intent": "commercial",
-      "angle": "Head-to-head for one-person shops under $500k revenue: pricing, learning curve, and which platform actually gets used versus abandoned after 60 days.",
-      "slug": "how-to-automate-estimate-follow-up-for-hvac-companies-2uag",
-      "publishedAt": "2026-08-15T14:01:47.259Z"
+      "angle": "Head-to-head for one-person shops under $500k revenue: pricing, learning curve, and which platform actually gets used versus abandoned after 60 days."
     },
     {
       "status": "published",
@@ -1247,13 +1135,11 @@
       "publishedAt": "2026-08-16T14:01:23.907Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "how to use ai to generate ugc style video ads for meta",
       "intent": "informational",
-      "angle": "The Arcads + HeyGen + ElevenLabs stack producing scroll-stopping UGC ads at $12 each, with the prompt frameworks that beat human-shot creative in 60% of tests.",
-      "slug": "automated-lead-routing-by-zip-code-in-gohighlevel-full-build",
-      "publishedAt": "2026-08-16T14:01:57.487Z"
+      "angle": "The Arcads + HeyGen + ElevenLabs stack producing scroll-stopping UGC ads at $12 each, with the prompt frameworks that beat human-shot creative in 60% of tests."
     },
     {
       "status": "published",
@@ -1274,13 +1160,11 @@
       "publishedAt": "2026-08-18T14:01:33.244Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "aos funding vs 0 percent business credit cards for buying leads",
       "intent": "commercial",
-      "angle": "Real math on cost of capital: when $75k in stacked 0% cards beats AOS funding for lead-buying operators, and when it doesn't.",
-      "slug": "ai-voice-agent-for-after-hours-lead-capture-at-law-firms",
-      "publishedAt": "2026-08-18T14:01:59.829Z"
+      "angle": "Real math on cost of capital: when $75k in stacked 0% cards beats AOS funding for lead-buying operators, and when it doesn't."
     },
     {
       "status": "published",
@@ -1292,13 +1176,11 @@
       "publishedAt": "2026-08-19T14:01:31.876Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "aos funding for real estate investors",
       "intent": "transactional",
-      "angle": "How investors are using $50k-$150k in AOS capital for earnest money, rehab reserves, and marketing spend when hard money won't cover the gap.",
-      "slug": "how-to-use-business-credit-to-launch-a-hvac-company-in-90-days-utkv",
-      "publishedAt": "2026-08-19T14:02:13.979Z"
+      "angle": "How investors are using $50k-$150k in AOS capital for earnest money, rehab reserves, and marketing spend when hard money won't cover the gap."
     },
     {
       "status": "published",
@@ -1310,13 +1192,11 @@
       "publishedAt": "2026-08-20T14:01:36.035Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "marketing agency owner salary benchmarks by revenue tier",
       "intent": "commercial",
-      "angle": "What agency owners actually pay themselves at $250k, $500k, $1M, and $3M ARR — with the operational hires that unlock each jump.",
-      "slug": "how-to-sell-marketing-retainers-to-blue-collar-business-owners-ahwn",
-      "publishedAt": "2026-08-20T14:02:05.758Z"
+      "angle": "What agency owners actually pay themselves at $250k, $500k, $1M, and $3M ARR — with the operational hires that unlock each jump."
     },
     {
       "status": "published",
@@ -1328,13 +1208,11 @@
       "publishedAt": "2026-08-21T14:01:42.517Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "meta ads for chiropractors near me offer",
       "intent": "commercial",
-      "angle": "Why $19 new-patient exam offers still print in 2026, the creative angles that survive Meta's health ad restrictions, and a 7-day funnel that converts at under $40 booked appointments.",
-      "slug": "google-ads-for-tree-service-companies-cost-per-lead-data",
-      "publishedAt": "2026-08-21T14:02:31.274Z"
+      "angle": "Why $19 new-patient exam offers still print in 2026, the creative angles that survive Meta's health ad restrictions, and a 7-day funnel that converts at under $40 booked appointments."
     },
     {
       "status": "published",
@@ -1346,13 +1224,11 @@
       "publishedAt": "2026-08-22T14:01:32.146Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "lead generation for cabinet refinishing contractors",
       "intent": "commercial",
-      "angle": "Why Facebook lead forms beat landing pages for this vertical, the before/after creative formula, and realistic CPL targets ($22-$45) to bid contractors against Angi's shared-lead pricing.",
-      "slug": "how-to-fix-declining-roas-on-meta-ads-after-the-ios-update-6b8g",
-      "publishedAt": "2026-08-22T14:02:10.949Z"
+      "angle": "Why Facebook lead forms beat landing pages for this vertical, the before/after creative formula, and realistic CPL targets ($22-$45) to bid contractors against Angi's shared-lead pricing."
     },
     {
       "status": "published",
@@ -1364,13 +1240,11 @@
       "publishedAt": "2026-08-23T14:01:33.187Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "how to buy exclusive leads for medicare agents without getting burned",
       "intent": "informational",
-      "angle": "Vet lead vendors using a 5-point contract checklist, why 'exclusive' rarely means exclusive, and the callback SLA that separates $18 leads from $85 leads.",
-      "slug": "best-lead-sources-for-commercial-insurance-agents-in-2026-ranked",
-      "publishedAt": "2026-08-23T14:02:31.071Z"
+      "angle": "Vet lead vendors using a 5-point contract checklist, why 'exclusive' rarely means exclusive, and the callback SLA that separates $18 leads from $85 leads."
     },
     {
       "status": "published",
@@ -1382,13 +1256,11 @@
       "publishedAt": "2026-08-24T14:01:34.813Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "how to automate contract signing and onboarding for marketing agencies",
       "intent": "informational",
-      "angle": "The PandaDoc + GHL + Slack stack that turns a signed proposal into a kickoff call, shared drive, and first invoice in under 12 minutes with zero human touch.",
-      "slug": "gohighlevel-automation-for-solar-sales-pipelines-the-65-sit-rate-build",
-      "publishedAt": "2026-08-24T14:02:03.095Z"
+      "angle": "The PandaDoc + GHL + Slack stack that turns a signed proposal into a kickoff call, shared drive, and first invoice in under 12 minutes with zero human touch."
     },
     {
       "status": "published",
@@ -1400,13 +1272,11 @@
       "publishedAt": "2026-08-25T14:01:35.432Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "ai meeting notes tools for account managers at marketing agencies",
       "intent": "commercial",
-      "angle": "Head-to-head test of Fathom, Fireflies, and Otter on client-call accuracy, CRM push, and the one that actually reduces account manager hours by 6+ per week.",
-      "slug": "crm-automation-for-personal-training-studios-trial-to-member",
-      "publishedAt": "2026-08-25T14:02:13.354Z"
+      "angle": "Head-to-head test of Fathom, Fireflies, and Otter on client-call accuracy, CRM push, and the one that actually reduces account manager hours by 6+ per week."
     },
     {
       "status": "published",
@@ -1436,13 +1306,11 @@
       "publishedAt": "2026-08-28T14:01:30.562Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "aos funding for ecommerce inventory purchases",
       "intent": "transactional",
-      "angle": "Why 0% business credit beats Shopify Capital for Q4 inventory buys, the approval sequence that unlocks $100K+, and the payoff strategy before promo rates expire.",
-      "slug": "how-to-use-aos-funding-to-buy-a-book-of-business-0-stack",
-      "publishedAt": "2026-08-28T14:02:44.827Z"
+      "angle": "Why 0% business credit beats Shopify Capital for Q4 inventory buys, the approval sequence that unlocks $100K+, and the payoff strategy before promo rates expire."
     },
     {
       "status": "published",
@@ -1454,13 +1322,11 @@
       "publishedAt": "2026-08-29T14:01:34.552Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "how to hire your first appointment setter for a marketing agency",
       "intent": "informational",
-      "angle": "Philippines vs LATAM vs US comparison on cost, close rates, and ramp time — plus the 30-day scorecard that fires bad setters before they burn your lead list.",
-      "slug": "business-credit-vs-personal-credit-for-funding-a-service-business",
-      "publishedAt": "2026-08-29T14:01:57.984Z"
+      "angle": "Philippines vs LATAM vs US comparison on cost, close rates, and ramp time — plus the 30-day scorecard that fires bad setters before they burn your lead list."
     },
     {
       "status": "published",
@@ -1472,13 +1338,11 @@
       "publishedAt": "2026-08-30T14:01:38.995Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "google ads for pool builders cost per lead 2026",
       "intent": "commercial",
-      "angle": "Benchmark actual CPLs from pool builder accounts ($180-$425), break down by geo and season, and show why call-only + LSA stacking beats search-only campaigns.",
-      "slug": "how-to-transition-your-marketing-agency-to-monthly-retainers",
-      "publishedAt": "2026-08-30T14:02:49.024Z"
+      "angle": "Benchmark actual CPLs from pool builder accounts ($180-$425), break down by geo and season, and show why call-only + LSA stacking beats search-only campaigns."
     },
     {
       "status": "published",
@@ -1490,13 +1354,11 @@
       "publishedAt": "2026-08-31T14:01:33.682Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "how to structure meta ads campaigns for franchise service businesses",
       "intent": "informational",
-      "angle": "Territory-based CBO structure with lead routing rules that prevents franchisees from bidding against each other and cannibalizing CPMs.",
-      "slug": "meta-ads-for-auto-detailing-businesses-the-3-campaign-system",
-      "publishedAt": "2026-08-31T14:01:57.193Z"
+      "angle": "Territory-based CBO structure with lead routing rules that prevents franchisees from bidding against each other and cannibalizing CPMs."
     },
     {
       "status": "published",
@@ -1508,13 +1370,11 @@
       "publishedAt": "2026-09-01T14:01:29.408Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "hire lead generation agency for bathroom remodeling company",
       "intent": "transactional",
-      "angle": "The 5 questions to ask any lead gen agency before signing (exclusivity, appointment show rate guarantees, CRM ownership) and red flags in shared-lead contracts.",
-      "slug": "lead-generation-for-foundation-repair-contractors-that-works",
-      "publishedAt": "2026-09-01T14:02:05.896Z"
+      "angle": "The 5 questions to ask any lead gen agency before signing (exclusivity, appointment show rate guarantees, CRM ownership) and red flags in shared-lead contracts."
     },
     {
       "status": "published",
@@ -1526,13 +1386,11 @@
       "publishedAt": "2026-09-02T14:01:27.108Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a commercial landscaping company",
       "intent": "informational",
-      "angle": "A 3-channel playbook (LinkedIn outbound to property managers, Google LSA, targeted direct mail) that fills a $2M/yr commercial pipeline.",
-      "slug": "best-lead-sources-for-final-expense-insurance-agents-in-2026",
-      "publishedAt": "2026-09-02T14:02:00.637Z"
+      "angle": "A 3-channel playbook (LinkedIn outbound to property managers, Google LSA, targeted direct mail) that fills a $2M/yr commercial pipeline."
     },
     {
       "status": "published",
@@ -1544,13 +1402,11 @@
       "publishedAt": "2026-09-03T14:01:32.478Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "how to automate estimate follow up for painting contractors",
       "intent": "informational",
-      "angle": "The exact 9-touch SMS + email cadence over 21 days that recovers 22% of unsigned estimates for residential painters.",
-      "slug": "gohighlevel-automation-for-mortgage-loan-officers-the-pipeline",
-      "publishedAt": "2026-09-03T14:02:34.831Z"
+      "angle": "The exact 9-touch SMS + email cadence over 21 days that recovers 22% of unsigned estimates for residential painters."
     },
     {
       "status": "published",
@@ -1562,13 +1418,11 @@
       "publishedAt": "2026-09-04T14:01:36.191Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "how to use ai to write meta ads primary text that beats human copy",
       "intent": "informational",
-      "angle": "A prompt framework using winning ad libraries + brand voice training that produces primary text hitting 1.2%+ CTR without sounding AI-generated.",
-      "slug": "best-crm-for-medical-spa-chains-ghl-vs-boulevard-vs-zenoti-xxgk",
-      "publishedAt": "2026-09-04T14:03:22.953Z"
+      "angle": "A prompt framework using winning ad libraries + brand voice training that produces primary text hitting 1.2%+ CTR without sounding AI-generated."
     },
     {
       "status": "published",
@@ -1589,13 +1443,11 @@
       "publishedAt": "2026-09-06T14:01:27.115Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to buy an existing service business",
       "intent": "informational",
-      "angle": "Structuring AOS-backed acquisition capital for sub-$1M service business buyouts, including seller-financing stack and cash-flow-based approval logic.",
-      "slug": "ai-voice-agent-for-booking-hvac-service-calls-the-247-math",
-      "publishedAt": "2026-09-06T14:02:21.811Z"
+      "angle": "Structuring AOS-backed acquisition capital for sub-$1M service business buyouts, including seller-financing stack and cash-flow-based approval logic."
     },
     {
       "status": "published",
@@ -1607,13 +1459,11 @@
       "publishedAt": "2026-09-07T14:01:31.627Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "how to raise agency retainer prices without losing clients",
       "intent": "informational",
-      "angle": "A 60-day price-increase rollout script with performance reporting proof, tiered upgrade offers, and the exact email that raised one agency's ARPU 38%.",
-      "slug": "aos-funding-for-medical-practice-startups-med-spa-and-dental",
-      "publishedAt": "2026-09-07T14:02:39.351Z"
+      "angle": "A 60-day price-increase rollout script with performance reporting proof, tiered upgrade offers, and the exact email that raised one agency's ARPU 38%."
     },
     {
       "status": "published",
@@ -1625,13 +1475,11 @@
       "publishedAt": "2026-09-08T14:01:31.282Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "google ads for roofing companies cost per lead 2026",
       "intent": "commercial",
-      "angle": "Break down real CPL ranges ($65-$180) by region and storm vs retail roofing, with the exact match type + bid strategy combo that keeps CPL under $100.",
-      "slug": "hire-an-agency-coach-vs-join-a-mastermind-to-hit-100k-mrr",
-      "publishedAt": "2026-09-08T14:02:10.278Z"
+      "angle": "Break down real CPL ranges ($65-$180) by region and storm vs retail roofing, with the exact match type + bid strategy combo that keeps CPL under $100."
     },
     {
       "status": "published",
@@ -1643,13 +1491,11 @@
       "publishedAt": "2026-09-09T14:01:20.000Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "how to lower cpm on meta ads for local service businesses",
       "intent": "informational",
-      "angle": "Six-lever framework (creative volume, audience size, placement pruning, dayparting, hook variety, frequency caps) with benchmarks for when each lever moves CPM.",
-      "slug": "meta-ads-for-dental-implant-clinics-the-47-consult-funnel-3h5f",
-      "publishedAt": "2026-09-09T14:02:03.050Z"
+      "angle": "Six-lever framework (creative volume, audience size, placement pruning, dayparting, hook variety, frequency caps) with benchmarks for when each lever moves CPM."
     },
     {
       "status": "published",
@@ -1661,13 +1507,11 @@
       "publishedAt": "2026-09-10T14:01:25.141Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "how to get more leads for a fencing company",
       "intent": "informational",
-      "angle": "Stack Google LSAs + retargeted Meta video + GBP review velocity as the three-channel playbook that gets fencing contractors to 40+ estimates a month.",
-      "slug": "best-lead-sources-for-auto-insurance-agents-2026-ranked",
-      "publishedAt": "2026-09-10T14:02:39.626Z"
+      "angle": "Stack Google LSAs + retargeted Meta video + GBP review velocity as the three-channel playbook that gets fencing contractors to 40+ estimates a month."
     },
     {
       "status": "published",
@@ -1688,13 +1532,11 @@
       "publishedAt": "2026-09-12T14:01:37.887Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for insurance agency lead intake",
       "intent": "commercial",
-      "angle": "Snapshot walkthrough: inbound lead to quoted policy in under 4 minutes using SMS, missed-call-text-back, and round-robin routing across producers.",
-      "slug": "lead-generation-for-commercial-electricians-go-outbound-first",
-      "publishedAt": "2026-09-12T14:02:28.791Z"
+      "angle": "Snapshot walkthrough: inbound lead to quoted policy in under 4 minutes using SMS, missed-call-text-back, and round-robin routing across producers."
     },
     {
       "status": "published",
@@ -1706,13 +1548,11 @@
       "publishedAt": "2026-09-13T14:01:35.036Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "best crm for commercial cleaning companies",
       "intent": "commercial",
-      "angle": "Head-to-head of Jobber, ServiceTitan, and GHL for commercial janitorial ops — pick by bid volume, not feature checklists.",
-      "slug": "how-to-automate-proposal-follow-up-for-marketing-agencies-xnci",
-      "publishedAt": "2026-09-13T14:04:12.045Z"
+      "angle": "Head-to-head of Jobber, ServiceTitan, and GHL for commercial janitorial ops — pick by bid volume, not feature checklists."
     },
     {
       "status": "published",
@@ -1724,13 +1564,11 @@
       "publishedAt": "2026-09-14T14:01:29.668Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "best ai voice agents for medical spa appointment booking",
       "intent": "commercial",
-      "angle": "Compare Retell, Vapi, Bland, and Synthflow on booking conversion, HIPAA posture, and per-minute cost for med spa front-desk replacement.",
-      "slug": "how-to-use-ai-to-generate-seo-content-briefs-at-scale-30week",
-      "publishedAt": "2026-09-14T14:02:44.737Z"
+      "angle": "Compare Retell, Vapi, Bland, and Synthflow on booking conversion, HIPAA posture, and per-minute cost for med spa front-desk replacement."
     },
     {
       "status": "published",
@@ -1760,13 +1598,11 @@
       "publishedAt": "2026-09-17T14:01:33.730Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "apply for aos funding with an llc less than 2 years old",
       "intent": "transactional",
-      "angle": "Exact documentation stack (EIN, business bank statements, personal FICO floor) and the mistakes on the application that trigger auto-declines.",
-      "slug": "aos-funding-vs-merchant-cash-advance-for-service-businesses-nd2y",
-      "publishedAt": "2026-09-17T14:02:53.071Z"
+      "angle": "Exact documentation stack (EIN, business bank statements, personal FICO floor) and the mistakes on the application that trigger auto-declines."
     },
     {
       "status": "published",
@@ -1778,13 +1614,11 @@
       "publishedAt": "2026-09-18T14:01:25.522Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Agency Growth",
       "keyword": "hire a white label seo provider for marketing agency",
       "intent": "transactional",
-      "angle": "Vetting checklist for white-label SEO vendors — link quality audits, reporting cadence, and the markup math that keeps 60%+ margin intact.",
-      "slug": "how-to-build-a-marketing-agency-case-study-library-that-closes",
-      "publishedAt": "2026-09-18T14:02:33.342Z"
+      "angle": "Vetting checklist for white-label SEO vendors — link quality audits, reporting cadence, and the markup math that keeps 60%+ margin intact."
     },
     {
       "status": "published",
@@ -1796,13 +1630,11 @@
       "publishedAt": "2026-09-19T14:01:35.853Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "meta ads for hvac tune up offers in shoulder season",
       "intent": "informational",
-      "angle": "Show the exact $79 tune-up creative angle, audience, and daily budget that keeps HVAC crews booked during March and October dead months.",
-      "slug": "google-ads-for-siding-contractors-cost-per-lead-in-2026",
-      "publishedAt": "2026-09-19T14:03:08.053Z"
+      "angle": "Show the exact $79 tune-up creative angle, audience, and daily budget that keeps HVAC crews booked during March and October dead months."
     },
     {
       "status": "published",
@@ -1814,13 +1646,11 @@
       "publishedAt": "2026-09-20T14:01:33.193Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "lead generation for epoxy flooring contractors",
       "intent": "commercial",
-      "angle": "Rank the 4 channels (Meta, GLSA, YouTube, door-to-door lists) by CPL and close rate for residential garage epoxy jobs.",
-      "slug": "hire-a-lead-generation-agency-for-commercial-hvac-vetting-guide",
-      "publishedAt": "2026-09-20T14:02:13.632Z"
+      "angle": "Rank the 4 channels (Meta, GLSA, YouTube, door-to-door lists) by CPL and close rate for residential garage epoxy jobs."
     },
     {
       "status": "published",
@@ -1832,13 +1662,11 @@
       "publishedAt": "2026-09-21T14:01:26.091Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for personal injury law firm intake",
       "intent": "informational",
-      "angle": "Full intake workflow build: signed retainer in under 4 hours using missed-call text-back, AI qualifying questions, and paralegal handoff triggers.",
-      "slug": "best-lead-sources-for-life-insurance-agents-2026-ranked-by-cost",
-      "publishedAt": "2026-09-21T14:03:18.328Z"
+      "angle": "Full intake workflow build: signed retainer in under 4 hours using missed-call text-back, AI qualifying questions, and paralegal handoff triggers."
     },
     {
       "status": "published",
@@ -1850,13 +1678,11 @@
       "publishedAt": "2026-09-22T14:01:27.579Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "best crm for solar sales teams",
       "intent": "commercial",
-      "angle": "Compare GHL, Enerflo, and Sunbase on pipeline visibility, financing integrations, and setter-to-closer handoff for door-to-door solar orgs.",
-      "slug": "how-to-automate-rehash-of-dead-leads-in-gohighlevel-90-days",
-      "publishedAt": "2026-09-22T14:03:32.849Z"
+      "angle": "Compare GHL, Enerflo, and Sunbase on pipeline visibility, financing integrations, and setter-to-closer handoff for door-to-door solar orgs."
     },
     {
       "status": "published",
@@ -1895,13 +1721,11 @@
       "publishedAt": "2026-09-25T14:01:59.273Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "aos funding for chiropractic practice equipment",
       "intent": "transactional",
-      "angle": "How chiropractors stack 0% intro credit lines through AOS to finance $80k in decompression tables without touching SBA.",
-      "slug": "how-to-use-aos-funding-to-buy-a-competitor-service-business-5b0n",
-      "publishedAt": "2026-09-25T14:02:12.383Z"
+      "angle": "How chiropractors stack 0% intro credit lines through AOS to finance $80k in decompression tables without touching SBA."
     },
     {
       "status": "published",
@@ -1913,13 +1737,11 @@
       "publishedAt": "2026-09-26T14:01:22.751Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "how much does aos funding cost in fees and interest",
       "intent": "informational",
-      "angle": "Full cost breakdown of AOS packages including origination, 0% intro periods, and effective APR after month 12 balance transfer.",
-      "slug": "business-credit-tradelines-that-report-in-30-days-ranked",
-      "publishedAt": "2026-09-26T14:01:23.880Z"
+      "angle": "Full cost breakdown of AOS packages including origination, 0% intro periods, and effective APR after month 12 balance transfer."
     },
     {
       "status": "published",
@@ -1958,13 +1780,11 @@
       "publishedAt": "2026-09-30T14:01:28.974Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Paid Media",
       "keyword": "meta ads for orthodontists invisalign offer",
       "intent": "commercial",
-      "angle": "A tested funnel for Invisalign consult bookings: offer stack, creative angles, lead form vs landing page, and the CPL benchmark separating winners from losers.",
-      "slug": "google-ads-for-junk-removal-real-cost-per-lead-in-2026",
-      "publishedAt": "2026-09-30T14:01:32.033Z"
+      "angle": "A tested funnel for Invisalign consult bookings: offer stack, creative angles, lead form vs landing page, and the CPL benchmark separating winners from losers."
     },
     {
       "status": "published",
@@ -1976,13 +1796,11 @@
       "publishedAt": "2026-10-01T14:01:23.018Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "lead generation for commercial paving contractors",
       "intent": "commercial",
-      "angle": "Why LinkedIn outbound + geo-fenced YouTube beats Google Ads for $50k+ commercial paving jobs, with a channel mix built for 90-day sales cycles.",
-      "slug": "how-to-structure-google-ads-campaigns-for-seasonal-service-businesses-rhzb",
-      "publishedAt": "2026-10-01T14:01:29.572Z"
+      "angle": "Why LinkedIn outbound + geo-fenced YouTube beats Google Ads for $50k+ commercial paving jobs, with a channel mix built for 90-day sales cycles."
     },
     {
       "status": "published",
@@ -1994,13 +1812,11 @@
       "publishedAt": "2026-10-02T14:01:26.602Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "best lead sources for health insurance agents 2026",
       "intent": "commercial",
-      "angle": "Ranked breakdown of exclusive vs shared vs owned lead sources for health agents post-CMS rule changes, with contact-to-close rates by source.",
-      "slug": "hire-a-lead-generation-agency-for-tree-removal-what-to-pay",
-      "publishedAt": "2026-10-02T14:02:01.991Z"
+      "angle": "Ranked breakdown of exclusive vs shared vs owned lead sources for health agents post-CMS rule changes, with contact-to-close rates by source."
     },
     {
       "status": "published",
@@ -2021,13 +1837,11 @@
       "publishedAt": "2026-10-04T14:01:22.784Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "how to automate quote follow up for window cleaning companies",
       "intent": "informational",
-      "angle": "A 14-day 7-touch SMS + email sequence that recovers 22-30% of quoted-but-cold window cleaning jobs, with actual message copy included.",
-      "slug": "gohighlevel-automation-for-chiropractic-new-patient-intake-2x16",
-      "publishedAt": "2026-10-04T14:01:23.166Z"
+      "angle": "A 14-day 7-touch SMS + email sequence that recovers 22-30% of quoted-but-cold window cleaning jobs, with actual message copy included."
     },
     {
       "status": "published",
@@ -2057,13 +1871,11 @@
       "publishedAt": "2026-10-07T14:01:26.290Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "how to use ai to write ppc landing page headlines that lift conversion",
       "intent": "informational",
-      "angle": "A 5-variant Claude prompt framework tied to message-match scoring that lifts landing page CVR 18-40% without touching the offer.",
-      "slug": "best-ai-voice-agent-for-real-estate-inbound-lead-qualification-ejme",
-      "publishedAt": "2026-10-07T14:01:26.525Z"
+      "angle": "A 5-variant Claude prompt framework tied to message-match scoring that lifts landing page CVR 18-40% without touching the offer."
     },
     {
       "status": "published",
@@ -2084,13 +1896,11 @@
       "publishedAt": "2026-10-09T14:01:35.232Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "how to use business credit to hire a marketing agency",
       "intent": "informational",
-      "angle": "A 90-day plan to fund your first agency retainer entirely on business credit — which cards, tradelines, and vendor accounts to stack in what order.",
-      "slug": "aos-funding-for-franchise-buildout-costs-what-it-really-covers",
-      "publishedAt": "2026-10-09T14:01:46.106Z"
+      "angle": "A 90-day plan to fund your first agency retainer entirely on business credit — which cards, tradelines, and vendor accounts to stack in what order."
     },
     {
       "status": "published",
@@ -2156,13 +1966,11 @@
       "publishedAt": "2026-10-16T14:01:42.773Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "gohighlevel automation for pest control recurring service plans",
       "intent": "informational",
-      "angle": "Full GHL build-out: quarterly service reminders, auto-reschedule logic, invoice automation, and the retention lift (18-24%) we see from stacking SMS + email.",
-      "slug": "lead-generation-for-commercial-window-washing-outbound-wins",
-      "publishedAt": "2026-10-16T14:02:26.738Z"
+      "angle": "Full GHL build-out: quarterly service reminders, auto-reschedule logic, invoice automation, and the retention lift (18-24%) we see from stacking SMS + email."
     },
     {
       "status": "published",
@@ -2183,13 +1991,11 @@
       "publishedAt": "2026-10-18T14:01:28.471Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "AI in Marketing",
       "keyword": "how to use ai to build custom audiences from crm data for meta ads",
       "intent": "informational",
-      "angle": "The AI-powered segmentation workflow that turns messy CRM exports into high-ROAS lookalike seeds, with a 3-tier scoring model you can deploy this week.",
-      "slug": "best-crm-for-home-inspection-companies-isn-vs-spectora-vs-ghl-8yu5",
-      "publishedAt": "2026-10-18T14:01:28.960Z"
+      "angle": "The AI-powered segmentation workflow that turns messy CRM exports into high-ROAS lookalike seeds, with a 3-tier scoring model you can deploy this week."
     },
     {
       "status": "published",
@@ -2300,13 +2106,11 @@
       "publishedAt": "2026-10-28T14:01:25.838Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Lead Generation",
       "keyword": "best lead sources for annuity agents 2026",
       "intent": "commercial",
-      "angle": "Head-to-head on YouTube pre-roll, direct mail retargeting, and Facebook lead ads with real CPL and close rate data for annuity producers.",
-      "slug": "hire-a-lead-generation-agency-for-septic-tank-services-the-vetting-guide",
-      "publishedAt": "2026-10-28T14:01:39.706Z"
+      "angle": "Head-to-head on YouTube pre-roll, direct mail retargeting, and Facebook lead ads with real CPL and close rate data for annuity producers."
     },
     {
       "status": "published",
@@ -2327,13 +2131,11 @@
       "publishedAt": "2026-10-30T14:01:32.372Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Marketing Automation",
       "keyword": "how to automate warranty follow up for hvac companies",
       "intent": "informational",
-      "angle": "12-month automated touch sequence that converts warranty customers into maintenance plan subscribers at 34% opt-in rate.",
-      "slug": "gohighlevel-automation-for-dental-new-patient-intake-the-build",
-      "publishedAt": "2026-10-30T14:01:37.347Z"
+      "angle": "12-month automated touch sequence that converts warranty customers into maintenance plan subscribers at 34% opt-in rate."
     },
     {
       "status": "published",
@@ -2372,13 +2174,11 @@
       "publishedAt": "2026-11-02T15:01:28.709Z"
     },
     {
-      "status": "published",
+      "status": "pending",
       "category": "Funding & AOS",
       "keyword": "how to use aos funding to buy a plumbing company",
       "intent": "informational",
-      "angle": "Deal structure walkthrough: stacking AOS capital with SBA 7(a) to acquire a $1-3M revenue plumbing shop with minimal cash out of pocket.",
-      "slug": "how-to-use-ai-to-detect-meta-ad-fatigue-before-roas-tanks",
-      "publishedAt": "2026-11-02T15:01:34.666Z"
+      "angle": "Deal structure walkthrough: stacking AOS capital with SBA 7(a) to acquire a $1-3M revenue plumbing shop with minimal cash out of pocket."
     },
     {
       "status": "pending",

@@ -1,4 +1,5 @@
 import articlesData from "../content/articles.json";
+import redirectsData from "../content/redirects.json";
 
 export type Article = {
   slug: string;
@@ -21,6 +22,13 @@ const all = (articlesData.articles as Article[]).slice().sort((a, b) =>
 
 export function getAllArticles(): Article[] {
   return all;
+}
+
+// Retired duplicate slugs -> the article that replaced them.
+const redirects = redirectsData as Record<string, string>;
+
+export function getRedirectSlug(slug: string): string | undefined {
+  return redirects[slug];
 }
 
 export function getArticleBySlug(slug: string): Article | undefined {
