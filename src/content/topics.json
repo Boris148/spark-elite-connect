@@ -176,11 +176,13 @@
       "publishedAt": "2026-05-08T14:01:34.061Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead magnets that convert",
       "intent": "informational",
-      "angle": "Lead magnets ranked by 2025 conversion data — what still works post-AI saturation."
+      "angle": "Lead magnets ranked by 2025 conversion data — what still works post-AI saturation.",
+      "slug": "lead-magnets-that-convert-7-formats-ranked-after-ai-saturation",
+      "publishedAt": "2026-11-05T15:12:21.251Z"
     },
     {
       "status": "published",
