@@ -194,11 +194,13 @@
       "publishedAt": "2026-05-09T14:01:30.456Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Agency Growth",
       "keyword": "agency client retention strategies",
       "intent": "informational",
-      "angle": "Why agencies churn clients at month 3 — retention systems built around weekly reporting and proactive comms."
+      "angle": "Why agencies churn clients at month 3 — retention systems built around weekly reporting and proactive comms.",
+      "slug": "agency-client-retention-strategies-that-stop-month-3-churn",
+      "publishedAt": "2026-11-05T15:22:13.422Z"
     },
     {
       "status": "published",
