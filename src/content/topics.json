@@ -212,11 +212,13 @@
       "publishedAt": "2026-05-10T14:01:31.709Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "speed to lead response time",
       "intent": "informational",
-      "angle": "Speed-to-lead data: why under-5-minute response wins, and the automations that make it inevitable."
+      "angle": "Speed-to-lead data: why under-5-minute response wins, and the automations that make it inevitable.",
+      "slug": "speed-to-lead-response-time-why-5-minutes-wins-the-deal",
+      "publishedAt": "2026-11-06T15:01:44.689Z"
     },
     {
       "status": "published",
