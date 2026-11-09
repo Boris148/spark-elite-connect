@@ -266,11 +266,13 @@
       "publishedAt": "2026-05-13T14:01:13.154Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "review request automation for local business",
       "intent": "informational",
-      "angle": "Review request systems that generate 5+ Google reviews a week — timing, channel, and copy patterns."
+      "angle": "Review request systems that generate 5+ Google reviews a week — timing, channel, and copy patterns.",
+      "slug": "review-request-automation-for-local-business-5-reviews-a-week",
+      "publishedAt": "2026-11-09T15:01:26.645Z"
     },
     {
       "status": "published",
