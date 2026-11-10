@@ -329,11 +329,13 @@
       "publishedAt": "2026-06-21T14:01:39.537Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Lead Generation",
       "keyword": "lead generation for plumbers",
       "intent": "commercial",
-      "angle": "Emergency vs scheduled demand, Local Services Ads vs search, and the fastest path to booked plumbing jobs."
+      "angle": "Emergency vs scheduled demand, Local Services Ads vs search, and the fastest path to booked plumbing jobs.",
+      "slug": "lead-generation-for-plumbers-win-emergency-and-scheduled-jobs",
+      "publishedAt": "2026-11-10T15:01:21.916Z"
     },
     {
       "status": "published",
