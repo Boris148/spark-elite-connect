@@ -4,7 +4,15 @@
   <link>https://socialelitemarketinggroup.com/blog</link>
   <description>Operator-grade marketing playbooks from Social Elite Marketing Group.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 15 Nov 2026 15:01:20 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 15:01:29 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[Landing Page Conversion Rate Optimization for Lead Generation]]></title>
+    <link>https://socialelitemarketinggroup.com/blog/landing-page-conversion-rate-optimization-for-lead-generation</link>
+    <guid isPermaLink="true">https://socialelitemarketinggroup.com/blog/landing-page-conversion-rate-optimization-for-lead-generation</guid>
+    <pubDate>Mon, 16 Nov 2026 15:01:29 GMT</pubDate>
+    <category>Lead Generation</category>
+    <description><![CDATA[Most landing pages leak 70%+ of paid clicks. The on-page fixes that turn ad traffic into booked calls: message match, friction, proof, and a CTA that converts.]]></description>
+  </item>
   <item>
     <title><![CDATA[How to Get More Leads for a Service Business: The ROI Stack]]></title>
     <link>https://socialelitemarketinggroup.com/blog/how-to-get-more-leads-for-a-service-business-the-roi-stack</link>
@@ -156,13 +164,5 @@
     <pubDate>Sun, 01 Nov 2026 15:02:01 GMT</pubDate>
     <category>AI in Marketing</category>
     <description><![CDATA[We stress-tested Synthflow, Retell, and Vapi on PI intake calls. Here's the honest breakdown on pricing, conflict checks, and conversion rates.]]></description>
-  </item>
-  <item>
-    <title><![CDATA[How to Use AI to Generate Landing Page Variants for Split Testing]]></title>
-    <link>https://socialelitemarketinggroup.com/blog/how-to-use-ai-to-generate-landing-page-variants-for-split-testing</link>
-    <guid isPermaLink="true">https://socialelitemarketinggroup.com/blog/how-to-use-ai-to-generate-landing-page-variants-for-split-testing</guid>
-    <pubDate>Sat, 31 Oct 2026 14:06:16 GMT</pubDate>
-    <category>AI in Marketing</category>
-    <description><![CDATA[The prompt stack and Unbounce/Instapage workflow we use to ship 8 AI-generated landing page variants a week and lift conversion rates 22% in 60 days.]]></description>
   </item>
 </channel></rss>
