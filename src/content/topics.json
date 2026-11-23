@@ -590,11 +590,13 @@
       "publishedAt": "2026-07-06T14:01:23.926Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Marketing Automation",
       "keyword": "gohighlevel vs activecampaign for service businesses",
       "intent": "commercial",
-      "angle": "A feature-by-feature teardown showing why GHL wins for trades but ActiveCampaign still beats it for ecom-style nurture."
+      "angle": "A feature-by-feature teardown showing why GHL wins for trades but ActiveCampaign still beats it for ecom-style nurture.",
+      "slug": "gohighlevel-vs-activecampaign-for-service-businesses-the-teardown",
+      "publishedAt": "2026-11-23T15:01:16.847Z"
     },
     {
       "status": "published",
