@@ -626,11 +626,13 @@
       "publishedAt": "2026-07-08T14:01:35.001Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "AI in Marketing",
       "keyword": "how to train chatgpt on your brand voice",
       "intent": "informational",
-      "angle": "A 5-step custom GPT build with example system prompts that stops AI copy from sounding like a LinkedIn motivational post."
+      "angle": "A 5-step custom GPT build with example system prompts that stops AI copy from sounding like a LinkedIn motivational post.",
+      "slug": "how-to-train-chatgpt-on-your-brand-voice-a-5-step-custom-gpt-build",
+      "publishedAt": "2026-11-25T15:01:15.126Z"
     },
     {
       "status": "published",
