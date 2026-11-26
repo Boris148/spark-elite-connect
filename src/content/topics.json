@@ -644,11 +644,13 @@
       "publishedAt": "2026-07-09T14:02:03.951Z"
     },
     {
-      "status": "pending",
+      "status": "published",
       "category": "Funding & AOS",
       "keyword": "0 percent business credit cards for startups 2026",
       "intent": "transactional",
-      "angle": "The seven 0% intro APR cards approving new LLCs under 6 months old, ranked by credit limit ceiling and approval odds."
+      "angle": "The seven 0% intro APR cards approving new LLCs under 6 months old, ranked by credit limit ceiling and approval odds.",
+      "slug": "0-percent-business-credit-cards-for-startups-2026-7-ranked",
+      "publishedAt": "2026-11-26T15:01:24.104Z"
     },
     {
       "status": "published",
